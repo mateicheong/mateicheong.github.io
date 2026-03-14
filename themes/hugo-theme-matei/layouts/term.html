@@ -14,6 +14,10 @@
 {{- end -}}
 
 <div>
+    {{ if not .IsHome }}
+        {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+
     <div class="term-title">
         <h1>{{ .Title }}</h1>
         {{ range .AlternativeOutputFormats -}}
