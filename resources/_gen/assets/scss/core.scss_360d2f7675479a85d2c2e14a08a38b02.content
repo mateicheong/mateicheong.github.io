@@ -301,7 +301,7 @@ template, [hidden] {
  * Extra rules that Pure adds on top of Normalize.css
  */
 html {
-  font-family: sans-serif; }
+  font-family: "Inter", sans-serif; }
 
 /**
  * Always hide an element when it has the `hidden` HTML attribute.
@@ -370,7 +370,7 @@ a {
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: system-ui,-apple-system,segoe ui,Roboto,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji; }
+  font-family: "Inter", system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji; }
 
 code, kbd, pre {
   font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace; }
@@ -1149,12 +1149,12 @@ html[data-theme="light"] .pure-menu-children {
 /* Vertical Menus - show the dropdown arrow */
 .pure-menu-has-children > .pure-menu-link:after {
   padding-left: 0.15rem;
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
   content: "▸"; }
 
 /* Horizontal Menus - show the dropdown arrow */
 .pure-menu-horizontal .pure-menu-has-children > .pure-menu-link:after {
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
   content: "▾"; }
 
 /* scrollable menus */
