@@ -9,7 +9,7 @@ draft: false
   <h4>Petite-Bourgogne</h4>
   
   <strong>Full name</strong>  
-  Petite-Bourgogne Football Club
+  Petite-Bourgogne
   
   <strong>Founded</strong>  
   x
