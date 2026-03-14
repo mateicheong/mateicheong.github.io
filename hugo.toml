@@ -1,0 +1,37 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'La Ligue' 
+
+theme = "hugo-theme-monochrome"
+disableRSS = true
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[author]
+  name = "La Ligue"
+  email = "matei.cheong@gmail.com"
+
+[params]
+  description = "La Ligue"
+  showAuthor = false
+  DateFormat = "January 2, 2006"
+
+
+# Navigation menu
+[[menu.main]]
+    name = "Clubs"
+    url = "/club/"
+    weight = 1
+
+[[menu.main]]
+  name = "Seasons"
+  url = "/season/"
+  weight = 2
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
