@@ -2,7 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'La Ligue' 
 
-theme = "hugo-theme-monochrome"
+theme = "hugo-theme-matei"
 disableRSS = true
 disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 

@@ -25,9 +25,9 @@
     mod
   ));
 
-  // ns-hugo-imp:D:\My Data\Coding\la-ligue\themes\hugo-theme-monochrome\assets\lib\js\zooming-v2.1.1.min.js
+  // ns-hugo-imp:D:\My Data\Coding\la-ligue\themes\hugo-theme-matei\assets\lib\js\zooming-v2.1.1.min.js
   var require_zooming_v2_1_1_min = __commonJS({
-    "ns-hugo-imp:D:\\My Data\\Coding\\la-ligue\\themes\\hugo-theme-monochrome\\assets\\lib\\js\\zooming-v2.1.1.min.js"(exports, module) {
+    "ns-hugo-imp:D:\\My Data\\Coding\\la-ligue\\themes\\hugo-theme-matei\\assets\\lib\\js\\zooming-v2.1.1.min.js"(exports, module) {
       !(function(t, e) {
         "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : (t = t || self).Zooming = e();
       })(exports, function() {
