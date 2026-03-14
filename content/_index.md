@@ -5,14 +5,17 @@ title = 'La Ligue'
 +++
 # Bienvenue à La Ligue
 
-This is **bold**
+Home of top flight soccer in Quebec.
+
+This website acts as a database and wiki of a fictional depiction of a growing football league in the province of Quebec in Canada.
 
 ## Current Season
-[**2025-26 Season**](/season/2025-26/)  
+[**2025-26 Season**](/seasons/2025-26/)
+
+[Past seasons →](/seasons/)
 
 ## All Clubs
 - [Petite-Bourgogne](/clubs/petite_bourgogne/)  
 - [Club 2](/clubs/club-2/)  
 - [Club 3](/clubs/club-3/)  
 
-[Full archive →](/season/)
