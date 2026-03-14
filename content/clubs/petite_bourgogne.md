@@ -15,7 +15,7 @@ draft: false
   x
   
   <strong>Ground</strong>  
-  Stade Oscar Peterson (x)
+  Stade Oscar Peterson (8000)
   
   <strong>League</strong>  
   La Ligue
