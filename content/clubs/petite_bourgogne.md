@@ -1,28 +1,35 @@
----
 title: "Petite-Bourgogne"
 date: 2026-03-13
 draft: false
----
-<div class="infobox">
+<div class="infobox infobox--petite-bourgogne">
+  <h4>Petite-Bourgogne</h4>
+
   <img src="/images/clubs/petite_bourgogne.png" width="180" alt="Petite-Bourgogne">
   
-  <h4>Petite-Bourgogne</h4>
-  
-  <strong>Full name</strong>  
-  Petite-Bourgogne
-  
   <strong>Founded</strong>  
-  x
+  2000
   
-  <strong>Ground</strong>  
-  Stade Oscar Peterson (8000)
+  <strong>Stadium</strong>  
+  Stade Oscar Peterson
+
+  <strong>Capacity</strong>  
+  8000
   
+  <strong>Owner</strong>  
+  X Y
+
+  <strong>President</strong>  
+  X Y
+
+  <strong>Head Coach</strong>  
+  X Y
+
   <strong>League</strong>  
   La Ligue
   
-  <strong>2025-26</strong>  
-  xth
+ [**Current Season**](/season/2025-26/petite_bourgogne) 
 </div>
+
 
 
 
