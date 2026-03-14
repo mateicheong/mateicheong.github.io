@@ -1,6 +1,9 @@
+---
 title: "Petite-Bourgogne"
 date: 2026-03-13
 draft: false
+---
+
 <div class="infobox infobox--petite-bourgogne">
   <h4>Petite-Bourgogne</h4>
 
@@ -27,7 +30,7 @@ draft: false
   <strong>League</strong>  
   La Ligue
   
- [**Current Season**](/season/2025-26/petite_bourgogne) 
+  [Current Season](/season/2025-26/petite_bourgogne) 
 </div>
 
 
@@ -36,13 +39,13 @@ draft: false
 
 # Petite-Bourgogne
 
-**Petite-Bourgogne** is a professional football club based in Petite-Bourgogne, Montreal.
+**Petite-Bourgogne** is a professional football club based in Petite-Bourgogne, Montréal.
 
 ## History
-Club history paragraph...
+Club history paragraph
 
 ## Stadium
-Details about Stade Oscar Peterson...
+Details about Stade Oscar Peterson
 
 ## Current squad
 ### Goalkeepers
