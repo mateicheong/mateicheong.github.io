@@ -15,7 +15,10 @@ This website acts as a database and wiki of a fictional depiction of a growing f
 [Past seasons →](/seasons/)
 
 ## All Clubs
-- [Petite-Bourgogne](/clubs/petite_bourgogne/)  
+- <a href="/clubs/petite_bourgogne/" class="club-chip">
+    <img src="/images/clubs/petite_bourgogne_small.png" alt="Petite-Bourgogne logo">
+    <span>Petite-Bourgogne</span>
+  </a>  
 - [Club 2](/clubs/club-2/)  
 - [Club 3](/clubs/club-3/)  
 

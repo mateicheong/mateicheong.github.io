@@ -34,3 +34,30 @@ html[data-theme="dark"] .infobox {
     display: inline-block;
     min-width: 120px;
 }
+
+/* Club link chip - Petite-Bourgogne on homepage */
+.club-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 6px;
+    border-radius: 4px;
+    font-weight: 500;
+    color: #9F2042;
+    background-color: rgba(159, 32, 66, 0.15);
+    text-decoration: none;
+}
+
+.club-chip:hover,
+.club-chip:focus-visible {
+    background-color: rgba(159, 32, 66, 0.20);
+}
+
+.club-chip:hover span,
+.club-chip:focus-visible span {
+    text-decoration: underline;
+}
+
+.club-chip img {
+    display: block;
+}
