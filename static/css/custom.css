@@ -35,22 +35,65 @@ html[data-theme="dark"] .infobox {
     min-width: 120px;
 }
 
-/* Club link chip - Petite-Bourgogne on homepage */
+/* Club link chips on homepage */
 .club-chip {
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 6px;
+    padding: 2px 6px;
     border-radius: 4px;
     font-weight: 500;
-    color: #9F2042;
-    background-color: rgba(159, 32, 66, 0.15);
     text-decoration: none;
 }
 
-.club-chip:hover,
-.club-chip:focus-visible {
-    background-color: rgba(159, 32, 66, 0.20);
+.club-chip--petite-bourgogne {
+    color: #9F2042;
+    background-color: rgba(159, 32, 66, 0.15);
+}
+
+.club-chip--draveurs-sherbrooke {
+    color: #2E6E5F;
+    background-color: rgba(46, 110, 95, 0.15);
+}
+
+.club-chip--navigateurs-rimouski {
+    color: #2D58A7;
+    background-color: rgba(45, 88, 167, 0.15);
+}
+
+.club-chip--deux-rives {
+    color: #6767BA;
+    background-color: rgba(103, 103, 186, 0.15);
+}
+
+.club-chip--hawkesbury-united {
+    color: #1E1E1E;
+    background-color: rgba(30, 30, 30, 0.15);
+}
+
+.club-chip--petite-bourgogne:hover,
+.club-chip--petite-bourgogne:focus-visible {
+    background-color: rgba(159, 32, 66, 0.25);
+}
+
+.club-chip--draveurs-sherbrooke:hover,
+.club-chip--draveurs-sherbrooke:focus-visible {
+    background-color: rgba(46, 110, 95, 0.25);
+}
+
+.club-chip--navigateurs-rimouski:hover,
+.club-chip--navigateurs-rimouski:focus-visible {
+    background-color: rgba(45, 88, 167, 0.25);
+}
+
+.club-chip--deux-rives:hover,
+.club-chip--deux-rives:focus-visible {
+    background-color: rgba(103, 103, 186, 0.25);
+}
+
+.club-chip--hawkesbury-united:hover,
+.club-chip--hawkesbury-united:focus-visible {
+    background-color: rgba(30, 30, 30, 0.25);
 }
 
 .club-chip:hover span,
@@ -60,4 +103,8 @@ html[data-theme="dark"] .infobox {
 
 .club-chip img {
     display: block;
+    width: 25px;
+    height: 25px;
+    cursor: default;
+    pointer-events: none;
 }
