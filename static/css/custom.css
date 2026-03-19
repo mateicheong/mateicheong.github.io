@@ -2,7 +2,7 @@
     float: right;
     width: 280px;
     margin: 0 0 1em 1em;
-    padding: 1.25rem 1.5rem;
+    padding: 1rem 1rem;
     border-radius: 8px;
     background: var(--color-background-card);
     border: 2px solid var(--color-border);
@@ -11,13 +11,6 @@
 .infobox img {
     display: block;
     margin: 0 auto 1rem;
-}
-
-/* Hide theme's heading anchor "hash" icon */
-article .header-anchor-link,
-article .header-anchor-wrapper:hover .header-anchor-link,
-article .header-anchor-wrapper:focus-within .header-anchor-link {
-    display: none !important;
 }
 
 /* Petite-Bourgogne / club-specific accent */
@@ -37,9 +30,56 @@ html[data-theme="dark"] .infobox {
     letter-spacing: 0.02em;
 }
 
-.infobox strong {
-    display: inline-block;
-    min-width: 120px;
+.infobox .infobox-rows {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.infobox .infobox-rows th,
+.infobox .infobox-rows td {
+    padding: 0.15rem 0;
+    vertical-align: baseline;
+}
+
+.infobox .infobox-rows th {
+    width: 40%;
+    text-align: left;
+    font-weight: 600;
+}
+
+.infobox .infobox-rows td {
+    text-align: left;
+}
+
+.club-lead-intro {
+    margin-top: 0;
+}
+
+@media screen and (max-width: 48rem) {
+    .club-lead {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .club-lead .club-lead-intro {
+        order: 1;
+    }
+
+    .club-lead .infobox {
+        order: 2;
+    }
+
+    .infobox {
+        float: none;
+        width: 100%;
+        max-width: none;
+        margin: 0.5rem 0 1rem;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        box-sizing: border-box;
+    }
 }
 
 /* Club link chips on homepage */
