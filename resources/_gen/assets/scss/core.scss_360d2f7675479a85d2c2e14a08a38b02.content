@@ -325,7 +325,7 @@ html[data-theme="light"] {
   --color-text-mark: #171717;
   --color-text-active: #FCFBF8;
   --color-text-disabled: #a3a3a3;
-  --color-border: #F7F4ED;
+  --color-border: #DFE2E6;
   --color-border-collapsible-menu: #e5e5e5;
   --color-background: #FCFBF8;
   --color-background-active: #525252;

@@ -10,7 +10,7 @@ Home of top flight soccer in Quebec.
 This website acts as a wiki for a a fictional football league in Quebec.
 
 ## Current Season
-[**2022-23 Season**](/seasons/2022-23/)
+[**2023 Season**](/seasons/2023/)
 
 [Past seasons →](/seasons/)
 

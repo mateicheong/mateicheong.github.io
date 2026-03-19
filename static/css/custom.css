@@ -46,6 +46,9 @@ html[data-theme="dark"] .infobox {
     width: 40%;
     text-align: left;
     font-weight: 600;
+    padding-right: 0.5rem;
+    word-break: break-word;
+    white-space: normal;
 }
 
 .infobox .infobox-rows td {
