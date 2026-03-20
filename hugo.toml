@@ -19,7 +19,6 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   description = "La Ligue"
   showAuthor = false
   DateFormat = "January 2, 2006"
-  enable_zooming_js = false
 
 
 # Navigation menu

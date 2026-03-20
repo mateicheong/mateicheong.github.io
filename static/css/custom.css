@@ -66,12 +66,6 @@ html[data-theme="dark"] .infobox {
     gap: 0.35rem;
 }
 
-.infobox .infobox-rows .infobox-season .infobox-season-icon {
-    width: 18px;
-    height: 18px;
-    margin: 0;
-}
-
 .club-lead-intro {
     margin-top: 0;
 }

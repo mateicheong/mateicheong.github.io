@@ -21,7 +21,7 @@ draft: false
 <tr><th>President</th><td>X Y</td></tr>
 <tr><th>Head Coach</th><td>X Y</td></tr>
 <tr><th>League</th><td>La Ligue</td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite_bourgogne"><img src="/images/icons/circle-star.svg" alt="" class="infobox-season-icon">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite_bourgogne">Current Season</a></td></tr>
 </table>
 </div>
 
