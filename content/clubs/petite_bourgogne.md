@@ -21,7 +21,7 @@ draft: false
 <tr><th>President</th><td>X Y</td></tr>
 <tr><th>Head Coach</th><td>X Y</td></tr>
 <tr><th>League</th><td>La Ligue</td></tr>
-<tr><th>Season</th><td><a href="/seasons/2025-26/petite_bourgogne">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite_bourgogne"><img src="/images/icons/circle-star.svg" alt="" class="infobox-season-icon">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -36,8 +36,40 @@ Club history paragraph
 Details about Stade Oscar Peterson
 
 ## Current squad
-### Goalkeepers
-- Player 1
+<div class="squad-grid">
+<table class="squad-table">
+<thead>
+<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+</tbody>
+</table>
 
-### Defenders
-- Player 2
+<table class="squad-table">
+<thead>
+<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
+</thead>
+<tbody>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+</tbody>
+</table>
+</div>

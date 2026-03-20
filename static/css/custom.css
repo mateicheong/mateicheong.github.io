@@ -55,8 +55,48 @@ html[data-theme="dark"] .infobox {
     text-align: left;
 }
 
+.infobox .infobox-rows .infobox-season {
+    text-align: center;
+    padding-top: 0.5rem;
+}
+
+.infobox .infobox-rows .infobox-season a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
+.infobox .infobox-rows .infobox-season .infobox-season-icon {
+    width: 18px;
+    height: 18px;
+    margin: 0;
+}
+
 .club-lead-intro {
     margin-top: 0;
+}
+
+.squad-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+}
+
+.squad-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+}
+
+.squad-table th {
+    text-align: left;
+    padding: 0.3rem 0.35rem;
+    background-color: #9F2042;
+    color: #FFFFFF;
+}
+
+.squad-table td {
+    padding: 0.3rem 0.35rem;
 }
 
 @media screen and (max-width: 48rem) {
@@ -82,6 +122,10 @@ html[data-theme="dark"] .infobox {
         padding-left: 0.5rem;
         padding-right: 0.5rem;
         box-sizing: border-box;
+    }
+
+    .squad-grid {
+        grid-template-columns: 1fr;
     }
 }
 
@@ -174,3 +218,5 @@ html[data-theme="dark"] .club-chip--hawkesbury-united:focus-visible {
     cursor: default;
     pointer-events: none;
 }
+
+
