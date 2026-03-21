@@ -14,11 +14,10 @@ draft: false
 <img src="/images/clubs/petite_bourgogne.png" width="180" alt="Petite-Bourgogne">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2000</td></tr>
+<tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
-<tr><th>Capacity</th><td>8000</td></tr>
+<tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>X Y</td></tr>
-<tr><th>President</th><td>X Y</td></tr>
 <tr><th>Head Coach</th><td>X Y</td></tr>
 <tr><th>League</th><td>La Ligue</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite_bourgogne">Current Season</a></td></tr>
