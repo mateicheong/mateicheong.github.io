@@ -19,6 +19,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
   description = "La Ligue"
   showAuthor = false
   DateFormat = "January 2, 2006"
+  # Disable click-to-zoom on images (theme Zooming.js)
+  enable_zooming_js = false
 
 
 # Navigation menu

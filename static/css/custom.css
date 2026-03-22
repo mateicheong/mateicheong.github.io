@@ -93,6 +93,15 @@ html[data-theme="dark"] .infobox {
     padding: 0.3rem 0.35rem;
 }
 
+/* Flag icons in squad tables (Hugo serves static/ at site root: /images/flags/...) */
+.squad-table img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 18px;
+    height: auto;
+    max-width: none;
+}
+
 @media screen and (max-width: 48rem) {
     .club-lead {
         display: flex;

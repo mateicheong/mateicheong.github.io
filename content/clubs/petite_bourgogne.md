@@ -41,16 +41,16 @@ Details about Stade Oscar Peterson
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>1</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
 </tbody>
 </table>
 
@@ -59,16 +59,16 @@ Details about Stade Oscar Peterson
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
-<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"></td><td>Name Name</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>5</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>6</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>7</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>8</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>9</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>10</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
 </tbody>
 </table>
 </div>
