@@ -179,6 +179,36 @@ html[data-theme="dark"] .club-chip--hawkesbury-united {
     background-color: rgba(252, 229, 207, 0.15);
 }
 
+.club-chip--club-du-fjord {
+    color: #067EBB;
+    background-color: rgba(6, 126, 187, 0.15);
+}
+
+.club-chip--rouyn-noranda {
+    color: #F93529;
+    background-color: rgba(249, 53, 41, 0.15);
+}
+
+.club-chip--laval-nord {
+    color: #383838;
+    background-color: rgba(56, 56, 56, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--laval-nord {
+    color: #D8F8D8;
+    background-color: rgba(216, 248, 216, 0.15);
+}
+
+.club-chip--cf-saint-jean {
+    color: #491D75;
+    background-color: rgba(73, 29, 117, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--cf-saint-jean {
+    color: #F6B74E;
+    background-color: rgba(246, 183, 78, 0.15);
+}
+
 .club-chip--petite-bourgogne:hover,
 .club-chip--petite-bourgogne:focus-visible {
     background-color: rgba(159, 32, 66, 0.25);
@@ -207,6 +237,36 @@ html[data-theme="dark"] .club-chip--hawkesbury-united {
 html[data-theme="dark"] .club-chip--hawkesbury-united:hover,
 html[data-theme="dark"] .club-chip--hawkesbury-united:focus-visible {
     background-color: rgba(252, 229, 207, 0.25);
+}
+
+.club-chip--club-du-fjord:hover,
+.club-chip--club-du-fjord:focus-visible {
+    background-color: rgba(6, 126, 187, 0.25);
+}
+
+.club-chip--rouyn-noranda:hover,
+.club-chip--rouyn-noranda:focus-visible {
+    background-color: rgba(249, 53, 41, 0.25);
+}
+
+.club-chip--laval-nord:hover,
+.club-chip--laval-nord:focus-visible {
+    background-color: rgba(56, 56, 56, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--laval-nord:hover,
+html[data-theme="dark"] .club-chip--laval-nord:focus-visible {
+    background-color: rgba(216, 248, 216, 0.25);
+}
+
+.club-chip--cf-saint-jean:hover,
+.club-chip--cf-saint-jean:focus-visible {
+    background-color: rgba(73, 29, 117, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--cf-saint-jean:hover,
+html[data-theme="dark"] .club-chip--cf-saint-jean:focus-visible {
+    background-color: rgba(246, 183, 78, 0.25);
 }
 
 .club-chip:hover span,
