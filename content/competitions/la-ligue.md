@@ -1,46 +1,59 @@
 ---
-title: "2023 La Ligue season"
-url: "/seasons/2023/"
-date: 2026-03-18
+title: "La Ligue"
+date: 2026-03-25
 draft: false
+url: "/competitions/la-ligue/"
+aliases:
+  - /competitions/la_ligue/
 ---
 
-# 2023 La Ligue season
+# La Ligue
 
 
 <div class="club-lead">
-<div class="infobox">
-<h4>2023 La Ligue season</h4>
+<div class="infobox infobox--la-ligue">
+<h4>La Ligue</h4>
+
+<img src="/images/competitions/la_ligue.png" width="180" alt="La Ligue">
 
 <table class="infobox-rows">
-<tr><th>Season</th><td>2023</td></tr>
-<tr><th>Dates</th><td>April 13 - October 18</td></tr>
-<tr><th>Champions</th><td>x</td></tr>
-<tr><th>Matches</th><td>x</td></tr>
-<tr><th>Top goalscorer</th><td>x</td></tr>
-<tr><th>Biggest win</th><td>x</td></tr>
-<tr><th>League</th><td>x</td></tr>
+<tr><th>Founded</th><td>September 15, 2022</td></tr>
+<tr><th>First Season</th><td><a href="/seasons/2023/">2023</a></td></tr>
+<tr><th>Confederation</th><td>CONCACAF</td></tr>
+<tr><th>Number of clubs</th><td>18</td></tr>
+<tr><th>Domestic cup</th><td>Canadian Championship</td></tr>
+<tr><th>International cup</th><td>CONCACAF Champions Cup</td></tr>
+<tr><th>Current champions</th><td>x</td></tr>
+<tr><th>Most championships</th><td>x</td></tr>
+<tr><th>Most appearances</th><td>x</td></tr>
+<tr><th>Top scorer</th><td>x</td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
 </div>
 
-<p class="club-lead-intro">The <strong>2023 La Ligue season</strong> was the inaugural season of <a href="/competitions/la-ligue/">La Ligue.</a> </p>
+<p class="club-lead-intro"><strong>La Ligue</strong> is the top-flight football competition in Quebec. The league comprises 18 teams and is sanctioned by the Canadian Soccer Association. Seasons run from April to October with each team playing 34 matches: two against each other team, one home and one away. Most games are played on weekend afternoons, with occasional Friday fixtures.</p>
 </div>
 
 
-## Overview
-### Background
-On September 15, 2021, La Ligue was unanimously approved and sanctioned by the Canadian Soccer Association. Open tryouts were held in Montréal, Québec City, Gatineau, and Sherbrooke for players aged 15 and older. The province's first professional football league debuted with eighteen clubs, representing cities and regions across Quebec as well as one in Ontario.
+## History
+Following the growth of the sport among supporters and the surge of young talent from the province in Canadian Premier League clubs, La Ligue was unanimously approved and sanctioned on September 15, 2021. The main objective to develop players. Despite an existing semi-professional league existing already in Quebec, a separate competition was decided to be created to run alongside.
 
-### Clubs
-Eighteen clubs competed during this season - all newly formed teams.
+## Competition format
+There are 18 clubs in La Ligue. During the course of a season each club plays the other twice, once at their home stadium and once at that of their opponents, for 34 games. Seasons usually start on the third weekend of April and end on the third weekend of October. Teams receive three points for a win and one for a draw. Teams are ranked by total points, then goals scored, then games won, then matches between teams. As of today, the league does not feature promotion or relegation. The objective is to introduce it further on as more teams could potentially compete in the soccer pyramid in Québec.
 
+#### Other competitions featuring La Ligue clubs
+All La Ligue clubs compete in Québec's domestic cup - <a href="/competitions/coupe_du_québec/">Coupe du Québec</a> featuring all clubs in the province including Ligue1 Québec clubs. The top five clubs from the previous season also compete in the Canadian Championship alongside all Canadian clubs, including Canadian Premier League and MLS teams.
+
+## Clubs
+Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Hawkesbury United</a> resides in Ontario. Two clubs reside in Montréal, <a href="/clubs/athlétique_de_montréal/">Athlétique de Montréal</a> and <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>
 <table id="teams-table-2023">
   <thead>
     <tr>
       <th scope="col">Team</th>
       <th scope="col">Location</th>
       <th scope="col">Stadium</th>
-      <th scope="col">Capacity</th>
+      <th scope="col">Joined</th>
+      <th scope="col">La Ligue titles</th>
     </tr>
   </thead>
   <tbody>
@@ -48,19 +61,22 @@ Eighteen clubs competed during this season - all newly formed teams.
       <td>AS Drummond</td>
       <td>Drummondville</td>
       <td>Stade Marchand</td>
-      <td>6,960</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Athlétique de Montréal</td>
       <td>Montréal (Hochelaga)</td>
       <td>Olympic Stadium</td>
-      <td>72,000</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Bastions de Québec</td>
       <td>Quebec City</td>
       <td>Stade Beauport</td>
-      <td>17,620</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/club_du_fjord/" class="club-chip club-chip--club-du-fjord">
@@ -69,13 +85,15 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Saguenay</td>
       <td>Stade Saguenay</td>
-      <td>8,810</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>CS Châteauguay</td>
       <td>Châteauguay</td>
       <td>Stade du Lac Saint-Louis</td>
-      <td>5,920</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/deux_rives/" class="club-chip club-chip--deux-rives">
@@ -84,7 +102,8 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Vaudreuil-Dorion</td>
       <td>Jardins Dorion</td>
-      <td>5,460</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/draveurs_sherbrooke/" class="club-chip club-chip--draveurs-sherbrooke">
@@ -93,7 +112,8 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Sherbrooke</td>
       <td>Stade de l'Université Sherbrooke</td>
-      <td>12,500</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/hawkesbury_united/" class="club-chip club-chip--hawkesbury-united">
@@ -102,13 +122,15 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Hawkesbury</td>
       <td>Stade Robert Harley</td>
-      <td>3,380</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Kichi Sibi</td>
       <td>Gatineau</td>
       <td>Stade de la Cité</td>
-      <td>11,190</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
         <tr>
       <td><a href="/clubs/laval_nord/" class="club-chip club-chip--laval-nord">
@@ -117,25 +139,29 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Laval</td>
       <td>Parc Cartier</td>
-      <td>10,240</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Lévis</td>
       <td>Lévis</td>
       <td>Stade de la Chaudière</td>
-      <td>8,430</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Locomotive</td>
       <td>Saint-Jérome</td>
       <td>Stade Desjardins</td>
-      <td>7,340</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Métabéroutin</td>
       <td>Trois-Rivières</td>
       <td>Stade Martin-Bergeron</td>
-      <td>8,960</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/navigateurs_rimouski/" class="club-chip club-chip--navigateurs-rimouski">
@@ -144,7 +170,8 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Rimouski</td>
       <td>Stade Ernest-Lepage</td>
-      <td>5,870</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/petite-bourgogne/" class="club-chip club-chip--petite-bourgogne">
@@ -153,7 +180,8 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Montréal (Petite-Bourgogne)</td>
       <td>Stade Oscar Peterson</td>
-      <td>11,340</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/rouyn_noranda/" class="club-chip club-chip--rouyn-noranda">
@@ -162,7 +190,8 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Rouyn-Noranda</td>
       <td>Place Osisko</td>
-      <td>5,340</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td><a href="/clubs/cf_saint_jean/" class="club-chip club-chip--cf-saint-jean">
@@ -171,13 +200,15 @@ Eighteen clubs competed during this season - all newly formed teams.
   </a></td>
       <td>Saint-Jean-sur-Richelieu</td>
       <td>Dupond Fort Stadium</td>
-      <td>7,890</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
     <tr>
       <td>Zénith</td>
       <td>Mégantic</td>
       <td>Stade Fernand-Grenier</td>
-      <td>2,940</td>
+      <td>2022</td>
+      <td>0</td>
     </tr>
   </tbody>
 </table>

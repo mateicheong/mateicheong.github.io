@@ -18,6 +18,10 @@
     border-color: #9F2042;
 }
 
+.infobox--la-ligue {
+    border-color: #2383C7;
+}
+
 html[data-theme="dark"] .infobox {
     box-shadow: 0 0px 0px rgba(0,0,0,0.6);
 }

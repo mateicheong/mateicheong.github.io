@@ -2,6 +2,8 @@
 title: "Petite-Bourgogne"
 date: 2026-03-13
 draft: false
+aliases:
+  - /clubs/petite_bourgogne/
 ---
 
 # Petite-Bourgogne
@@ -19,8 +21,8 @@ draft: false
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>X Y</td></tr>
 <tr><th>Head Coach</th><td>X Y</td></tr>
-<tr><th>League</th><td>La Ligue</td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite_bourgogne">Current Season</a></td></tr>
+<tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite-bourgogne">Current Season</a></td></tr>
 </table>
 </div>
 
