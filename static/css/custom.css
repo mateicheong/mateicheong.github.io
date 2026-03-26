@@ -1,3 +1,81 @@
+/* Navbar wordmark: light / dark assets (same link as before) */
+header .brand .brand-link {
+    display: inline-flex;
+    align-items: center;
+}
+
+header .brand .brand-logo {
+    flex-shrink: 0;
+    height: 2.25rem;
+    width: auto;
+    max-width: min(220px, 45vw);
+    object-fit: contain;
+    margin: 0;
+    border-radius: 4px;
+    display: block;
+}
+
+header .brand .brand-logo--dark {
+    display: none;
+}
+
+html[data-theme="light"] header .brand .brand-logo--light,
+html:not([data-theme]) header .brand .brand-logo--light {
+    display: block;
+}
+
+html[data-theme="light"] header .brand .brand-logo--dark,
+html:not([data-theme]) header .brand .brand-logo--dark {
+    display: none;
+}
+
+html[data-theme="dark"] header .brand .brand-logo--light {
+    display: none;
+}
+
+html[data-theme="dark"] header .brand .brand-logo--dark {
+    display: block;
+}
+
+/* Match header bar width to main content (theme header was wider than main at md+ breakpoints) */
+header #header_content.normal,
+header #header_content.wide,
+header #header_content.extra-wide {
+    width: 93vw;
+}
+
+@media screen and (min-width: 48rem) {
+    header #header_content.normal,
+    header #header_content.wide,
+    header #header_content.extra-wide {
+        width: 80vw;
+    }
+}
+
+@media screen and (min-width: 64rem) {
+    header #header_content.normal,
+    header #header_content.wide,
+    header #header_content.extra-wide {
+        width: 70vw;
+    }
+}
+
+@media screen and (min-width: 80rem) {
+    header #header_content.normal,
+    header #header_content.wide,
+    header #header_content.extra-wide {
+        width: 50vw;
+    }
+}
+
+@media screen and (min-width: 120rem) {
+    header #header_content.normal,
+    header #header_content.wide,
+    header #header_content.extra-wide {
+        width: 50vw;
+    }
+}
+
 .infobox {
     float: right;
     width: 280px;
