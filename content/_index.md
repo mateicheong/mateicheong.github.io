@@ -5,9 +5,9 @@ title = 'La Ligue'
 +++
 # Bienvenue à La Ligue
 
-Home of top flight soccer in Quebec.
+Home of top flight soccer in Québec.
 
-This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, a fictional league in Quebec.
+This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, a fictional league in Québec.
 
 ## Current Season
 [**2023 Season**](/seasons/2023/)

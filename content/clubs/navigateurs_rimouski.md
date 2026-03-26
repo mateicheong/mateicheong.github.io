@@ -15,7 +15,7 @@ url: /clubs/navigateurs_rimouski/
 
 <table class="infobox-rows">
 <tr><th>Founded</th><td>—</td></tr>
-<tr><th>Stadium</th><td>—</td></tr>
+<tr><th>Stadium</th><td>Stade Ernest-Lepage</td></tr>
 <tr><th>Capacity</th><td>—</td></tr>
 <tr><th>Owner</th><td>—</td></tr>
 <tr><th>President</th><td>—</td></tr>
