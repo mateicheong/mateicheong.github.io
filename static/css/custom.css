@@ -88,6 +88,10 @@ html[data-theme="dark"] .infobox {
 .infobox .infobox-rows td {
     padding: 0.15rem 0;
     vertical-align: baseline;
+    /* Prefer breaks between words, not inside words */
+    word-break: normal;
+    overflow-wrap: normal;
+    hyphens: manual;
 }
 
 .infobox .infobox-rows th {
@@ -95,12 +99,13 @@ html[data-theme="dark"] .infobox {
     text-align: left;
     font-weight: 600;
     padding-right: 0.5rem;
-    word-break: break-word;
     white-space: normal;
 }
 
 .infobox .infobox-rows td {
     text-align: left;
+    /* Long tokens (URLs, codes) can wrap only when they would overflow */
+    overflow-wrap: break-word;
 }
 
 .infobox .infobox-rows .infobox-season {
