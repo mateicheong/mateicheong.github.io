@@ -22,11 +22,11 @@ aliases:
 <tr><th>Owner</th><td>X Y</td></tr>
 <tr><th>Head Coach</th><td>X Y</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025-26/petite-bourgogne">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Petite-Bourgogne</strong> is a professional football club based in Petite-Bourgogne, Montréal.</p>
+<p class="club-lead-intro"><strong>Petite-Bourgogne</strong> is a professional football club based in Montréal, Québec.</p>
 </div>
 
 
@@ -34,16 +34,16 @@ aliases:
 Club history paragraph
 
 ## Stadium
-Details about Stade Oscar Peterson
+Details about Stadium
 
 ## Current squad
 <div class="squad-grid">
-<table class="squad-table">
+<table class="squad-table squad-table--petite-bourgogne">
 <thead>
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
 <tr><td>2</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
 <tr><td>3</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
 <tr><td>4</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Name Name</td></tr>
@@ -56,7 +56,7 @@ Details about Stade Oscar Peterson
 </tbody>
 </table>
 
-<table class="squad-table">
+<table class="squad-table squad-table--petite-bourgogne">
 <thead>
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>

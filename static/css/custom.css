@@ -13,9 +13,53 @@
     margin: 0 auto 1rem;
 }
 
-/* Petite-Bourgogne / club-specific accent */
+/* Club infobox outline (matches homepage chips) */
 .infobox--petite-bourgogne {
     border-color: #9F2042;
+}
+
+.infobox--draveurs-sherbrooke {
+    border-color: #2E6E5F;
+}
+
+.infobox--navigateurs-rimouski {
+    border-color: #2D58A7;
+}
+
+.infobox--deux-rives {
+    border-color: #6767BA;
+}
+
+.infobox--hawkesbury-united {
+    border-color: #1E1E1E;
+}
+
+html[data-theme="dark"] .infobox--hawkesbury-united {
+    border-color: #FCE5CF;
+}
+
+.infobox--club-du-fjord {
+    border-color: #067EBB;
+}
+
+.infobox--rouyn-noranda {
+    border-color: #F93529;
+}
+
+.infobox--laval-nord {
+    border-color: #383838;
+}
+
+html[data-theme="dark"] .infobox--laval-nord {
+    border-color: #D8F8D8;
+}
+
+.infobox--cf-saint-jean {
+    border-color: #491D75;
+}
+
+html[data-theme="dark"] .infobox--cf-saint-jean {
+    border-color: #F6B74E;
 }
 
 .infobox--la-ligue {
@@ -89,8 +133,69 @@ html[data-theme="dark"] .infobox {
 .squad-table th {
     text-align: left;
     padding: 0.3rem 0.35rem;
+    background-color: var(--color-border);
+    color: var(--color-text);
+}
+
+/* Squad header colour per club (matches chip accent) */
+.squad-table--petite-bourgogne th {
     background-color: #9F2042;
     color: #FFFFFF;
+}
+
+.squad-table--draveurs-sherbrooke th {
+    background-color: #2E6E5F;
+    color: #FFFFFF;
+}
+
+.squad-table--navigateurs-rimouski th {
+    background-color: #2D58A7;
+    color: #FFFFFF;
+}
+
+.squad-table--deux-rives th {
+    background-color: #6767BA;
+    color: #FFFFFF;
+}
+
+.squad-table--hawkesbury-united th {
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--hawkesbury-united th {
+    background-color: #FCE5CF;
+    color: #1E1E1E;
+}
+
+.squad-table--club-du-fjord th {
+    background-color: #067EBB;
+    color: #FFFFFF;
+}
+
+.squad-table--rouyn-noranda th {
+    background-color: #F93529;
+    color: #FFFFFF;
+}
+
+.squad-table--laval-nord th {
+    background-color: #383838;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--laval-nord th {
+    background-color: #D8F8D8;
+    color: #1a1a1a;
+}
+
+.squad-table--cf-saint-jean th {
+    background-color: #491D75;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--cf-saint-jean th {
+    background-color: #F6B74E;
+    color: #1a1a1a;
 }
 
 .squad-table td {
