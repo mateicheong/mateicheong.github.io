@@ -65,7 +65,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Athlétique de Montréal</td>
+      <td><a href="/clubs/athlétique_de_montréal/" class="club-chip club-chip--athletique-de-montreal">
+    <img src="/images/clubs/athletique_de_montreal.png" alt="Athlétique de Montréal logo">
+    <span>Athlétique de Montréal</span>
+  </a></td>
       <td>Montréal (Hochelaga)</td>
       <td>Olympic Stadium</td>
       <td>2022</td>
@@ -126,7 +129,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Kichi Sibi</td>
+      <td><a href="/clubs/kichi_sibi_gatineau/" class="club-chip club-chip--kichi-sibi">
+    <img src="/images/clubs/kichi_sibi.png" alt="Kichi Sibi logo">
+    <span>Kichi Sibi</span>
+  </a></td>
       <td>Gatineau</td>
       <td>Stade de la Cité</td>
       <td>2022</td>

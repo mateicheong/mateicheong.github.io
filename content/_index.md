@@ -70,5 +70,16 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <img src="/images/clubs/zenith.png" alt="Zénith logo">
     <span>Zénith</span>
   </a>
+  
+   <a href="/clubs/athlétique_de_montréal/" class="club-chip club-chip--athletique-de-montreal">
+    <img src="/images/clubs/athletique_de_montreal.png" alt="Athlétique de Montréal logo">
+    <span>Athlétique de Montréal</span>
+  </a>
+
+  <a href="/clubs/kichi_sibi_gatineau/" class="club-chip club-chip--kichi-sibi">
+    <img src="/images/clubs/kichi_sibi.png" alt="Kichi Sibi logo">
+    <span>Kichi Sibi</span>
+  </a>
+ 
 </div>
 

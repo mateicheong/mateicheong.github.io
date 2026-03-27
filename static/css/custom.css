@@ -140,6 +140,22 @@ html[data-theme="dark"] .infobox--cf-saint-jean {
     border-color: #F6B74E;
 }
 
+.infobox--athletique-de-montreal {
+    border-color: #2D2424;
+}
+
+html[data-theme="dark"] .infobox--athletique-de-montreal {
+    border-color: #FFFFFF;
+}
+
+.infobox--kichi-sibi {
+    border-color: #2A3251;
+}
+
+html[data-theme="dark"] .infobox--kichi-sibi {
+    border-color: #8B97D6;
+}
+
 .infobox--levis {
     border-color: #76CCD2;
 }
@@ -293,6 +309,26 @@ html[data-theme="dark"] .squad-table--cf-saint-jean th {
     color: #1a1a1a;
 }
 
+.squad-table--athletique-de-montreal th {
+    background-color: #2D2424;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--athletique-de-montreal th {
+    background-color: #FFFFFF;
+    color: #1a1a1a;
+}
+
+.squad-table--kichi-sibi th {
+    background-color: #2A3251;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--kichi-sibi th {
+    background-color: #8B97D6;
+    color: #1a1a1a;
+}
+
 .squad-table--levis th {
     background-color: #76CCD2;
     color: #1a1a1a;
@@ -428,6 +464,26 @@ html[data-theme="dark"] .club-chip--cf-saint-jean {
     background-color: rgba(246, 183, 78, 0.15);
 }
 
+.club-chip--athletique-de-montreal {
+    color: #2D2424;
+    background-color: rgba(45, 36, 36, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--athletique-de-montreal {
+    color: #FFFFFF;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.club-chip--kichi-sibi {
+    color: #2A3251;
+    background-color: rgba(42, 50, 81, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--kichi-sibi {
+    color: #8B97D6;
+    background-color: rgba(139, 151, 214, 0.15);
+}
+
 .club-chip--levis {
     color: #76CCD2;
     background-color: rgba(118, 204, 210, 0.15);
@@ -501,6 +557,26 @@ html[data-theme="dark"] .club-chip--laval-nord:focus-visible {
 html[data-theme="dark"] .club-chip--cf-saint-jean:hover,
 html[data-theme="dark"] .club-chip--cf-saint-jean:focus-visible {
     background-color: rgba(246, 183, 78, 0.25);
+}
+
+.club-chip--athletique-de-montreal:hover,
+.club-chip--athletique-de-montreal:focus-visible {
+    background-color: rgba(45, 36, 36, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--athletique-de-montreal:hover,
+html[data-theme="dark"] .club-chip--athletique-de-montreal:focus-visible {
+    background-color: rgba(255, 255, 255, 0.25);
+}
+
+.club-chip--kichi-sibi:hover,
+.club-chip--kichi-sibi:focus-visible {
+    background-color: rgba(42, 50, 81, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--kichi-sibi:hover,
+html[data-theme="dark"] .club-chip--kichi-sibi:focus-visible {
+    background-color: rgba(139, 151, 214, 0.25);
 }
 
 .club-chip--levis:hover,
