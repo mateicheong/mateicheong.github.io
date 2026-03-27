@@ -60,5 +60,15 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <img src="/images/clubs/saint_jean.png" alt="CF Saint-Jean logo">
     <span>CF Saint-Jean</span>
   </a>
+
+  <a href="/clubs/lévis/" class="club-chip club-chip--levis">
+    <img src="/images/clubs/levis.png" alt="Lévis logo">
+    <span>Lévis</span>
+  </a>
+
+  <a href="/clubs/zénith/" class="club-chip club-chip--zenith">
+    <img src="/images/clubs/zenith.png" alt="Zénith logo">
+    <span>Zénith</span>
+  </a>
 </div>
 

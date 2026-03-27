@@ -143,7 +143,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Lévis</td>
+      <td><a href="/clubs/lévis/" class="club-chip club-chip--levis">
+    <img src="/images/clubs/levis.png" alt="Lévis logo">
+    <span>Lévis</span>
+  </a></td>
       <td>Lévis</td>
       <td>Stade de la Chaudière</td>
       <td>2022</td>
@@ -204,7 +207,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Zénith</td>
+      <td><a href="/clubs/zénith/" class="club-chip club-chip--zenith">
+    <img src="/images/clubs/zenith.png" alt="Zénith logo">
+    <span>Zénith</span>
+  </a></td>
       <td>Mégantic</td>
       <td>Stade Fernand-Grenier</td>
       <td>2022</td>

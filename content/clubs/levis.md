@@ -1,21 +1,21 @@
 ---
-title: "CF Saint-Jean"
-date: 2026-03-25
+title: "Lévis"
+date: 2026-03-26
 draft: false
-url: /clubs/cf_saint_jean/
+url: /clubs/lévis/
 ---
 
-# CF Saint-Jean
+# Lévis
 
 <div class="club-lead">
-<div class="infobox infobox--cf-saint-jean">
-<h4>CF Saint-Jean</h4>
+<div class="infobox infobox--levis">
+<h4>Lévis</h4>
 
-<img src="/images/clubs/saint_jean.png" width="180" alt="CF Saint-Jean">
+<img src="/images/clubs/levis.png" width="180" alt="Lévis">
 
 <table class="infobox-rows">
 <tr><th>Founded</th><td>2022</td></tr>
-<tr><th>Stadium</th><td>Stade Dupond Fort</td></tr>
+<tr><th>Stadium</th><td>Stade de la Chaudière</td></tr>
 <tr><th>Capacity</th><td>—</td></tr>
 <tr><th>Owner</th><td>—</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
@@ -24,7 +24,7 @@ url: /clubs/cf_saint_jean/
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>CF Saint-Jean</strong> is a professional football club based in Saint-Jean-sur-Richelieu, Québec.</p>
+<p class="club-lead-intro"><strong>Lévis</strong> is a professional football club based in Lévis, Québec.</p>
 </div>
 
 ## History
@@ -35,7 +35,7 @@ Stadium details.
 
 ## Current squad
 <div class="squad-grid">
-<table class="squad-table squad-table--cf-saint-jean">
+<table class="squad-table squad-table--levis">
 <thead>
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
@@ -44,7 +44,7 @@ Stadium details.
 </tbody>
 </table>
 
-<table class="squad-table squad-table--cf-saint-jean">
+<table class="squad-table squad-table--levis">
 <thead>
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>

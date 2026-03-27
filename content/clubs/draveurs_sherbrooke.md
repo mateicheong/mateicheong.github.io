@@ -14,11 +14,10 @@ url: /clubs/draveurs_sherbrooke/
 <img src="/images/clubs/draveurs.png" width="180" alt="Draveurs de Sherbrooke">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>—</td></tr>
+<tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade de l'Université Sherbrooke</td></tr>
 <tr><th>Capacity</th><td>—</td></tr>
 <tr><th>Owner</th><td>—</td></tr>
-<tr><th>President</th><td>—</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>

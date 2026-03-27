@@ -140,6 +140,18 @@ html[data-theme="dark"] .infobox--cf-saint-jean {
     border-color: #F6B74E;
 }
 
+.infobox--levis {
+    border-color: #76CCD2;
+}
+
+.infobox--zenith {
+    border-color: #006074;
+}
+
+html[data-theme="dark"] .infobox--zenith {
+    border-color: #F7E4B1;
+}
+
 .infobox--la-ligue {
     border-color: #2383C7;
 }
@@ -281,6 +293,21 @@ html[data-theme="dark"] .squad-table--cf-saint-jean th {
     color: #1a1a1a;
 }
 
+.squad-table--levis th {
+    background-color: #76CCD2;
+    color: #1a1a1a;
+}
+
+.squad-table--zenith th {
+    background-color: #006074;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--zenith th {
+    background-color: #F7E4B1;
+    color: #1a1a1a;
+}
+
 .squad-table td {
     padding: 0.3rem 0.35rem;
 }
@@ -401,6 +428,21 @@ html[data-theme="dark"] .club-chip--cf-saint-jean {
     background-color: rgba(246, 183, 78, 0.15);
 }
 
+.club-chip--levis {
+    color: #76CCD2;
+    background-color: rgba(118, 204, 210, 0.15);
+}
+
+.club-chip--zenith {
+    color: #006074;
+    background-color: rgba(0, 96, 116, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--zenith {
+    color: #F7E4B1;
+    background-color: rgba(247, 228, 177, 0.15);
+}
+
 .club-chip--petite-bourgogne:hover,
 .club-chip--petite-bourgogne:focus-visible {
     background-color: rgba(159, 32, 66, 0.25);
@@ -459,6 +501,21 @@ html[data-theme="dark"] .club-chip--laval-nord:focus-visible {
 html[data-theme="dark"] .club-chip--cf-saint-jean:hover,
 html[data-theme="dark"] .club-chip--cf-saint-jean:focus-visible {
     background-color: rgba(246, 183, 78, 0.25);
+}
+
+.club-chip--levis:hover,
+.club-chip--levis:focus-visible {
+    background-color: rgba(118, 204, 210, 0.25);
+}
+
+.club-chip--zenith:hover,
+.club-chip--zenith:focus-visible {
+    background-color: rgba(0, 96, 116, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--zenith:hover,
+html[data-theme="dark"] .club-chip--zenith:focus-visible {
+    background-color: rgba(247, 228, 177, 0.25);
 }
 
 .club-chip:hover span,
