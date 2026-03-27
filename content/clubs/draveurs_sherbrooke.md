@@ -9,7 +9,7 @@ url: /clubs/draveurs_sherbrooke/
 
 <div class="club-lead">
 <div class="infobox infobox--draveurs-sherbrooke">
-<h4>Draveurs de Sherbrooke</h4>
+<h4>Draveurs</h4>
 
 <img src="/images/clubs/draveurs.png" width="180" alt="Draveurs de Sherbrooke">
 

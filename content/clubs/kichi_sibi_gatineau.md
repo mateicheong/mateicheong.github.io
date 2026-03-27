@@ -5,7 +5,7 @@ draft: false
 url: /clubs/kichi_sibi_gatineau/
 ---
 
-# Kichi Sibi
+# Kichi Sibi de Gatineau
 
 <div class="club-lead">
 <div class="infobox infobox--kichi-sibi">
@@ -24,7 +24,7 @@ url: /clubs/kichi_sibi_gatineau/
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Kichi Sibi</strong> is a professional football club based in Gatineau, Québec.</p>
+<p class="club-lead-intro"><strong>Kichi Sibi de Gatineau</strong> is a professional football club based in Gatineau, Québec.</p>
 </div>
 
 ## History

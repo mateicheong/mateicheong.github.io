@@ -9,7 +9,7 @@ url: /clubs/navigateurs_rimouski/
 
 <div class="club-lead">
 <div class="infobox infobox--navigateurs-rimouski">
-<h4>Navigateurs de Rimouski</h4>
+<h4>Navigateurs</h4>
 
 <img src="/images/clubs/navigateurs.png" width="180" alt="Navigateurs de Rimouski">
 

@@ -9,12 +9,7 @@ Home of top flight soccer in Québec.
 
 This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, a fictional league in Québec.
 
-## Current Season
-[**2023 Season**](/seasons/2023/)
-
-[Past seasons →](/seasons/)
-
-## All Clubs
+## Clubs
 <div class="club-chip-list">
   <a href="/clubs/petite-bourgogne/" class="club-chip club-chip--petite-bourgogne">
     <img src="/images/clubs/petite_bourgogne.png" alt="Petite-Bourgogne logo">
@@ -83,3 +78,5 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
  
 </div>
 
+## Seasons
+[**2023 Season**](/seasons/2023/)

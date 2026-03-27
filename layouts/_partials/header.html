@@ -1,34 +1,6 @@
 <header>
     <div id="header_content" class="{{ (.Store.Get "params").navbar_width }}">
         <div id="header_left">
-            <div id="sidebar_btn">
-                <input type="checkbox" id="sidebar_btn_input" class="hidden" />
-                <label id="sidebar_btn_label" for="sidebar_btn_input">
-                    {{- partial "svg/feather.html" (dict "name" "menu") -}}
-                </label>
-                <label id="sidebar_canvas_overlay_wrapper" for="sidebar_btn_input">
-                    <div id="sidebar_canvas_overlay"></div>
-                </label>
-                <div id="sidebar">
-                    <ul>
-                        {{- range .Site.Menus.navbar -}}
-                            <li>
-                                {{- $name := .Name }}
-                                {{- with .Identifier }}
-                                    {{- with T . }}
-                                        {{- $name = . }}
-                                    {{- end }}
-                                {{- end }}
-                                <a href="{{ .URL }}">{{- $name -}}</a>
-                                {{- if .Children -}}
-                                    {{- partial "navbar/nested-mobile.html" . -}}
-                                {{- end -}}
-                            </li>
-                        {{- end -}}
-                    </ul>
-                </div>
-            </div>
-
             <div class="brand">
                 <div>
                     <a href="{{ .Site.Home.RelPermalink }}" class="brand-link" aria-label="{{ .Site.Title }}">

@@ -76,6 +76,12 @@ header #header_content.extra-wide {
     }
 }
 
+/* Theme toggle: faint outline (25% opacity of secondary border color) */
+#dark_mode_btn.outline-button,
+#light_mode_btn.outline-button {
+    border-color: color-mix(in srgb, var(--color-text-secondary) 25%, transparent);
+}
+
 .infobox {
     float: right;
     width: 280px;
@@ -157,6 +163,10 @@ html[data-theme="dark"] .infobox--kichi-sibi {
 }
 
 .infobox--levis {
+    border-color: #5CB4B4;
+}
+
+html[data-theme="dark"] .infobox--levis {
     border-color: #76CCD2;
 }
 
@@ -330,6 +340,11 @@ html[data-theme="dark"] .squad-table--kichi-sibi th {
 }
 
 .squad-table--levis th {
+    background-color: #5CB4B4;
+    color: #1a1a1a;
+}
+
+html[data-theme="dark"] .squad-table--levis th {
     background-color: #76CCD2;
     color: #1a1a1a;
 }
@@ -485,6 +500,11 @@ html[data-theme="dark"] .club-chip--kichi-sibi {
 }
 
 .club-chip--levis {
+    color: #5CB4B4;
+    background-color: rgba(92, 180, 180, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--levis {
     color: #76CCD2;
     background-color: rgba(118, 204, 210, 0.15);
 }
@@ -581,6 +601,11 @@ html[data-theme="dark"] .club-chip--kichi-sibi:focus-visible {
 
 .club-chip--levis:hover,
 .club-chip--levis:focus-visible {
+    background-color: rgba(92, 180, 180, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--levis:hover,
+html[data-theme="dark"] .club-chip--levis:focus-visible {
     background-color: rgba(118, 204, 210, 0.25);
 }
 
