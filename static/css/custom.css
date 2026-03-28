@@ -109,6 +109,44 @@ html[data-theme="dark"] #light_mode_btn.outline-button {
     margin: 0 auto 1rem;
 }
 
+/* Kit photos in club infobox (between League row and Current Season) */
+.infobox .infobox-rows td.infobox-kits-cell {
+    padding: 0.6rem 0 0.25rem;
+    text-align: center;
+}
+
+.infobox-kits {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.infobox-kits .infobox-kit {
+    margin: 0;
+    flex: 1 1 42%;
+    /* Avoid flex item collapsing to 0 width when the image 404s (broken img has no intrinsic size) */
+    min-width: 5rem;
+    max-width: 7.5rem;
+    text-align: center;
+}
+
+.infobox-kits .infobox-kit img {
+    width: 100%;
+    max-width: 7.5rem;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto 0.35rem;
+}
+
+.infobox-kits .infobox-kit figcaption {
+    font-size: 0.82rem;
+    font-weight: 500;
+    line-height: 1.25;
+    color: var(--color-text-secondary);
+}
+
 /* Club infobox outline (matches homepage chips) */
 .infobox--petite-bourgogne {
     border-color: #9F2042;
