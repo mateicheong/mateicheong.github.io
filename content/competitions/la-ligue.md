@@ -79,7 +79,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Bastions de Québec</td>
+      <td><a href="/clubs/bastions_de_quebec/" class="club-chip club-chip--bastions-de-quebec">
+    <img src="/images/clubs/bastions.png" alt="Bastions de Québec logo">
+    <span>Bastions de Québec</span>
+  </a></td>
       <td>Quebec City</td>
       <td>Stade Beauport</td>
       <td>2022</td>
@@ -96,7 +99,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>CS Châteauguay</td>
+      <td><a href="/clubs/cs_chateauguay/" class="club-chip club-chip--cs-chateauguay">
+    <img src="/images/clubs/chateauguay.png" alt="CS Châteauguay logo">
+    <span>CS Châteauguay</span>
+  </a></td>
       <td>Châteauguay</td>
       <td>Stade du Lac Saint-Louis</td>
       <td>2022</td>

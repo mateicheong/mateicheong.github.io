@@ -86,6 +86,16 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <span>AS Drummond</span>
   </a>
 
+  <a href="/clubs/bastions_de_quebec/" class="club-chip club-chip--bastions-de-quebec">
+    <img src="/images/clubs/bastions.png" alt="Bastions de Québec logo">
+    <span>Bastions</span>
+  </a>
+
+  <a href="/clubs/cs_chateauguay/" class="club-chip club-chip--cs-chateauguay">
+    <img src="/images/clubs/chateauguay.png" alt="CS Châteauguay logo">
+    <span>CS Châteauguay</span>
+  </a>
+
  
 </div>
 

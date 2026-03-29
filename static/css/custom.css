@@ -236,6 +236,22 @@ html[data-theme="dark"] .infobox--as-drummond {
     border-color: #FFC400;
 }
 
+.infobox--bastions-de-quebec {
+    border-color: #523B2D;
+}
+
+html[data-theme="dark"] .infobox--bastions-de-quebec {
+    border-color: #EDE0C4;
+}
+
+.infobox--cs-chateauguay {
+    border-color: #4A5230;
+}
+
+html[data-theme="dark"] .infobox--cs-chateauguay {
+    border-color: #C8B060;
+}
+
 .infobox--la-ligue {
     border-color: #2383C7;
 }
@@ -427,6 +443,26 @@ html[data-theme="dark"] .squad-table--as-drummond th {
     color: #1a1a1a;
 }
 
+.squad-table--bastions-de-quebec th {
+    background-color: #523B2D;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--bastions-de-quebec th {
+    background-color: #EDE0C4;
+    color: #1a1a1a;
+}
+
+.squad-table--cs-chateauguay th {
+    background-color: #4A5230;
+    color: #FFFFFF;
+}
+
+html[data-theme="dark"] .squad-table--cs-chateauguay th {
+    background-color: #C8B060;
+    color: #1a1a1a;
+}
+
 .squad-table td {
     padding: 0.3rem 0.35rem;
 }
@@ -597,6 +633,26 @@ html[data-theme="dark"] .club-chip--as-drummond {
     background-color: rgba(255, 196, 0, 0.15);
 }
 
+.club-chip--bastions-de-quebec {
+    color: #523B2D;
+    background-color: rgba(82, 59, 45, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--bastions-de-quebec {
+    color: #EDE0C4;
+    background-color: rgba(237, 224, 196, 0.15);
+}
+
+.club-chip--cs-chateauguay {
+    color: #4A5230;
+    background-color: rgba(74, 82, 48, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--cs-chateauguay {
+    color: #C8B060;
+    background-color: rgba(200, 176, 96, 0.15);
+}
+
 .club-chip--petite-bourgogne:hover,
 .club-chip--petite-bourgogne:focus-visible {
     background-color: rgba(159, 32, 66, 0.25);
@@ -705,6 +761,26 @@ html[data-theme="dark"] .club-chip--zenith:focus-visible {
 html[data-theme="dark"] .club-chip--as-drummond:hover,
 html[data-theme="dark"] .club-chip--as-drummond:focus-visible {
     background-color: rgba(255, 196, 0, 0.25);
+}
+
+.club-chip--bastions-de-quebec:hover,
+.club-chip--bastions-de-quebec:focus-visible {
+    background-color: rgba(82, 59, 45, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--bastions-de-quebec:hover,
+html[data-theme="dark"] .club-chip--bastions-de-quebec:focus-visible {
+    background-color: rgba(237, 224, 196, 0.25);
+}
+
+.club-chip--cs-chateauguay:hover,
+.club-chip--cs-chateauguay:focus-visible {
+    background-color: rgba(74, 82, 48, 0.25);
+}
+
+html[data-theme="dark"] .club-chip--cs-chateauguay:hover,
+html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
+    background-color: rgba(200, 176, 96, 0.25);
 }
 
 .club-chip:hover span,
