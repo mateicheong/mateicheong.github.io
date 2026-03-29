@@ -80,6 +80,12 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <img src="/images/clubs/locomotive.png" alt="Locomotive logo">
     <span>Locomotive</span>
   </a>
+
+  <a href="/clubs/as_drummond/" class="club-chip club-chip--as-drummond">
+    <img src="/images/clubs/asdrummond.png" alt="AS Drummond logo">
+    <span>AS Drummond</span>
+  </a>
+
  
 </div>
 

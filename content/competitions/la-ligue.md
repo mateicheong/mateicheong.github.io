@@ -58,7 +58,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
   </thead>
   <tbody>
     <tr>
-      <td>AS Drummond</td>
+      <td><a href="/clubs/as_drummond/" class="club-chip club-chip--as-drummond">
+    <img src="/images/clubs/asdrummond.png" alt="AS Drummond logo">
+    <span>AS Drummond</span>
+  </a></td>
       <td>Drummondville</td>
       <td>Stade Marchand</td>
       <td>2022</td>
