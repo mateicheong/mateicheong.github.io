@@ -46,6 +46,7 @@ All La Ligue clubs compete in Québec's domestic cup - <a href="/competitions/co
 
 ## Clubs
 Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Hawkesbury United</a> resides in Ontario. Two clubs reside in Montréal, <a href="/clubs/athlétique_de_montréal/">Athlétique de Montréal</a> and <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>
+<div class="la-ligue-clubs-table-scroll" role="region" aria-label="Clubs">
 <table id="teams-table-2023">
   <thead>
     <tr>
@@ -53,7 +54,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <th scope="col">Location</th>
       <th scope="col">Stadium</th>
       <th scope="col">Joined</th>
-      <th scope="col">La Ligue titles</th>
+      <th scope="col">Titles</th>
     </tr>
   </thead>
   <tbody>
@@ -230,6 +231,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
     </tr>
   </tbody>
 </table>
+</div>
 
 <script>
   (function () {

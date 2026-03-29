@@ -720,4 +720,24 @@ html[data-theme="dark"] .club-chip--as-drummond:focus-visible {
     pointer-events: none;
 }
 
+/* La Ligue + 2023 season club tables: columns size to content; horizontal scroll on narrow viewports. No forced column widths. */
+.la-ligue-clubs-table-scroll {
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.la-ligue-clubs-table-scroll #teams-table-2023 {
+    width: max-content;
+    max-width: none;
+}
+
+/* Joined + Titles (competition table); Capacity (2023 table — also column 4). Column 5 exists only on competition page. */
+.la-ligue-clubs-table-scroll #teams-table-2023 th:nth-child(4),
+.la-ligue-clubs-table-scroll #teams-table-2023 td:nth-child(4),
+.la-ligue-clubs-table-scroll #teams-table-2023 th:nth-child(5),
+.la-ligue-clubs-table-scroll #teams-table-2023 td:nth-child(5) {
+    text-align: center;
+}
+
 
