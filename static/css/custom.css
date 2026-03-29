@@ -224,6 +224,10 @@ html[data-theme="dark"] .infobox--zenith {
     border-color: #F7E4B1;
 }
 
+.infobox--locomotive {
+    border-color: #FF2C4D;
+}
+
 .infobox--la-ligue {
     border-color: #2383C7;
 }
@@ -400,6 +404,11 @@ html[data-theme="dark"] .squad-table--zenith th {
     color: #1a1a1a;
 }
 
+.squad-table--locomotive th {
+    background-color: #FF2C4D;
+    color: #FFFFFF;
+}
+
 .squad-table td {
     padding: 0.3rem 0.35rem;
 }
@@ -555,6 +564,11 @@ html[data-theme="dark"] .club-chip--zenith {
     background-color: rgba(247, 228, 177, 0.15);
 }
 
+.club-chip--locomotive {
+    color: #FF2C4D;
+    background-color: rgba(255, 44, 77, 0.15);
+}
+
 .club-chip--petite-bourgogne:hover,
 .club-chip--petite-bourgogne:focus-visible {
     background-color: rgba(159, 32, 66, 0.25);
@@ -648,6 +662,11 @@ html[data-theme="dark"] .club-chip--kichi-sibi:focus-visible {
 html[data-theme="dark"] .club-chip--zenith:hover,
 html[data-theme="dark"] .club-chip--zenith:focus-visible {
     background-color: rgba(247, 228, 177, 0.25);
+}
+
+.club-chip--locomotive:hover,
+.club-chip--locomotive:focus-visible {
+    background-color: rgba(255, 44, 77, 0.25);
 }
 
 .club-chip:hover span,

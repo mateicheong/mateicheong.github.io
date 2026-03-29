@@ -75,6 +75,11 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <img src="/images/clubs/kichi_sibi.png" alt="Kichi Sibi logo">
     <span>Kichi Sibi</span>
   </a>
+
+  <a href="/clubs/locomotive/" class="club-chip club-chip--locomotive">
+    <img src="/images/clubs/locomotive.png" alt="Locomotive logo">
+    <span>Locomotive</span>
+  </a>
  
 </div>
 
