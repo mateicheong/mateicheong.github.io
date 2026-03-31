@@ -109,7 +109,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td><a href="/clubs/deux_rives/" class="club-chip club-chip--deux-rives">
+      <td><a href="/clubs/deux-rives/" class="club-chip club-chip--deux-rives">
     <img src="/images/clubs/deux_rives.png" alt="Deux-Rives logo">
     <span>Deux-Rives</span>
   </a></td>

@@ -26,7 +26,7 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <span>Navigateurs</span>
   </a>
 
-  <a href="/clubs/deux_rives/" class="club-chip club-chip--deux-rives">
+  <a href="/clubs/deux-rives/" class="club-chip club-chip--deux-rives">
     <img src="/images/clubs/deux_rives.png" alt="Deux-Rives logo">
     <span>Deux-Rives</span>
   </a>

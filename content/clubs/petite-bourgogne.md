@@ -20,7 +20,7 @@ aliases:
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>Mateus Chont</td></tr>
-<tr><th>Head Coach</th><td>—</td></tr>
+<tr><th>Head Coach</th><td>Andy Cook</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">

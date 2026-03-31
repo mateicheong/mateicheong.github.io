@@ -2,7 +2,9 @@
 title: "Deux-Rives"
 date: 2026-03-25
 draft: false
-url: /clubs/deux_rives/
+url: /clubs/deux-rives/
+aliases:
+  - /clubs/deux_rives/
 ---
 
 # Deux-Rives
