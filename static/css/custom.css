@@ -681,6 +681,11 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
+/* Override: "Average attendance" is a rowspan header, but should be centered */
+.year-by-year-table thead tr:first-child th.avg-attendance {
+    text-align: center;
+}
+
 .year-by-year-table thead tr:nth-child(2) th {
     padding: 0.3rem 0.35rem;
     text-align: center;
@@ -702,6 +707,7 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 .year-by-year-table th.avg-attendance {
     white-space: normal;
     line-height: 1.15;
+    text-align: center;
 }
 
 .coach-record-table thead tr:nth-child(2) th {
@@ -710,6 +716,11 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     border: 1px solid var(--color-border);
     background: transparent !important;
     color: var(--color-text) !important;
+}
+
+/* Head coach: center the grouped "Record" header (colspan cell in first header row) */
+.coach-record-table thead tr:first-child th[colspan] {
+    text-align: center;
 }
 
 .coach-record-table tbody td:nth-child(n + 4) {
@@ -1100,4 +1111,37 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     font-weight: 700;
 }
 
+/* Season page: top scorers */
+.la-ligue-clubs-table-scroll .top-scorers-table {
+    width: 100%;
+    max-width: none;
+    table-layout: auto;
+}
+
+.top-scorers-table th,
+.top-scorers-table td {
+    text-align: left;
+    vertical-align: top;
+}
+
+.top-scorers-table th.top-scorers-table__rank,
+.top-scorers-table td.top-scorers-table__rank,
+.top-scorers-table th.top-scorers-table__goals,
+.top-scorers-table td.top-scorers-table__goals {
+    text-align: center;
+}
+
+.top-scorers-table td.top-scorers-table__rank {
+    vertical-align: middle;
+}
+
+.top-scorers-table td.top-scorers-table__player {
+    white-space: nowrap;
+}
+
+.top-scorers-table td.top-scorers-table__player img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.35rem;
+}
 

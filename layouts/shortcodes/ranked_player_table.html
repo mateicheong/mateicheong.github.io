@@ -1,0 +1,33 @@
+{{/*
+  Ranked table with automatic ties (merged rank cells). Data lives in THIS PAGE’s YAML front matter.
+
+  1. In the --- front matter at the top of the same .md file, add a block (name can be anything):
+     clean_sheets:
+       value_label: Clean sheets
+       aria_label: 2023 clean sheets leaders   # optional
+       rows:
+         - player: Umberto Di Vincenzo
+           club: Rouyn-Noranda
+           flag: ca          # filename in /static/images/flags/ without .svg
+           value: 17         # same number on multiple rows => same rank (rowspan)
+         - player: ...
+           value: 8
+         - player: ...
+           value: 8          # tied
+
+  2. In the article body:
+     {{< ranked_player_table "clean_sheets" >}}
+
+  Use a different front-matter key per table (e.g. top_scorers_2023) and pass that string as the argument.
+*/}}
+{{ $key := .Get 0 | default "" }}
+{{ if not $key }}{{ errorf "ranked_player_table: pass the front-matter key, e.g. {{< ranked_player_table \"clean_sheets\" >}}" }}{{ end }}
+{{ $cfg := index $.Page.Params $key }}
+{{ if not $cfg }}{{ errorf "ranked_player_table: add a %q: block to the YAML front matter of this page" $key }}{{ end }}
+{{ if not $cfg.rows }}{{ errorf "ranked_player_table: %q must include rows: (list of player, club, flag, value)" $key }}{{ end }}
+
+{{ partial "ranked_player_table.html" (dict
+  "rows" $cfg.rows
+  "valueLabel" ($cfg.value_label | default "Goals")
+  "ariaLabel" ($cfg.aria_label | default "")
+) }}
