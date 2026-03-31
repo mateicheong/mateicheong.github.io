@@ -17,7 +17,7 @@ url: /clubs/laval_nord/
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Parc Cartier</td></tr>
 <tr><th>Capacity</th><td>10,240</td></tr>
-<tr><th>Owner</th><td>—</td></tr>
+<tr><th>Owner</th><td>Borys Serbyn</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>

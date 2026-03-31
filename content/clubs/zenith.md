@@ -17,7 +17,7 @@ url: /clubs/zénith/
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade Fernand-Grenier</td></tr>
 <tr><th>Capacity</th><td>2,940</td></tr>
-<tr><th>Owner</th><td>—</td></tr>
+<tr><th>Owner</th><td>Volodymyr Tremblay</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
