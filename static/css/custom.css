@@ -1068,6 +1068,11 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     max-width: none;
 }
 
+.la-ligue-clubs-table-scroll #teams-table-2023 th,
+.la-ligue-clubs-table-scroll #teams-table-2023 td {
+    vertical-align: middle;
+}
+
 /* Joined + Titles (competition table); Capacity (2023 table — also column 4). Column 5 exists only on competition page. */
 .la-ligue-clubs-table-scroll #teams-table-2023 th:nth-child(4),
 .la-ligue-clubs-table-scroll #teams-table-2023 td:nth-child(4),
@@ -1080,6 +1085,12 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 .la-ligue-clubs-table-scroll .season-league-table {
     width: max-content;
     max-width: none;
+}
+
+/* Keep every cell on the same vertical rhythm (chips are inline-flex; baseline align looks “off”). */
+.season-league-table.mc-table th,
+.season-league-table.mc-table td {
+    vertical-align: middle;
 }
 
 .season-league-table th.season-league-table__pos,
@@ -1095,6 +1106,10 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 .season-league-table th.season-league-table__team,
 .season-league-table td.season-league-table__team {
     text-align: left;
+}
+
+.season-league-table td.season-league-table__team .club-chip {
+    vertical-align: middle;
 }
 
 .season-league-table td.season-league-table__pts {
