@@ -516,6 +516,67 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     white-space: nowrap;
 }
 
+/* Friendlies table: only score cell is outcome-colored */
+.match-score {
+    text-align: center;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+.match-score--win {
+    background-color: #00C424;
+    color: #1a1a1a;
+}
+
+.match-score--draw {
+    background-color: #807977;
+    color: #ffffff;
+}
+
+.match-score--loss {
+    background-color: #F44336;
+    color: #ffffff;
+}
+
+/* Friendlies: grid rows so (1,2,6) hug; (3,5) fill; (4) fixed */
+.friendlies-table {
+    width: 100%;
+    table-layout: auto;
+    display: block;
+}
+
+.friendlies-table td {
+    white-space: nowrap;
+}
+
+.friendlies-table td:nth-child(3) {
+    text-align: right;
+}
+
+.friendlies-table tbody {
+    display: grid;
+    width: 100%;
+    grid-template-columns: max-content max-content minmax(0, 1fr) 4.75rem minmax(0, 1fr) max-content;
+    align-items: center;
+    column-gap: 0.85rem;
+    row-gap: 0.35rem;
+}
+
+.friendlies-table tr {
+    display: contents;
+}
+
+.friendlies-table td {
+    min-width: 0;
+}
+
+@media screen and (max-width: 48rem) {
+    .friendlies-table tbody {
+        column-gap: 0.6rem;
+        grid-template-columns: max-content max-content minmax(0, 1fr) 4.25rem minmax(0, 1fr) max-content;
+    }
+}
+
 /* Coach record table: keep Win % on one line; show empty record boxes as borders only */
 .nowrap {
     white-space: nowrap;
