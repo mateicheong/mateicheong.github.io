@@ -1055,4 +1055,39 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     text-align: center;
 }
 
+/* Season page: league standings */
+.la-ligue-clubs-table-scroll .season-league-table {
+    width: max-content;
+    max-width: none;
+}
+
+.season-league-table th.season-league-table__pos,
+.season-league-table td.season-league-table__pos,
+.season-league-table th.season-league-table__num,
+.season-league-table td.season-league-table__num,
+.season-league-table th.season-league-table__pts,
+.season-league-table td.season-league-table__pts,
+.season-league-table th.season-league-table__qual {
+    text-align: center;
+}
+
+.season-league-table th.season-league-table__team,
+.season-league-table td.season-league-table__team {
+    text-align: left;
+}
+
+.season-league-table td.season-league-table__pts {
+    font-weight: 700;
+}
+
+.season-league-table td.season-league-table__qual-block {
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Club season page: highlight Petite-Bourgogne row */
+.season-league-table tr.season-league-table__row--pb td {
+    font-weight: 700;
+}
+
 

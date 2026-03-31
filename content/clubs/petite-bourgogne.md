@@ -148,7 +148,7 @@ Details about Stadium
   <th class="nowrap">GA</th>
   <th class="nowrap">GD</th>
   <th class="nowrap">Pts</th>
-  <th class="nowrap">Pos.</th>
+  <th class="nowrap">Pos</th>
   <th class="nowrap">Player</th>
   <th class="nowrap">Goals</th>
 </tr>

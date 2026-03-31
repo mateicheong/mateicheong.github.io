@@ -213,7 +213,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>Rouyn-Noranda</td>
       <td>Place Osisko</td>
       <td>2022</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td><a href="/clubs/cf_saint_jean/" class="club-chip club-chip--cf-saint-jean">
