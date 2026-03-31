@@ -16,7 +16,7 @@ url: /clubs/kichi_sibi_gatineau/
 <table class="infobox-rows">
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade de la Cité</td></tr>
-<tr><th>Capacity</th><td>—</td></tr>
+<tr><th>Capacity</th><td>11,190</td></tr>
 <tr><th>Owner</th><td>Adâm Poire</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>

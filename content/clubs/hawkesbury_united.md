@@ -16,7 +16,7 @@ url: /clubs/hawkesbury_united/
 <table class="infobox-rows">
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Robert Harley Stadium</td></tr>
-<tr><th>Capacity</th><td>—</td></tr>
+<tr><th>Capacity</th><td>3,380</td></tr>
 <tr><th>Owner</th><td>—</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>

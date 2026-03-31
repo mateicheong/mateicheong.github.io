@@ -16,7 +16,7 @@ url: /clubs/deux_rives/
 <table class="infobox-rows">
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Jardins Dorion</td></tr>
-<tr><th>Capacity</th><td>—</td></tr>
+<tr><th>Capacity</th><td>5,460</td></tr>
 <tr><th>Owner</th><td>Antoine Marco</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
