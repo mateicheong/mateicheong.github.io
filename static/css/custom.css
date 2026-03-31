@@ -320,6 +320,16 @@ html[data-theme="dark"] .infobox {
     gap: 0.35rem;
 }
 
+/* Let content flow beside the floated infobox when it fits… */
+.club-lead {
+    margin-bottom: 0.35rem;
+}
+
+/* …but force wide tables/blocks to start below it (prevents overlap). */
+.la-ligue-clubs-table-scroll {
+    clear: both;
+}
+
 .club-lead-intro {
     margin-top: 0;
 }

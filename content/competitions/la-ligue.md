@@ -23,10 +23,10 @@ aliases:
 <tr><th>Number of clubs</th><td>18</td></tr>
 <tr><th>Domestic cup</th><td>Canadian Championship</td></tr>
 <tr><th>International cup</th><td>CONCACAF Champions Cup</td></tr>
-<tr><th>Current champions</th><td>x</td></tr>
-<tr><th>Most championships</th><td>x</td></tr>
-<tr><th>Most appearances</th><td>x</td></tr>
-<tr><th>Top scorer</th><td>x</td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a></td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
+<tr><th>Most appearances</th><td>Dorian Giroud (35)</td></tr>
+<tr><th>Top scorer</th><td>Umberto Di Vincenzo (16)</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
 </div>
