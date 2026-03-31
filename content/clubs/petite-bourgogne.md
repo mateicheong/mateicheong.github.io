@@ -125,8 +125,8 @@ Details about Stadium
 
 ## Team statistics and records
 #### Year-by-year
-<div class="squad-grid">
-<table class="squad-table squad-table--petite-bourgogne year-by-year-table">
+<div class="squad-grid year-by-year-table">
+<table class="squad-table squad-table--petite-bourgogne">
 <thead>
 <tr>
   <th rowspan="2">Season</th>
