@@ -612,6 +612,56 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     white-space: nowrap;
 }
 
+/* Overall record table (PB 2023): same no-wrap + horizontal scroll + mini subheader boxes */
+.overall-record-table {
+    width: max-content;
+    max-width: none;
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+.overall-record-table th,
+.overall-record-table td {
+    white-space: nowrap;
+}
+
+.overall-record-table thead tr:first-child th {
+    text-align: center;
+}
+
+.overall-record-table thead tr:first-child th[rowspan] {
+    text-align: left;
+}
+
+.overall-record-table thead tr:nth-child(2) th {
+    padding: 0.3rem 0.35rem;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    background: transparent !important;
+    color: var(--color-text) !important;
+}
+
+.overall-record-table tbody td {
+    text-align: center;
+}
+
+.overall-record-table tbody td:nth-child(-n + 4) {
+    text-align: left;
+}
+
+/* Center Final position (4th column) */
+.overall-record-table tbody td:nth-child(4) {
+    text-align: center;
+}
+
+/* Overall record: highlight winners (e.g. "1st" / "Won") */
+.overall-record-table td.final-position--winner {
+    background-color: #ECBB7C;
+    color: #1a1a1a;
+    font-weight: 500;
+}
+
 /* Year-by-year: center grouped headers over subcolumns; style subheader cells like "mini" boxes */
 .year-by-year-table thead tr:first-child th {
     text-align: center;

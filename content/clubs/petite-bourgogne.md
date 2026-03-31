@@ -156,7 +156,7 @@ Details about Stadium
 <tbody>
 <tr>
   <td><a href="/clubs/petite-bourgogne/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>22</td><td>69</td><td>2nd</td><td>Won</td><td>—</td><td>R1</td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td>Won</td><td>—</td><td>R1</td>
   <td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18"> Jonathan Hogg<td>15</td>
 </tr>
 </tbody>
