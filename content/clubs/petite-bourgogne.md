@@ -75,7 +75,7 @@ Details about Stadium
 <tr><td>32</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sean Duffy</td></tr>
 <tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Simone Piana</td></tr>
 <tr><td>34</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lewis Urquhart</td></tr>
-<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michael Yavorsky</td></tr>
+<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michel Yavorsky</td></tr>
 <tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lukas O'Regan</td></tr>
 <tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alessandro Ghisolfi</td></tr>
 <tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ewan Chagnaud</td></tr>

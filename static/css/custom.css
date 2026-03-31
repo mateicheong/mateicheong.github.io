@@ -478,6 +478,44 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     padding: 0.3rem 0.35rem;
 }
 
+/* Squad roster tables: section header rows inside tbody */
+.squad-table .squad-group-row th {
+    text-align: center;
+    font-weight: 700;
+    padding: 0.35rem 0.35rem;
+}
+
+/* 2023 Petite-Bourgogne squad table: center key numeric/compact columns */
+#pb-2023-squad th:nth-child(1),
+#pb-2023-squad td:nth-child(1),
+#pb-2023-squad th:nth-child(3),
+#pb-2023-squad td:nth-child(3),
+#pb-2023-squad th:nth-child(4),
+#pb-2023-squad td:nth-child(4),
+#pb-2023-squad th:nth-child(5),
+#pb-2023-squad td:nth-child(5),
+#pb-2023-squad th:nth-child(7),
+#pb-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* Transfers table (PB 2023): keep everything one-line; scroll horizontally if needed */
+#pb-2023-transfers-in,
+#pb-2023-transfers-out {
+    width: max-content;
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+#pb-2023-transfers-in th,
+#pb-2023-transfers-in td,
+#pb-2023-transfers-out th,
+#pb-2023-transfers-out td {
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
 /* Coach record table: keep Win % on one line; show empty record boxes as borders only */
 .nowrap {
     white-space: nowrap;
