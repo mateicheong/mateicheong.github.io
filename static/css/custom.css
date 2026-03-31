@@ -309,6 +309,17 @@ html[data-theme="dark"] .infobox {
     gap: 0.35rem;
 }
 
+.infobox .infobox-rows .infobox-season-next {
+    text-align: right;
+    padding-top: 0.5rem;
+}
+
+.infobox .infobox-rows .infobox-season-next a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
 .club-lead-intro {
     margin-top: 0;
 }
@@ -465,6 +476,85 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 
 .squad-table td {
     padding: 0.3rem 0.35rem;
+}
+
+/* Coach record table: keep Win % on one line; show empty record boxes as borders only */
+.nowrap {
+    white-space: nowrap;
+}
+
+.coach-record-table {
+    width: max-content;
+    max-width: none;
+}
+
+.coach-record-table th,
+.coach-record-table td {
+    white-space: nowrap;
+}
+
+.coach-record-table {
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+/* Year-by-year table: same no-wrap + horizontal scroll treatment */
+.year-by-year-table {
+    width: max-content;
+    max-width: none;
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+.year-by-year-table th,
+.year-by-year-table td {
+    white-space: nowrap;
+}
+
+/* Year-by-year: center grouped headers over subcolumns; style subheader cells like "mini" boxes */
+.year-by-year-table thead tr:first-child th {
+    text-align: center;
+}
+
+.year-by-year-table thead tr:first-child th[rowspan] {
+    text-align: left;
+}
+
+.year-by-year-table thead tr:nth-child(2) th {
+    padding: 0.3rem 0.35rem;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    background: transparent !important;
+    color: var(--color-text) !important;
+}
+
+.year-by-year-table tbody td {
+    text-align: center;
+}
+
+/* Keep only the Player column left-aligned (data cells) */
+.year-by-year-table tbody td:nth-child(17) {
+    text-align: left;
+}
+
+/* Allow only "Average attendance" to be two lines */
+.year-by-year-table th.avg-attendance {
+    white-space: normal;
+    line-height: 1.15;
+}
+
+.coach-record-table thead tr:nth-child(2) th {
+    padding: 0.3rem 0.35rem;
+    text-align: center;
+    border: 1px solid var(--color-border);
+    background: transparent !important;
+    color: var(--color-text) !important;
+}
+
+.coach-record-table tbody td:nth-child(n + 4) {
+    text-align: center;
 }
 
 /* Flag icons in squad tables (Hugo serves static/ at site root: /images/flags/...) */
