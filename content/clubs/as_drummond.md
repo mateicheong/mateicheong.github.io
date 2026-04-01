@@ -48,7 +48,6 @@ Stadium details.
 <tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gianmarco Franceschini</td></tr>
 <tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dornell Lewis</td></tr>
 <tr><td>34</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nicolas Dubuc</td></tr>
-<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonin Maisonnave</td></tr>
 </tbody>
 </table>
 
@@ -57,6 +56,7 @@ Stadium details.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
+<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonin Maisonnave</td></tr>
 <tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Smith</td></tr>
 <tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Satoshi Omori</td></tr>
 <tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Gil</td></tr>
