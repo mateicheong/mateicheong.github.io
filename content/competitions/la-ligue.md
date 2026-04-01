@@ -179,7 +179,10 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>0</td>
     </tr>
     <tr>
-      <td>Métabéroutin</td>
+      <td><a href="/clubs/metaberoutin/" class="club-chip club-chip--metaberoutin">
+    <img src="/images/clubs/metaberoutin.png" alt="Métabéroutin logo">
+    <span>Métabéroutin</span>
+  </a></td>
       <td>Trois-Rivières</td>
       <td>Stade Martin-Bergeron</td>
       <td>2022</td>

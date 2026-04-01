@@ -18,7 +18,7 @@ url: /clubs/athlétique_de_montréal/
 <tr><th>Stadium</th><td>Olympic Stadium</td></tr>
 <tr><th>Capacity</th><td>72,000</td></tr>
 <tr><th>Owner</th><td>Vicente Piaciente</td></tr>
-<tr><th>Head Coach</th><td>—</td></tr>
+<tr><th>Head Coach</th><td>John Haddow</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
@@ -40,7 +40,18 @@ Stadium details.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""></td><td>—</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yuri Pasquini</td></tr>
+<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Nguyen</td></tr>
+<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacopo Dadina</td></tr>
+<tr><td>6</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yacine Zouaoui</td></tr>
+<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ousmane Conté</td></tr>
+<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alexandre Guimard</td></tr>
+<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jarid Budd</td></tr>
+<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Connolly</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christopher Brossard</td></tr>
+<tr><td>30</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Bruckert</td></tr>
+<tr><td>31</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roberto Castelnuovo</td></tr>
+<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paulo De Wilde</td></tr>
 </tbody>
 </table>
 
@@ -49,7 +60,18 @@ Stadium details.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>12</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""></td><td>—</td></tr>
+<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joe Charlesworth</td></tr>
+<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Belaïd Cherifi</td></tr>
+<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Coen Westra</td></tr>
+<tr><td>36</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eoghan Gleeson</td></tr>
+<tr><td>37</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Goran Petrić</td></tr>
+<tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jake Belcher-Heard</td></tr>
+<tr><td>39</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Massillon Chérestal</td></tr>
+<tr><td>40</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Lyonnet</td></tr>
+<tr><td>41</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marko Kovacevic</td></tr>
+<tr><td>42</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gustavo Santacruz</td></tr>
+<tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Enrico Godói</td></tr>
+<tr><td>44</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Denis Marechal</td></tr>
 </tbody>
 </table>
 </div>

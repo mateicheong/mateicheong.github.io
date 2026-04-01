@@ -252,6 +252,10 @@ html[data-theme="dark"] .infobox--cs-chateauguay {
     border-color: #C8B060;
 }
 
+.infobox--metaberoutin {
+    border-color: #FC722A;
+}
+
 .infobox--la-ligue {
     border-color: #2383C7;
 }
@@ -482,6 +486,11 @@ html[data-theme="dark"] .squad-table--bastions-de-quebec th {
 html[data-theme="dark"] .squad-table--cs-chateauguay th {
     background-color: #C8B060;
     color: #1a1a1a;
+}
+
+.squad-table--metaberoutin th {
+    background-color: #FC722A;
+    color: #FFFFFF;
 }
 
 .squad-table td {
@@ -913,6 +922,26 @@ html[data-theme="dark"] .club-chip--cs-chateauguay {
     background-color: rgba(200, 176, 96, 0.15);
 }
 
+.club-chip--metaberoutin {
+    color: #FC722A;
+    background-color: rgba(252, 114, 42, 0.15);
+}
+
+html[data-theme="dark"] .club-chip--metaberoutin {
+    color: #FC722A;
+    background-color: rgba(252, 114, 42, 0.2);
+}
+
+.club-chip--metaberoutin:hover,
+.club-chip--metaberoutin:focus-visible {
+    background-color: rgba(252, 114, 42, 0.28);
+}
+
+html[data-theme="dark"] .club-chip--metaberoutin:hover,
+html[data-theme="dark"] .club-chip--metaberoutin:focus-visible {
+    background-color: rgba(252, 114, 42, 0.35);
+}
+
 .club-chip--petite-bourgogne:hover,
 .club-chip--petite-bourgogne:focus-visible {
     background-color: rgba(159, 32, 66, 0.25);
@@ -1158,5 +1187,9 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     display: inline-block;
     vertical-align: middle;
     margin-right: 0.35rem;
+}
+
+.top-scorers-table td.top-scorers-table__club .club-chip {
+    vertical-align: middle;
 }
 

@@ -96,6 +96,11 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
     <span>CS Châteauguay</span>
   </a>
 
+  <a href="/clubs/metaberoutin/" class="club-chip club-chip--metaberoutin">
+    <img src="/images/clubs/metaberoutin.png" alt="Métabéroutin logo">
+    <span>Métabéroutin</span>
+  </a>
+
  
 </div>
 
