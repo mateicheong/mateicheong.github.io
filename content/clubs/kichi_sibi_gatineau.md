@@ -20,6 +20,12 @@ url: /clubs/kichi_sibi_gatineau/
 <tr><th>Owner</th><td>Adâm Poire</td></tr>
 <tr><th>Head Coach</th><td>Jake Dunn</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "kichisibi_home.png" "Kichi Sibi home kit" "Home colours" >}}
+{{< club_kit "kichisibi_away.png" "Kichi Sibi away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
 </div>
