@@ -20,7 +20,7 @@ url: /clubs/rouyn_noranda/
 <tr><th>Owner</th><td>Jean-Paul Carre</td></tr>
 <tr><th>Head Coach</th><td>Yanis Campana</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/rouyn_noranda/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

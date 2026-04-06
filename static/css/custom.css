@@ -518,19 +518,44 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* Transfers table (PB 2023): keep everything one-line; scroll horizontally if needed */
-#pb-2023-transfers-in,
-#pb-2023-transfers-out {
+/* 2023 Kichi Sibi squad table: same column alignment as Petite-Bourgogne */
+#ks-2023-squad th:nth-child(1),
+#ks-2023-squad td:nth-child(1),
+#ks-2023-squad th:nth-child(3),
+#ks-2023-squad td:nth-child(3),
+#ks-2023-squad th:nth-child(4),
+#ks-2023-squad td:nth-child(4),
+#ks-2023-squad th:nth-child(5),
+#ks-2023-squad td:nth-child(5),
+#ks-2023-squad th:nth-child(7),
+#ks-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* 2023 Rouyn-Noranda squad table: same column alignment */
+#rn-2023-squad th:nth-child(1),
+#rn-2023-squad td:nth-child(1),
+#rn-2023-squad th:nth-child(3),
+#rn-2023-squad td:nth-child(3),
+#rn-2023-squad th:nth-child(4),
+#rn-2023-squad td:nth-child(4),
+#rn-2023-squad th:nth-child(5),
+#rn-2023-squad td:nth-child(5),
+#rn-2023-squad th:nth-child(7),
+#rn-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* Transfers tables (season pages): single-line cells; horizontal scroll if narrow */
+.squad-table.transfers-table {
     width: max-content;
     max-width: 100%;
     overflow-x: auto;
     display: block;
 }
 
-#pb-2023-transfers-in th,
-#pb-2023-transfers-in td,
-#pb-2023-transfers-out th,
-#pb-2023-transfers-out td {
+.squad-table.transfers-table th,
+.squad-table.transfers-table td {
     vertical-align: middle;
     white-space: nowrap;
 }
@@ -1152,6 +1177,16 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 
 /* Club season page: highlight Petite-Bourgogne row */
 .season-league-table tr.season-league-table__row--pb td {
+    font-weight: 700;
+}
+
+/* Club season page: highlight Kichi Sibi row */
+.season-league-table tr.season-league-table__row--kichi-sibi td {
+    font-weight: 700;
+}
+
+/* Club season page: highlight Rouyn-Noranda row */
+.season-league-table tr.season-league-table__row--rouyn-noranda td {
     font-weight: 700;
 }
 
