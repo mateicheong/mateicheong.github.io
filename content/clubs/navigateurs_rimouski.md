@@ -20,6 +20,12 @@ url: /clubs/navigateurs_rimouski/
 <tr><th>Owner</th><td>Michael Dubois</td></tr>
 <tr><th>Head Coach</th><td>Marcel Villaume</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "navigateurs_home.png" "Navigateurs de Rimouski home kit" "Home colours" >}}
+{{< club_kit "navigateurs_away.png" "Navigateurs de Rimouski away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
 </table>
 </div>
