@@ -28,10 +28,8 @@ url: /clubs/rouyn_noranda/
 </div>
 
 ## History
-Club history paragraph.
+On their first season as a team, and as the first ever La Ligue season, the club took home the first title on goal difference from <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> who also finished the season with 69 points.
 
-## Stadium
-Stadium details.
 
 ## Current squad
 <div class="squad-grid">
