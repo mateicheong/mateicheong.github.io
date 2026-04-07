@@ -587,6 +587,9 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     width: 100%;
     table-layout: auto;
     display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 .friendlies-table td {
@@ -617,7 +620,9 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 @media screen and (max-width: 48rem) {
     .friendlies-table tbody {
         column-gap: 0.6rem;
-        grid-template-columns: max-content max-content minmax(0, 1fr) 4.25rem minmax(0, 1fr) max-content;
+        /* On mobile, prefer horizontal scroll over squishing team names. */
+        width: max-content;
+        grid-template-columns: max-content max-content max-content 4.25rem max-content max-content;
     }
 }
 
