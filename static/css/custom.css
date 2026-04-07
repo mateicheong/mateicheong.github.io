@@ -546,6 +546,44 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
+/* 2023 Locomotive squad table: same column alignment */
+#loc-2023-squad th:nth-child(1),
+#loc-2023-squad td:nth-child(1),
+#loc-2023-squad th:nth-child(3),
+#loc-2023-squad td:nth-child(3),
+#loc-2023-squad th:nth-child(4),
+#loc-2023-squad td:nth-child(4),
+#loc-2023-squad th:nth-child(5),
+#loc-2023-squad td:nth-child(5),
+#loc-2023-squad th:nth-child(7),
+#loc-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* 2023 Deux-Rives + Bastions templates: same column alignment */
+#dr-2023-squad th:nth-child(1),
+#dr-2023-squad td:nth-child(1),
+#dr-2023-squad th:nth-child(3),
+#dr-2023-squad td:nth-child(3),
+#dr-2023-squad th:nth-child(4),
+#dr-2023-squad td:nth-child(4),
+#dr-2023-squad th:nth-child(5),
+#dr-2023-squad td:nth-child(5),
+#dr-2023-squad th:nth-child(7),
+#dr-2023-squad td:nth-child(7),
+#bdq-2023-squad th:nth-child(1),
+#bdq-2023-squad td:nth-child(1),
+#bdq-2023-squad th:nth-child(3),
+#bdq-2023-squad td:nth-child(3),
+#bdq-2023-squad th:nth-child(4),
+#bdq-2023-squad td:nth-child(4),
+#bdq-2023-squad th:nth-child(5),
+#bdq-2023-squad td:nth-child(5),
+#bdq-2023-squad th:nth-child(7),
+#bdq-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
 /* Transfers tables (season pages): single-line cells; horizontal scroll if narrow */
 .squad-table.transfers-table {
     width: max-content;
@@ -1192,6 +1230,16 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 
 /* Club season page: highlight Rouyn-Noranda row */
 .season-league-table tr.season-league-table__row--rouyn-noranda td {
+    font-weight: 700;
+}
+
+/* Club season page: highlight Locomotive row */
+.season-league-table tr.season-league-table__row--locomotive td {
+    font-weight: 700;
+}
+
+/* Club season pages: any explicitly-marked club row */
+.season-league-table tr[class^="season-league-table__row--"] td {
     font-weight: 700;
 }
 

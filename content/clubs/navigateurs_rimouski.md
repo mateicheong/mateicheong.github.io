@@ -3,6 +3,8 @@ title: "Navigateurs de Rimouski"
 date: 2026-03-25
 draft: false
 url: /clubs/navigateurs_rimouski/
+aliases:
+  - /clubs/navigateurs/
 ---
 
 # Navigateurs de Rimouski

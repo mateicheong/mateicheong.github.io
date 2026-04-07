@@ -3,6 +3,8 @@ title: "Draveurs de Sherbrooke"
 date: 2026-03-25
 draft: false
 url: /clubs/draveurs_sherbrooke/
+aliases:
+  - /clubs/draveurs/
 ---
 
 # Draveurs de Sherbrooke

@@ -3,6 +3,10 @@ title: "Athlétique de Montréal"
 date: 2026-03-26
 draft: false
 url: /clubs/athlétique_de_montréal/
+aliases:
+  - /clubs/athletique_de_montreal/
+  - /clubs/montréal/
+  - /clubs/montreal/
 ---
 
 # Athlétique de Montréal

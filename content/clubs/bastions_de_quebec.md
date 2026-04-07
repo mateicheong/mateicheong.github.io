@@ -26,7 +26,7 @@ url: /clubs/bastions_de_quebec/
 {{< club_kit "bastions_away.png" "Bastions de Québec away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/bastions_de_quebec/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

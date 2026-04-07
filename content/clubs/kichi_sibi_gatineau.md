@@ -3,6 +3,8 @@ title: "Kichi Sibi"
 date: 2026-03-26
 draft: false
 url: /clubs/kichi_sibi_gatineau/
+aliases:
+  - /clubs/kichi_sibi/
 ---
 
 # Kichi Sibi de Gatineau

@@ -22,7 +22,7 @@ aliases:
 <tr><th>Owner</th><td>Antoine Marco</td></tr>
 <tr><th>Head Coach</th><td>Chris Wilson</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/deux-rives/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

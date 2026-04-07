@@ -3,6 +3,8 @@ title: "Zénith"
 date: 2026-03-26
 draft: false
 url: /clubs/zénith/
+aliases:
+  - /clubs/zenith/
 ---
 
 # Zénith

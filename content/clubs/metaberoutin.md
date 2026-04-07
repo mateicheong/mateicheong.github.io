@@ -3,6 +3,8 @@ title: "Métabéroutin"
 date: 2026-03-31
 draft: false
 url: /clubs/metaberoutin/
+aliases:
+  - /clubs/métabéroutin/
 ---
 
 # Métabéroutin

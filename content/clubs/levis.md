@@ -3,6 +3,8 @@ title: "Lévis"
 date: 2026-03-26
 draft: false
 url: /clubs/lévis/
+aliases:
+  - /clubs/levis/
 ---
 
 # Lévis
