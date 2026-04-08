@@ -30,8 +30,11 @@ url: /clubs/rouyn_noranda/
 ## History
 On their first season as a team, and as the first ever La Ligue season, the club took home the first title on goal difference from <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> who also finished the season with 69 points.
 
+## Stadium
+The club plays at <strong>Place Osisko</strong> in Rouyn-Noranda (capacity 5,340). The stadium boasts a dome that covers the field to accomodate year round use. Setting up these fields required a tremendous amount of effort and extensive discussions with the provincial government to secure funding. It was a vital necessity into bringing a team in the Abitibi-Témiscamingue region in Québec. 
 
-## Current squad
+## Players & Staff
+#### First team squad
 <div class="squad-grid">
 <table class="squad-table squad-table--rouyn-noranda">
 <thead>
@@ -64,6 +67,85 @@ On their first season as a team, and as the first ever La Ligue season, the club
 <tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Adis Ivanović</td></tr>
 <tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alessandro Bosch</td></tr>
 <tr><td>39</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Felipe Ybom</td></tr>
+<tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Piotr Kurowski</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Out on loan
+<div class="squad-grid">
+<table class="squad-table squad-table--rouyn-noranda">
+<thead>
+<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
+</thead>
+<tbody>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Omar Pérez</td><td>Pacific FC</td></tr>
+<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mark Warren</td><td>Greenock Morton</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Club Captains
+<div class="squad-grid">
+<table class="squad-table squad-table--rouyn-noranda">
+<thead>
+<tr><th>Period</th><th>Name</th><th>Nation</th></tr>
+</thead>
+<tbody>
+<tr><td>2023</td><td>Robin Graff</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Head coach
+<div class="squad-grid">
+<table class="squad-table squad-table--rouyn-noranda coach-record-table">
+<thead>
+<tr><th rowspan="2">Name</th><th rowspan="2">Nation</th><th rowspan="2">Tenure</th><th colspan="5">Record</th></tr>
+<tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
+</thead>
+<tbody>
+<tr><td>Yanis Campana</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 15, 2023 - Present</td><td>38</td><td>23</td><td>9</td><td>6</td><td>60%</td></tr>
+</tbody>
+</table>
+</div>
+
+## Team statistics and records
+#### Year-by-year
+<div class="squad-grid year-by-year-table">
+<table class="squad-table squad-table--rouyn-noranda">
+<thead>
+<tr>
+  <th rowspan="2">Season</th>
+  <th colspan="10">League</th>
+  <th rowspan="2">CDQ</th>
+  <th rowspan="2">SCQ</th>
+  <th rowspan="2">CC</th>
+  <th rowspan="2">Continental</th>
+  <th rowspan="2" class="avg-attendance">Average<br>attendance</th>
+  <th colspan="2" class="nowrap">Top goalscorer(s)</th>
+</tr>
+<tr>
+  <th class="nowrap">League</th>
+  <th class="nowrap">Pld</th>
+  <th class="nowrap">W</th>
+  <th class="nowrap">D</th>
+  <th class="nowrap">L</th>
+  <th class="nowrap">GF</th>
+  <th class="nowrap">GA</th>
+  <th class="nowrap">GD</th>
+  <th class="nowrap">Pts</th>
+  <th class="nowrap">Pos</th>
+  <th class="nowrap">Player</th>
+  <th class="nowrap">Goals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="/clubs/rouyn_noranda/2023/">2023</a></td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>59</td><td>24</td><td>+35</td><td>69</td><td class="final-position--winner">1st</td><td>SF</td><td>—</td><td>—</td>
+  <td>—</td><td>5,324</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Robin Graff</td><td>11</td>
+</tr>
 </tbody>
 </table>
 </div>

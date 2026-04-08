@@ -1261,8 +1261,9 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* Overall record: highlight winners (e.g. "1st" / "Won") */
-.overall-record-table td.final-position--winner {
+/* Overall record & year-by-year: highlight winners (e.g. "1st" / "Won" in cup columns) */
+.overall-record-table td.final-position--winner,
+.year-by-year-table td.final-position--winner {
     background-color: #ECBB7C;
     color: #1a1a1a;
     font-weight: 500;

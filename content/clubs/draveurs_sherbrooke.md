@@ -33,9 +33,10 @@ aliases:
 Club history paragraph.
 
 ## Stadium
-Stadium details.
+In partnership with the Université de Sherbrooke, the club trains and plays on their multisport field.
 
-## Current squad
+## Players & Staff
+#### First team squad
 <div class="squad-grid">
 <table class="squad-table squad-table--draveurs-sherbrooke">
 <thead>
@@ -66,6 +67,86 @@ Stadium details.
 <tr><td>33</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tyler Harding</td></tr>
 <tr><td>36</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Leonardo Petrone</td></tr>
 <tr><td>40</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rob White</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Out on loan
+<div class="squad-grid">
+<table class="squad-table squad-table--draveurs-sherbrooke">
+<thead>
+<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
+</thead>
+<tbody>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Darren Freeman</td><td>Cavalry FC</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mikel Sierralta</td><td>Mikkelin Palloilijat</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Club Captains
+<div class="squad-grid">
+<table class="squad-table squad-table--draveurs-sherbrooke">
+<thead>
+<tr><th>Period</th><th>Name</th><th>Nation</th></tr>
+</thead>
+<tbody>
+<tr><td>2023</td><td>Miklós Németh</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Head coach
+<div class="squad-grid">
+<table class="squad-table squad-table--draveurs-sherbrooke coach-record-table">
+<thead>
+<tr><th rowspan="2">Name</th><th rowspan="2">Nation</th><th rowspan="2">Tenure</th><th colspan="5">Record</th></tr>
+<tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
+</thead>
+<tbody>
+<tr><td>Raphaël Roy</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 17, 2023 - Present</td><td>19</td><td>9</td><td>5</td><td>5</td><td>47%</td></tr>
+<tr><td>Tom Eastwood (interim)</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>May 24, 2023 - June 17, 2023</td><td>5</td><td>3</td><td>0</td><td>2</td><td>60%</td></tr>
+<tr><td>Chris Robers</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - May 24, 2023</td><td>11</td><td>2</td><td>3</td><td>6</td><td>18%</td></tr>
+</tbody>
+</table>
+</div>
+
+## Team statistics and records
+#### Year-by-year
+<div class="squad-grid year-by-year-table">
+<table class="squad-table squad-table--draveurs-sherbrooke">
+<thead>
+<tr>
+  <th rowspan="2">Season</th>
+  <th colspan="10">League</th>
+  <th rowspan="2">CDQ</th>
+  <th rowspan="2">SCQ</th>
+  <th rowspan="2">CC</th>
+  <th rowspan="2">Continental</th>
+  <th rowspan="2" class="avg-attendance">Average<br>attendance</th>
+  <th colspan="2" class="nowrap">Top goalscorer(s)</th>
+</tr>
+<tr>
+  <th class="nowrap">League</th>
+  <th class="nowrap">Pld</th>
+  <th class="nowrap">W</th>
+  <th class="nowrap">D</th>
+  <th class="nowrap">L</th>
+  <th class="nowrap">GF</th>
+  <th class="nowrap">GA</th>
+  <th class="nowrap">GD</th>
+  <th class="nowrap">Pts</th>
+  <th class="nowrap">Pos</th>
+  <th class="nowrap">Player</th>
+  <th class="nowrap">Goals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="/clubs/draveurs_sherbrooke/2023/">2023</a></td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>14</td><td>8</td><td>12</td><td>42</td><td>41</td><td>+1</td><td>50</td><td>7th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>10,937</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Tom Poulain</td><td>10</td>
+</tr>
 </tbody>
 </table>
 </div>

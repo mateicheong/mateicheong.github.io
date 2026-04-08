@@ -105,7 +105,7 @@ Details about Stadium
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td><a href="/clubs/petite-bourgogne/2023/">2023</a></td><td>Jonathan Hogg</td><td><img src="/images/flags/ca.svg" width="18"> Canada</td></tr>
+<tr><td>2023</td><td>Jonathan Hogg</td><td><img src="/images/flags/ca.svg" width="18"> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -118,7 +118,7 @@ Details about Stadium
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18"> Canada</td><td>April 5, 2023 - Present</td><td>39</td><td>24</td><td>9</td><td>6</td><td>61%</td></tr>
+<tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>April 5, 2023 - Present</td><td>39</td><td>24</td><td>9</td><td>6</td><td>61%</td></tr>
 </tbody>
 </table>
 </div>
@@ -156,8 +156,8 @@ Details about Stadium
 <tbody>
 <tr>
   <td><a href="/clubs/petite-bourgogne/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td>Won</td><td>—</td><td>R1</td>
-  <td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18"> Jonathan Hogg<td>15</td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
+  <td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Hogg</td><td>15</td>
 </tr>
 </tbody>
 </table>
