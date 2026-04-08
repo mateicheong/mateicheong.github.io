@@ -630,13 +630,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* CF Saint-Jean main club page: 4-column squad (No., Pos., Nation centered) */
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(3) {
+/* CF Saint-Jean main club page: 4-column squad (No., Pos., Nation centered); not season transfers */
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -672,13 +672,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* AS Drummond main club page: 4-column squad */
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(3) {
+/* AS Drummond main club page: 4-column squad; not season transfers */
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -719,12 +719,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(3) {
+/* CS Châteauguay main club page 4-col squad; not season transfers */
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -765,12 +766,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
