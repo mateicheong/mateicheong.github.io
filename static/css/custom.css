@@ -1234,6 +1234,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
+/* Override per-club .squad-grid … :nth-child(1–3) centering: Competition / First match / Last match stay left */
+.squad-grid.overall-record-table .squad-table:not(.sortable-squad):not(.transfers-table) thead tr:first-child > th:nth-child(-n + 3),
+.squad-grid.overall-record-table .squad-table:not(.sortable-squad):not(.transfers-table) tbody td:nth-child(-n + 3) {
+    text-align: left;
+}
+
 .overall-record-table thead tr:nth-child(2) th {
     padding: 0.3rem 0.35rem;
     text-align: center;
