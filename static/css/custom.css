@@ -812,12 +812,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -858,12 +858,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -904,12 +904,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -950,12 +950,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -996,12 +996,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1042,12 +1042,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1088,12 +1088,12 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(1),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(1),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(2),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(2),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(3),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(3) {
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
     text-align: center;
 }
 
