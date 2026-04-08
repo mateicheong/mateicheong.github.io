@@ -580,7 +580,458 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 #bdq-2023-squad th:nth-child(5),
 #bdq-2023-squad td:nth-child(5),
 #bdq-2023-squad th:nth-child(7),
-#bdq-2023-squad td:nth-child(7) {
+#bdq-2023-squad td:nth-child(7),
+#drv-2023-squad th:nth-child(1),
+#drv-2023-squad td:nth-child(1),
+#drv-2023-squad th:nth-child(3),
+#drv-2023-squad td:nth-child(3),
+#drv-2023-squad th:nth-child(4),
+#drv-2023-squad td:nth-child(4),
+#drv-2023-squad th:nth-child(5),
+#drv-2023-squad td:nth-child(5),
+#drv-2023-squad th:nth-child(6),
+#drv-2023-squad td:nth-child(6),
+#drv-2023-squad th:nth-child(7),
+#drv-2023-squad td:nth-child(7),
+#csj-2023-squad th:nth-child(1),
+#csj-2023-squad td:nth-child(1),
+#csj-2023-squad th:nth-child(3),
+#csj-2023-squad td:nth-child(3),
+#csj-2023-squad th:nth-child(4),
+#csj-2023-squad td:nth-child(4),
+#csj-2023-squad th:nth-child(5),
+#csj-2023-squad td:nth-child(5),
+#csj-2023-squad th:nth-child(6),
+#csj-2023-squad td:nth-child(6),
+#csj-2023-squad th:nth-child(7),
+#csj-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* CF Saint-Jean 2023 squad: reinforce vs .squad-table th { text-align: left } */
+#csj-2023-squad.sortable-squad th:nth-child(1),
+#csj-2023-squad.sortable-squad td:nth-child(1),
+#csj-2023-squad.sortable-squad th:nth-child(3),
+#csj-2023-squad.sortable-squad td:nth-child(3),
+#csj-2023-squad.sortable-squad th:nth-child(4),
+#csj-2023-squad.sortable-squad td:nth-child(4),
+#csj-2023-squad.sortable-squad th:nth-child(5),
+#csj-2023-squad.sortable-squad td:nth-child(5),
+#csj-2023-squad.sortable-squad th:nth-child(6),
+#csj-2023-squad.sortable-squad td:nth-child(6),
+#csj-2023-squad.sortable-squad th:nth-child(7),
+#csj-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* CF Saint-Jean main club page: 4-column squad (No., Pos., Nation centered) */
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 AS Drummond squad: center No., Nationality, Position, Age, Signed from, Apps */
+#ad-2023-squad th:nth-child(1),
+#ad-2023-squad td:nth-child(1),
+#ad-2023-squad th:nth-child(3),
+#ad-2023-squad td:nth-child(3),
+#ad-2023-squad th:nth-child(4),
+#ad-2023-squad td:nth-child(4),
+#ad-2023-squad th:nth-child(5),
+#ad-2023-squad td:nth-child(5),
+#ad-2023-squad th:nth-child(6),
+#ad-2023-squad td:nth-child(6),
+#ad-2023-squad th:nth-child(7),
+#ad-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#ad-2023-squad.sortable-squad th:nth-child(1),
+#ad-2023-squad.sortable-squad td:nth-child(1),
+#ad-2023-squad.sortable-squad th:nth-child(3),
+#ad-2023-squad.sortable-squad td:nth-child(3),
+#ad-2023-squad.sortable-squad th:nth-child(4),
+#ad-2023-squad.sortable-squad td:nth-child(4),
+#ad-2023-squad.sortable-squad th:nth-child(5),
+#ad-2023-squad.sortable-squad td:nth-child(5),
+#ad-2023-squad.sortable-squad th:nth-child(6),
+#ad-2023-squad.sortable-squad td:nth-child(6),
+#ad-2023-squad.sortable-squad th:nth-child(7),
+#ad-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+/* AS Drummond main club page: 4-column squad */
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 CS Châteauguay squad */
+#cscg-2023-squad th:nth-child(1),
+#cscg-2023-squad td:nth-child(1),
+#cscg-2023-squad th:nth-child(3),
+#cscg-2023-squad td:nth-child(3),
+#cscg-2023-squad th:nth-child(4),
+#cscg-2023-squad td:nth-child(4),
+#cscg-2023-squad th:nth-child(5),
+#cscg-2023-squad td:nth-child(5),
+#cscg-2023-squad th:nth-child(6),
+#cscg-2023-squad td:nth-child(6),
+#cscg-2023-squad th:nth-child(7),
+#cscg-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#cscg-2023-squad.sortable-squad th:nth-child(1),
+#cscg-2023-squad.sortable-squad td:nth-child(1),
+#cscg-2023-squad.sortable-squad th:nth-child(3),
+#cscg-2023-squad.sortable-squad td:nth-child(3),
+#cscg-2023-squad.sortable-squad th:nth-child(4),
+#cscg-2023-squad.sortable-squad td:nth-child(4),
+#cscg-2023-squad.sortable-squad th:nth-child(5),
+#cscg-2023-squad.sortable-squad td:nth-child(5),
+#cscg-2023-squad.sortable-squad th:nth-child(6),
+#cscg-2023-squad.sortable-squad td:nth-child(6),
+#cscg-2023-squad.sortable-squad th:nth-child(7),
+#cscg-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Lévis squad */
+#levis-2023-squad th:nth-child(1),
+#levis-2023-squad td:nth-child(1),
+#levis-2023-squad th:nth-child(3),
+#levis-2023-squad td:nth-child(3),
+#levis-2023-squad th:nth-child(4),
+#levis-2023-squad td:nth-child(4),
+#levis-2023-squad th:nth-child(5),
+#levis-2023-squad td:nth-child(5),
+#levis-2023-squad th:nth-child(6),
+#levis-2023-squad td:nth-child(6),
+#levis-2023-squad th:nth-child(7),
+#levis-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#levis-2023-squad.sortable-squad th:nth-child(1),
+#levis-2023-squad.sortable-squad td:nth-child(1),
+#levis-2023-squad.sortable-squad th:nth-child(3),
+#levis-2023-squad.sortable-squad td:nth-child(3),
+#levis-2023-squad.sortable-squad th:nth-child(4),
+#levis-2023-squad.sortable-squad td:nth-child(4),
+#levis-2023-squad.sortable-squad th:nth-child(5),
+#levis-2023-squad.sortable-squad td:nth-child(5),
+#levis-2023-squad.sortable-squad th:nth-child(6),
+#levis-2023-squad.sortable-squad td:nth-child(6),
+#levis-2023-squad.sortable-squad th:nth-child(7),
+#levis-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--levis:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Zénith squad */
+#zenith-2023-squad th:nth-child(1),
+#zenith-2023-squad td:nth-child(1),
+#zenith-2023-squad th:nth-child(3),
+#zenith-2023-squad td:nth-child(3),
+#zenith-2023-squad th:nth-child(4),
+#zenith-2023-squad td:nth-child(4),
+#zenith-2023-squad th:nth-child(5),
+#zenith-2023-squad td:nth-child(5),
+#zenith-2023-squad th:nth-child(6),
+#zenith-2023-squad td:nth-child(6),
+#zenith-2023-squad th:nth-child(7),
+#zenith-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#zenith-2023-squad.sortable-squad th:nth-child(1),
+#zenith-2023-squad.sortable-squad td:nth-child(1),
+#zenith-2023-squad.sortable-squad th:nth-child(3),
+#zenith-2023-squad.sortable-squad td:nth-child(3),
+#zenith-2023-squad.sortable-squad th:nth-child(4),
+#zenith-2023-squad.sortable-squad td:nth-child(4),
+#zenith-2023-squad.sortable-squad th:nth-child(5),
+#zenith-2023-squad.sortable-squad td:nth-child(5),
+#zenith-2023-squad.sortable-squad th:nth-child(6),
+#zenith-2023-squad.sortable-squad td:nth-child(6),
+#zenith-2023-squad.sortable-squad th:nth-child(7),
+#zenith-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--zenith:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Métabéroutin squad */
+#metaberoutin-2023-squad th:nth-child(1),
+#metaberoutin-2023-squad td:nth-child(1),
+#metaberoutin-2023-squad th:nth-child(3),
+#metaberoutin-2023-squad td:nth-child(3),
+#metaberoutin-2023-squad th:nth-child(4),
+#metaberoutin-2023-squad td:nth-child(4),
+#metaberoutin-2023-squad th:nth-child(5),
+#metaberoutin-2023-squad td:nth-child(5),
+#metaberoutin-2023-squad th:nth-child(6),
+#metaberoutin-2023-squad td:nth-child(6),
+#metaberoutin-2023-squad th:nth-child(7),
+#metaberoutin-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#metaberoutin-2023-squad.sortable-squad th:nth-child(1),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(1),
+#metaberoutin-2023-squad.sortable-squad th:nth-child(3),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(3),
+#metaberoutin-2023-squad.sortable-squad th:nth-child(4),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(4),
+#metaberoutin-2023-squad.sortable-squad th:nth-child(5),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(5),
+#metaberoutin-2023-squad.sortable-squad th:nth-child(6),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(6),
+#metaberoutin-2023-squad.sortable-squad th:nth-child(7),
+#metaberoutin-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Athlétique de Montréal squad */
+#adm-2023-squad th:nth-child(1),
+#adm-2023-squad td:nth-child(1),
+#adm-2023-squad th:nth-child(3),
+#adm-2023-squad td:nth-child(3),
+#adm-2023-squad th:nth-child(4),
+#adm-2023-squad td:nth-child(4),
+#adm-2023-squad th:nth-child(5),
+#adm-2023-squad td:nth-child(5),
+#adm-2023-squad th:nth-child(6),
+#adm-2023-squad td:nth-child(6),
+#adm-2023-squad th:nth-child(7),
+#adm-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#adm-2023-squad.sortable-squad th:nth-child(1),
+#adm-2023-squad.sortable-squad td:nth-child(1),
+#adm-2023-squad.sortable-squad th:nth-child(3),
+#adm-2023-squad.sortable-squad td:nth-child(3),
+#adm-2023-squad.sortable-squad th:nth-child(4),
+#adm-2023-squad.sortable-squad td:nth-child(4),
+#adm-2023-squad.sortable-squad th:nth-child(5),
+#adm-2023-squad.sortable-squad td:nth-child(5),
+#adm-2023-squad.sortable-squad th:nth-child(6),
+#adm-2023-squad.sortable-squad td:nth-child(6),
+#adm-2023-squad.sortable-squad th:nth-child(7),
+#adm-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Laval Nord squad */
+#laval-nord-2023-squad th:nth-child(1),
+#laval-nord-2023-squad td:nth-child(1),
+#laval-nord-2023-squad th:nth-child(3),
+#laval-nord-2023-squad td:nth-child(3),
+#laval-nord-2023-squad th:nth-child(4),
+#laval-nord-2023-squad td:nth-child(4),
+#laval-nord-2023-squad th:nth-child(5),
+#laval-nord-2023-squad td:nth-child(5),
+#laval-nord-2023-squad th:nth-child(6),
+#laval-nord-2023-squad td:nth-child(6),
+#laval-nord-2023-squad th:nth-child(7),
+#laval-nord-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#laval-nord-2023-squad.sortable-squad th:nth-child(1),
+#laval-nord-2023-squad.sortable-squad td:nth-child(1),
+#laval-nord-2023-squad.sortable-squad th:nth-child(3),
+#laval-nord-2023-squad.sortable-squad td:nth-child(3),
+#laval-nord-2023-squad.sortable-squad th:nth-child(4),
+#laval-nord-2023-squad.sortable-squad td:nth-child(4),
+#laval-nord-2023-squad.sortable-squad th:nth-child(5),
+#laval-nord-2023-squad.sortable-squad td:nth-child(5),
+#laval-nord-2023-squad.sortable-squad th:nth-child(6),
+#laval-nord-2023-squad.sortable-squad td:nth-child(6),
+#laval-nord-2023-squad.sortable-squad th:nth-child(7),
+#laval-nord-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Club du Fjord squad */
+#club-du-fjord-2023-squad th:nth-child(1),
+#club-du-fjord-2023-squad td:nth-child(1),
+#club-du-fjord-2023-squad th:nth-child(3),
+#club-du-fjord-2023-squad td:nth-child(3),
+#club-du-fjord-2023-squad th:nth-child(4),
+#club-du-fjord-2023-squad td:nth-child(4),
+#club-du-fjord-2023-squad th:nth-child(5),
+#club-du-fjord-2023-squad td:nth-child(5),
+#club-du-fjord-2023-squad th:nth-child(6),
+#club-du-fjord-2023-squad td:nth-child(6),
+#club-du-fjord-2023-squad th:nth-child(7),
+#club-du-fjord-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(1),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(1),
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(3),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(3),
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(4),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(4),
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(5),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(5),
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(6),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(6),
+#club-du-fjord-2023-squad.sortable-squad th:nth-child(7),
+#club-du-fjord-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Navigateurs de Rimouski squad */
+#navigateurs-2023-squad th:nth-child(1),
+#navigateurs-2023-squad td:nth-child(1),
+#navigateurs-2023-squad th:nth-child(3),
+#navigateurs-2023-squad td:nth-child(3),
+#navigateurs-2023-squad th:nth-child(4),
+#navigateurs-2023-squad td:nth-child(4),
+#navigateurs-2023-squad th:nth-child(5),
+#navigateurs-2023-squad td:nth-child(5),
+#navigateurs-2023-squad th:nth-child(6),
+#navigateurs-2023-squad td:nth-child(6),
+#navigateurs-2023-squad th:nth-child(7),
+#navigateurs-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#navigateurs-2023-squad.sortable-squad th:nth-child(1),
+#navigateurs-2023-squad.sortable-squad td:nth-child(1),
+#navigateurs-2023-squad.sortable-squad th:nth-child(3),
+#navigateurs-2023-squad.sortable-squad td:nth-child(3),
+#navigateurs-2023-squad.sortable-squad th:nth-child(4),
+#navigateurs-2023-squad.sortable-squad td:nth-child(4),
+#navigateurs-2023-squad.sortable-squad th:nth-child(5),
+#navigateurs-2023-squad.sortable-squad td:nth-child(5),
+#navigateurs-2023-squad.sortable-squad th:nth-child(6),
+#navigateurs-2023-squad.sortable-squad td:nth-child(6),
+#navigateurs-2023-squad.sortable-squad th:nth-child(7),
+#navigateurs-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad) td:nth-child(3) {
+    text-align: center;
+}
+
+/* 2023 Hawkesbury United squad */
+#hawkesbury-2023-squad th:nth-child(1),
+#hawkesbury-2023-squad td:nth-child(1),
+#hawkesbury-2023-squad th:nth-child(3),
+#hawkesbury-2023-squad td:nth-child(3),
+#hawkesbury-2023-squad th:nth-child(4),
+#hawkesbury-2023-squad td:nth-child(4),
+#hawkesbury-2023-squad th:nth-child(5),
+#hawkesbury-2023-squad td:nth-child(5),
+#hawkesbury-2023-squad th:nth-child(6),
+#hawkesbury-2023-squad td:nth-child(6),
+#hawkesbury-2023-squad th:nth-child(7),
+#hawkesbury-2023-squad td:nth-child(7) {
+    text-align: center;
+}
+
+#hawkesbury-2023-squad.sortable-squad th:nth-child(1),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(1),
+#hawkesbury-2023-squad.sortable-squad th:nth-child(3),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(3),
+#hawkesbury-2023-squad.sortable-squad th:nth-child(4),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(4),
+#hawkesbury-2023-squad.sortable-squad th:nth-child(5),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(5),
+#hawkesbury-2023-squad.sortable-squad th:nth-child(6),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(6),
+#hawkesbury-2023-squad.sortable-squad th:nth-child(7),
+#hawkesbury-2023-squad.sortable-squad td:nth-child(7) {
+    text-align: center;
+}
+
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) th:nth-child(3),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad) td:nth-child(3) {
     text-align: center;
 }
 

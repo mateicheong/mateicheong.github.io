@@ -26,7 +26,7 @@ url: /clubs/cf_saint_jean/
 {{< club_kit "saintjean_away.png" "CF Saint-Jean away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/cf_saint_jean/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

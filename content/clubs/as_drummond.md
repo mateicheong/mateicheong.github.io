@@ -20,7 +20,7 @@ url: /clubs/as_drummond/
 <tr><th>Owner</th><td>Florent Vaillant</td></tr>
 <tr><th>Head Coach</th><td>Marting Hughes</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/as_drummond/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

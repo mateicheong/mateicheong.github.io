@@ -20,7 +20,7 @@ url: /clubs/club_du_fjord/
 <tr><th>Owner</th><td>Alain Robinson</td></tr>
 <tr><th>Head Coach</th><td>Mark Davis</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

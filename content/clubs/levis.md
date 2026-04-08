@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "levis_away.png" "Lévis away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/lévis/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

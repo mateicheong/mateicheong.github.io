@@ -20,7 +20,7 @@ url: /clubs/cs_chateauguay/
 <tr><th>Owner</th><td>Baba Lareaux</td></tr>
 <tr><th>Head Coach</th><td>Fares Poulin</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/cs_chateauguay/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

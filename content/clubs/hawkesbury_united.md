@@ -20,7 +20,7 @@ url: /clubs/hawkesbury_united/
 <tr><th>Owner</th><td>Cole Pugh</td></tr>
 <tr><th>Head Coach</th><td>Paul Ellis</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/hawkesbury_united/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

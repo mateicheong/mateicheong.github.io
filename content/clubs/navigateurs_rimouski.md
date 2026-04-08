@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "navigateurs_away.png" "Navigateurs de Rimouski away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/navigateurs_rimouski/2023/">Current Season</a></td></tr>
 </table>
 </div>
 

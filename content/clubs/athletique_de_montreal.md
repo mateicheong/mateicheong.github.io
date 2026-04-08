@@ -24,7 +24,7 @@ aliases:
 <tr><th>Owner</th><td>Vicente Piaciente</td></tr>
 <tr><th>Head Coach</th><td>John Haddow</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2023/">Current Season</a></td></tr>
 </table>
 </div>
 
