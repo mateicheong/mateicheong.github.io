@@ -367,13 +367,15 @@ html[data-theme="dark"] .infobox {
 
 /* Coupe du Québec champions: theme header + content-hugging width (after .squad-table th so light mode wins) */
 .la-ligue-clubs-table-scroll.coupe-champions-scroll,
-.la-ligue-clubs-table-scroll.coupe-schedule-scroll {
+.la-ligue-clubs-table-scroll.coupe-schedule-scroll,
+.la-ligue-clubs-table-scroll.coupe-first-round-scroll {
     width: fit-content;
     max-width: 100%;
 }
 
-/* Schedule sits under its heading; do not clear the club-lead infobox float (avoids a tall gap). */
-.la-ligue-clubs-table-scroll.coupe-schedule-scroll {
+/* Schedule / first-round results: do not clear the club-lead infobox float (avoids a tall gap). */
+.la-ligue-clubs-table-scroll.coupe-schedule-scroll,
+.la-ligue-clubs-table-scroll.coupe-first-round-scroll {
     clear: none;
 }
 
@@ -1299,6 +1301,32 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
         width: max-content;
         grid-template-columns: max-content max-content max-content 4.25rem max-content max-content;
     }
+}
+
+/* 5-column friendlies: Date | Home | Score | Away | Location (no round column; same grid rhythm as 6-col) */
+.friendlies-table.friendlies-table--5col tbody {
+    grid-template-columns: max-content minmax(0, 1fr) 4.75rem minmax(0, 1fr) max-content;
+}
+
+.friendlies-table.friendlies-table--5col td:nth-child(2) {
+    text-align: right;
+}
+
+.friendlies-table.friendlies-table--5col td:nth-child(3) {
+    text-align: center;
+}
+
+@media screen and (max-width: 48rem) {
+    .friendlies-table.friendlies-table--5col tbody {
+        width: max-content;
+        grid-template-columns: max-content max-content 4.25rem max-content max-content;
+    }
+}
+
+/* Competition-style result rows (no match-score--win/loss): wrap advancing side in <strong> or .coupe-advances */
+.friendlies-table.friendlies-table--5col td strong,
+.friendlies-table.friendlies-table--5col td .coupe-advances {
+    font-weight: 700;
 }
 
 /* Coach record table: keep Win % on one line; show empty record boxes as borders only */
