@@ -961,18 +961,18 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 }
 
 /* Laval Nord main club page: 4-column first-team; 5-column out on loan */
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1014,18 +1014,18 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 }
 
 /* Club du Fjord main club page: 4-column first-team; 5-column out on loan */
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
