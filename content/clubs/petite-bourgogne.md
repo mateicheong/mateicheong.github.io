@@ -91,9 +91,9 @@ Details about Stadium
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
 </thead>
 <tbody>
-<tr><td>-</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>George Bostock</td><td>Atlético Ottawa</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Roussan Roche</td><td>Mont-Royal Outremont</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paul Bosc</td><td>CS Saint-Laurent</td></tr>
+<tr><td>-</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>George Bostock</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Atlético Ottawa</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roussan Roche</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Mont-Royal Outremont</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Bosc</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Saint-Laurent</td></tr>
 </tbody>
 </table>
 </div>

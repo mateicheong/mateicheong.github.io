@@ -24,16 +24,17 @@ url: /clubs/locomotive/
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Locomotive</strong> is a professional football club based in Saint-Jérome, Québec.</p>
+<p class="club-lead-intro"><strong>Locomotive</strong> is a professional football club based in Saint-Jérôme, Québec.</p>
 </div>
 
 ## History
 Club history paragraph.
 
 ## Stadium
-Stadium details.
+The club plays home matches at Stade Desjardins in Saint-Jérôme.
 
-## Current squad
+## Players & Staff
+#### First team squad
 <div class="squad-grid">
 <table class="squad-table squad-table--locomotive">
 <thead>
@@ -48,7 +49,7 @@ Stadium details.
 <tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>John Quinn</td></tr>
 <tr><td>10</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Connor Burke</td></tr>
 <tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bradley Wright</td></tr>
-<tr><td>12</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joseph Giddings</td></tr>
+<tr><td>12</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joseph Giddings</td></tr>
 </tbody>
 </table>
 
@@ -64,6 +65,71 @@ Stadium details.
 <tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tomislav Musulin</td></tr>
 <tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florian Poulain</td></tr>
 <tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marc Lefevre</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Club Captains
+<div class="squad-grid">
+<table class="squad-table squad-table--locomotive">
+<thead>
+<tr><th>Period</th><th>Name</th><th>Nation</th></tr>
+</thead>
+<tbody>
+<tr><td>2023</td><td>Jonathan Poulain</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Head coach
+<div class="squad-grid">
+<table class="squad-table squad-table--locomotive coach-record-table">
+<thead>
+<tr><th rowspan="2">Name</th><th rowspan="2">Nation</th><th rowspan="2">Tenure</th><th colspan="5">Record</th></tr>
+<tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
+</thead>
+<tbody>
+<tr><td>Ilan Mercier</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>39</td><td>21</td><td>11</td><td>7</td><td>53%</td></tr>
+</tbody>
+</table>
+</div>
+
+## Team statistics and records
+#### Year-by-year
+<div class="squad-grid year-by-year-table">
+<table class="squad-table squad-table--locomotive">
+<thead>
+<tr>
+  <th rowspan="2">Season</th>
+  <th colspan="10">League</th>
+  <th rowspan="2">CDQ</th>
+  <th rowspan="2">SCQ</th>
+  <th rowspan="2">CC</th>
+  <th rowspan="2">Continental</th>
+  <th rowspan="2" class="avg-attendance">Average<br>attendance</th>
+  <th colspan="2" class="nowrap">Top goalscorer(s)</th>
+</tr>
+<tr>
+  <th class="nowrap">League</th>
+  <th class="nowrap">Pld</th>
+  <th class="nowrap">W</th>
+  <th class="nowrap">D</th>
+  <th class="nowrap">L</th>
+  <th class="nowrap">GF</th>
+  <th class="nowrap">GA</th>
+  <th class="nowrap">GD</th>
+  <th class="nowrap">Pts</th>
+  <th class="nowrap">Pos</th>
+  <th class="nowrap">Player</th>
+  <th class="nowrap">Goals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="/clubs/locomotive/2023/">2023</a></td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>17</td><td>11</td><td>6</td><td>51</td><td>31</td><td>+20</td><td>62</td><td>4th</td><td>R-U</td><td>—</td><td>—</td>
+  <td>—</td><td>7,307</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Poulin</td><td>13</td>
+</tr>
 </tbody>
 </table>
 </div>

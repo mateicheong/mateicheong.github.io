@@ -78,8 +78,8 @@ In partnership with the Université de Sherbrooke, the club trains and plays on 
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
 </thead>
 <tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Darren Freeman</td><td>Cavalry FC</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mikel Sierralta</td><td>Mikkelin Palloilijat</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Darren Freeman</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Cavalry FC</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mikel Sierralta</td><td><img src="/images/flags/fi.svg" width="18" alt=""> Mikkelin Palloilijat</td></tr>
 </tbody>
 </table>
 </div>
@@ -105,7 +105,6 @@ In partnership with the Université de Sherbrooke, the club trains and plays on 
 </thead>
 <tbody>
 <tr><td>Raphaël Roy</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 17, 2023 - Present</td><td>19</td><td>9</td><td>5</td><td>5</td><td>47%</td></tr>
-<tr><td>Tom Eastwood (interim)</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>May 24, 2023 - June 17, 2023</td><td>5</td><td>3</td><td>0</td><td>2</td><td>60%</td></tr>
 <tr><td>Chris Robers</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - May 24, 2023</td><td>11</td><td>2</td><td>3</td><td>6</td><td>18%</td></tr>
 </tbody>
 </table>

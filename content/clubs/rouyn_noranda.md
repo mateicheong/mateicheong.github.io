@@ -31,7 +31,7 @@ url: /clubs/rouyn_noranda/
 On their first season as a team, and as the first ever La Ligue season, the club took home the first title on goal difference from <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> who also finished the season with 69 points.
 
 ## Stadium
-The club plays at <strong>Place Osisko</strong> in Rouyn-Noranda (capacity 5,340). The stadium boasts a dome that covers the field to accomodate year round use. Setting up these fields required a tremendous amount of effort and extensive discussions with the provincial government to secure funding. It was a vital necessity into bringing a team in the Abitibi-Témiscamingue region in Québec. 
+The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium boasts a dome that covers the field to accomodate year round use. Setting up these fields required a tremendous amount of effort and extensive discussions with the provincial government to secure funding. It was a vital necessity into bringing a team in the Abitibi-Témiscamingue region in Québec. 
 
 ## Players & Staff
 #### First team squad
@@ -79,8 +79,8 @@ The club plays at <strong>Place Osisko</strong> in Rouyn-Noranda (capacity 5,340
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
 </thead>
 <tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Omar Pérez</td><td>Pacific FC</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mark Warren</td><td>Greenock Morton</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Omar Pérez</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Pacific FC</td></tr>
+<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mark Warren</td><td><img src="/images/flags/gb-sct.svg" width="18" alt=""> Greenock Morton</td></tr>
 </tbody>
 </table>
 </div>
@@ -93,6 +93,7 @@ The club plays at <strong>Place Osisko</strong> in Rouyn-Noranda (capacity 5,340
 </thead>
 <tbody>
 <tr><td>2023</td><td>Robin Graff</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023</td><td>Mickael Thebault</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>

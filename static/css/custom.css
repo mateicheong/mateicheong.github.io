@@ -630,13 +630,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* CF Saint-Jean main club page: 4-column squad (No., Pos., Nation centered); not season transfers */
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* CF Saint-Jean main club page: 4-column first-team squad only (No., Pos., Nation centered); not captains (3 col), coach, transfers */
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--cf-saint-jean:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -672,13 +672,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: center;
 }
 
-/* AS Drummond main club page: 4-column squad; not season transfers */
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* AS Drummond main club page: 4-column first-team squad only; not captains (3 col), coach, transfers */
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--as-drummond:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -719,13 +719,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-/* CS Châteauguay main club page 4-col squad; not season transfers */
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* CS Châteauguay main club page: 4-column first-team squad only; not captains (3 col), coach, transfers */
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--cs-chateauguay:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -766,12 +766,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Lévis main club page: 4-column first-team squad only; not captains (3 col), coach, transfers */
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--levis:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -812,12 +813,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Zénith main club page: 4-column first-team squad only; not captains (3 col), coach, transfers */
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--zenith:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -858,12 +860,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Métabéroutin main club page: 4-column first-team squad only; not captains (3 col), coach, transfers */
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--metaberoutin:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -904,12 +907,19 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Athlétique de Montréal main club page: 4-column first-team; 5-column out on loan */
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -950,12 +960,19 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Laval Nord main club page: 4-column first-team; 5-column out on loan */
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid .squad-table--laval-nord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -996,12 +1013,19 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Club du Fjord main club page: 4-column first-team; 5-column out on loan */
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid .squad-table--club-du-fjord:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1042,12 +1066,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Navigateurs main club page: 4-column first-team only (captains 3 col excluded) */
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--navigateurs-rimouski:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1088,12 +1113,13 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: left;
 }
 
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(1),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(1),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(2),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(2),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) th:nth-child(3),
-.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table) td:nth-child(3) {
+/* Hawkesbury United main club page: 4-column first-team only */
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid .squad-table--hawkesbury-united:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3) {
     text-align: center;
 }
 
@@ -1107,6 +1133,21 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 
 .squad-table.transfers-table th,
 .squad-table.transfers-table td {
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+/* Main club pages — "Out on loan" (No / Pos / Nation / Player / On loan to): same single-line behavior */
+.squad-grid:not(.year-by-year-table) .squad-table:not(.coach-record-table):not(.transfers-table):not(.sortable-squad):has(thead tr:first-child th:nth-child(5):last-child) {
+    width: max-content;
+    max-width: 100%;
+    overflow-x: auto;
+    display: block;
+    -webkit-overflow-scrolling: touch;
+}
+
+.squad-grid:not(.year-by-year-table) .squad-table:not(.coach-record-table):not(.transfers-table):not(.sortable-squad):has(thead tr:first-child th:nth-child(5):last-child) th,
+.squad-grid:not(.year-by-year-table) .squad-table:not(.coach-record-table):not(.transfers-table):not(.sortable-squad):has(thead tr:first-child th:nth-child(5):last-child) td {
     vertical-align: middle;
     white-space: nowrap;
 }

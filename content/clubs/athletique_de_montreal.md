@@ -35,9 +35,10 @@ aliases:
 Club history paragraph.
 
 ## Stadium
-Stadium details.
+The club plays home matches at Olympic Stadium in Montréal.
 
-## Current squad
+## Players & Staff
+#### First team squad
 <div class="squad-grid">
 <table class="squad-table squad-table--athletique-de-montreal">
 <thead>
@@ -76,6 +77,86 @@ Stadium details.
 <tr><td>42</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gustavo Santacruz</td></tr>
 <tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Enrico Godói</td></tr>
 <tr><td>44</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Denis Marechal</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Out on loan
+<div class="squad-grid">
+<table class="squad-table squad-table--athletique-de-montreal">
+<thead>
+<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
+</thead>
+<tbody>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Geoffrey Daguerre</td><td><img src="/images/flags/fi.svg" width="18" alt=""> Käpylän Pallo</td></tr>
+<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>João Teixeira</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Longueuil</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Club Captains
+<div class="squad-grid">
+<table class="squad-table squad-table--athletique-de-montreal">
+<thead>
+<tr><th>Period</th><th>Name</th><th>Nation</th></tr>
+</thead>
+<tbody>
+<tr><td>2023</td><td>Yacine Zouaoui</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023</td><td>Angelo Catanese</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+</tbody>
+</table>
+</div>
+
+#### Head coach
+<div class="squad-grid">
+<table class="squad-table squad-table--athletique-de-montreal coach-record-table">
+<thead>
+<tr><th rowspan="2">Name</th><th rowspan="2">Nation</th><th rowspan="2">Tenure</th><th colspan="5">Record</th></tr>
+<tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
+</thead>
+<tbody>
+<tr><td>John Haddow</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 29, 2023 - Present</td><td>23</td><td>8</td><td>4</td><td>11</td><td>34%</td></tr>
+<tr><td>Pierre-Alexandre Segura</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - May 27, 2023</td><td>13</td><td>3</td><td>3</td><td>8</td><td>23%</td></tr>
+</tbody>
+</table>
+</div>
+
+## Team statistics and records
+#### Year-by-year
+<div class="squad-grid year-by-year-table">
+<table class="squad-table squad-table--athletique-de-montreal">
+<thead>
+<tr>
+  <th rowspan="2">Season</th>
+  <th colspan="10">League</th>
+  <th rowspan="2">CDQ</th>
+  <th rowspan="2">SCQ</th>
+  <th rowspan="2">CC</th>
+  <th rowspan="2">Continental</th>
+  <th rowspan="2" class="avg-attendance">Average<br>attendance</th>
+  <th colspan="2" class="nowrap">Top goalscorer(s)</th>
+</tr>
+<tr>
+  <th class="nowrap">League</th>
+  <th class="nowrap">Pld</th>
+  <th class="nowrap">W</th>
+  <th class="nowrap">D</th>
+  <th class="nowrap">L</th>
+  <th class="nowrap">GF</th>
+  <th class="nowrap">GA</th>
+  <th class="nowrap">GD</th>
+  <th class="nowrap">Pts</th>
+  <th class="nowrap">Pos</th>
+  <th class="nowrap">Player</th>
+  <th class="nowrap">Goals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="/clubs/athlétique_de_montréal/2023/">2023</a></td>
+  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>9</td><td>6</td><td>19</td><td>32</td><td>54</td><td>-22</td><td>33</td><td>14th</td><td>SF</td><td>—</td><td>QF</td>
+  <td>—</td><td>12,388</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Roberto Castelnuovo<br><img src="/images/flags/ca.svg" width="18" alt=""> Thomas Connolly</td><td>5</td>
+</tr>
 </tbody>
 </table>
 </div>
