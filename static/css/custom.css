@@ -1323,6 +1323,90 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     }
 }
 
+/* Coupe: teams remaining by league (first round); customize fill via --cup-bar-pct (0–100) and --cup-bar-color on .cup-league-bar */
+.cup-leagues-remaining {
+    margin: 0 0 1.25rem;
+    max-width: 100%;
+}
+
+.cup-leagues-remaining__title {
+    font-weight: 700;
+    margin: 0 0 0.65rem;
+    font-size: 1rem;
+    line-height: 1.35;
+    color: var(--color-text);
+}
+
+.cup-leagues-remaining__grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 36rem) {
+    .cup-leagues-remaining__grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.cup-league-bar {
+    --cup-bar-pct: 100;
+    --cup-bar-color: #2383c7;
+    padding: 0.65rem 0.85rem 0.75rem;
+    background: var(--color-background-card, var(--color-background));
+    border-right: 1px solid var(--color-border);
+    min-width: 0;
+}
+
+.cup-leagues-remaining__grid .cup-league-bar:last-child {
+    border-right: none;
+}
+
+@media screen and (max-width: 36rem) {
+    .cup-league-bar {
+        border-right: none;
+        border-bottom: 1px solid var(--color-border);
+    }
+
+    .cup-leagues-remaining__grid .cup-league-bar:last-child {
+        border-bottom: none;
+    }
+}
+
+.cup-league-bar__label {
+    font-weight: 600;
+    font-size: 0.9375rem;
+    margin: 0 0 0.45rem;
+    line-height: 1.3;
+    color: var(--color-text);
+}
+
+.cup-league-bar__track {
+    height: 0.65rem;
+    border: 1px solid var(--color-border);
+    border-radius: 2px;
+    background: color-mix(in srgb, var(--color-border) 35%, transparent);
+    overflow: hidden;
+    min-width: 0;
+}
+
+@supports not (background: color-mix(in srgb, red 50%, blue)) {
+    .cup-league-bar__track {
+        background: var(--color-background);
+    }
+}
+
+.cup-league-bar__fill {
+    height: 100%;
+    width: min(100%, calc(var(--cup-bar-pct) * 1%));
+    background: var(--cup-bar-color);
+    border-radius: 1px;
+    transition: width 0.25s ease;
+}
+
 /* Competition-style result rows (no match-score--win/loss): wrap advancing side in <strong> or .coupe-advances */
 .friendlies-table.friendlies-table--5col td strong,
 .friendlies-table.friendlies-table--5col td .coupe-advances {
