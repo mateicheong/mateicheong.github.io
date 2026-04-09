@@ -908,18 +908,18 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 }
 
 /* Athlétique de Montréal main club page: 4-column first-team; 5-column out on loan */
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
-.squad-grid .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(4):last-child) td:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(1),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(2),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) th:nth-child(3),
+.squad-grid:not(.overall-record-table) .squad-table--athletique-de-montreal:not(.sortable-squad):not(.transfers-table):not(.coach-record-table):has(thead tr:first-child th:nth-child(5):last-child) td:nth-child(3) {
     text-align: center;
 }
 
