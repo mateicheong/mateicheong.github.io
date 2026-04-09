@@ -260,6 +260,14 @@ html[data-theme="dark"] .infobox--cs-chateauguay {
     border-color: #2383C7;
 }
 
+.infobox--coupe-du-quebec {
+    border-color: #09255C;
+}
+
+html[data-theme="dark"] .infobox--coupe-du-quebec {
+    border-color: #1865FF;
+}
+
 html[data-theme="dark"] .infobox {
     box-shadow: 0 0px 0px rgba(0,0,0,0.6);
 }
@@ -355,6 +363,72 @@ html[data-theme="dark"] .infobox {
     padding: 0.3rem 0.35rem;
     background-color: var(--color-border);
     color: var(--color-text);
+}
+
+/* Coupe du Québec champions: theme header + content-hugging width (after .squad-table th so light mode wins) */
+.la-ligue-clubs-table-scroll.coupe-champions-scroll,
+.la-ligue-clubs-table-scroll.coupe-schedule-scroll {
+    width: fit-content;
+    max-width: 100%;
+}
+
+/* Schedule sits under its heading; do not clear the club-lead infobox float (avoids a tall gap). */
+.la-ligue-clubs-table-scroll.coupe-schedule-scroll {
+    clear: none;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table,
+.squad-table.squad-table--coupe-du-quebec.coupe-schedule-table {
+    width: auto;
+    max-width: 100%;
+    table-layout: auto;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-schedule-table th,
+.squad-table.squad-table--coupe-du-quebec.coupe-schedule-table td {
+    text-align: center;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table th,
+.squad-table.squad-table--coupe-du-quebec.coupe-knockout-table th {
+    background-color: #09255C;
+    color: #FFFFFF;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table thead th:first-child {
+    text-align: center;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table thead th:last-child {
+    text-align: left;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table tbody td:first-child {
+    text-align: center;
+    white-space: nowrap;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table tbody td:last-child {
+    text-align: left;
+    vertical-align: middle;
+}
+
+html[data-theme="dark"] .squad-table.squad-table--coupe-du-quebec.coupe-champions-table th,
+html[data-theme="dark"] .squad-table.squad-table--coupe-du-quebec.coupe-knockout-table th {
+    background-color: #1865FF;
+    color: #FFFFFF;
+}
+
+.squad-table.squad-table--coupe-du-quebec.coupe-knockout-table tbody td {
+    vertical-align: middle;
+}
+
+/* Coupe tables: grid lines like league tables (theme article .mc-table uses the same border) */
+.squad-table.squad-table--coupe-du-quebec.coupe-knockout-table th,
+.squad-table.squad-table--coupe-du-quebec.coupe-knockout-table td,
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table th,
+.squad-table.squad-table--coupe-du-quebec.coupe-champions-table td {
+    border: 1px solid var(--color-border);
 }
 
 /* Squad header colour per club (matches chip accent) */
