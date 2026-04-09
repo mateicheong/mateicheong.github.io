@@ -1323,6 +1323,97 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     }
 }
 
+/* Homepage: season CTA under Latest (border matches header: 1px var(--color-border)) */
+.home-season-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0.35rem 0 1.25rem;
+    padding: 0.85rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    text-decoration: none;
+    background: transparent;
+    color: inherit;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+html[data-theme="light"] .home-season-card:hover,
+html:not([data-theme]) .home-season-card:hover {
+    background: rgba(0, 0, 0, 0.035);
+}
+
+html[data-theme="dark"] .home-season-card:hover {
+    background: rgba(255, 255, 255, 0.045);
+}
+
+.home-season-card:focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+}
+
+.home-season-card__logo {
+    width: 3.25rem;
+    height: 3.25rem;
+    object-fit: contain;
+    flex-shrink: 0;
+}
+
+.home-season-card__text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+    flex: 1;
+    min-width: 0;
+    text-align: left;
+}
+
+.home-season-card__title {
+    font-weight: 600;
+    font-size: 1.0625rem;
+    line-height: 1.25;
+    color: #2383c7;
+}
+
+html[data-theme="dark"] .home-season-card__title {
+    color: #5eb0e8;
+}
+
+/* Coupe du Québec CTA: same border as La Ligue card; title uses cup accent colours */
+.home-season-card--coupe-du-quebec .home-season-card__title {
+    color: #09255c;
+}
+
+html[data-theme="dark"] .home-season-card--coupe-du-quebec .home-season-card__title {
+    color: #1865FF;
+}
+
+.home-season-card + .home-season-card {
+    margin-top: 0.5rem;
+}
+
+.home-season-card__sub {
+    font-size: 0.875rem;
+    line-height: 1.3;
+    color: var(--color-text);
+}
+
+.home-season-card__arrow {
+    flex-shrink: 0;
+    width: 1.125rem;
+    height: 1.125rem;
+    display: block;
+    object-fit: contain;
+    opacity: 0.62;
+}
+
+html[data-theme="dark"] .home-season-card__arrow {
+    filter: invert(1);
+    opacity: 0.5;
+}
+
 /* Coupe: teams remaining by league (first round); customize fill via --cup-bar-pct (0–100) and --cup-bar-color on .cup-league-bar */
 .cup-leagues-remaining {
     margin: 0 0 1.25rem;
