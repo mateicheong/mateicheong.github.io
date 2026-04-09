@@ -175,7 +175,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
     <img src="/images/clubs/locomotive.png" alt="Locomotive logo">
     <span>Locomotive</span>
   </a></td>
-      <td>Saint-Jérome</td>
+      <td>Saint-Jérôme</td>
       <td>Stade Desjardins</td>
       <td>2022</td>
       <td>0</td>

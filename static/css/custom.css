@@ -1192,6 +1192,15 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     text-align: right;
 }
 
+.friendlies-table .friendlies-flag {
+    display: inline-block;
+    width: 18px;
+    height: auto;
+    vertical-align: -0.2em;
+    margin-right: 0.35rem;
+    flex-shrink: 0;
+}
+
 .friendlies-table tbody {
     display: grid;
     width: 100%;
