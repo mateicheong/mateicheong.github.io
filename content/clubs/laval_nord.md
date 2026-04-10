@@ -20,6 +20,12 @@ url: /clubs/laval_nord/
 <tr><th>Owner</th><td>Borys Serbyn</td></tr>
 <tr><th>Head Coach</th><td>Henri Schweitzer</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "laval_home.png" "Laval Nord home kit" "Home colours" >}}
+{{< club_kit "laval_away.png" "Laval Nord away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/laval_nord/2023/">Current Season</a></td></tr>
 </table>
 </div>

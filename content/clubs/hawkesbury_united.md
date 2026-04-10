@@ -20,6 +20,12 @@ url: /clubs/hawkesbury_united/
 <tr><th>Owner</th><td>Cole Pugh</td></tr>
 <tr><th>Head Coach</th><td>—</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "hawkesbury_home.png" "Hawkesbury United home kit" "Home colours" >}}
+{{< club_kit "hawkesbury_away.png" "Hawkesbury United away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/hawkesbury_united/2023/">Current Season</a></td></tr>
 </table>
 </div>
