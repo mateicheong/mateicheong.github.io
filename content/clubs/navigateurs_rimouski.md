@@ -36,10 +36,7 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
-
-## Stadium
-The club plays home matches at Stade Ernest-Lepage in Rimouski.
+The club is associated with the junior ice hockey team Rimouski Océanic. 
 
 ## Players & Staff
 #### First team squad

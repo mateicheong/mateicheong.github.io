@@ -16,7 +16,7 @@ aliases:
 <img src="/images/clubs/petite_bourgogne.png" width="180" alt="Petite-Bourgogne">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2022</td></tr>
+<tr><th>Founded</th><td>2021</td></tr>
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>Mateus Chont</td></tr>
@@ -37,10 +37,9 @@ aliases:
 
 
 ## History
-Club history paragraph
+Established before the creation of La Ligue, Petite-Bourgogne started as a community football project among residents of the surrounding neighbourhoods of the Sud-Ouest. Early funding was secured through founding memberships. Anyone could buy shares in the club. This model, unusual for a sports organization in the province, attracted media attention and gave the club its notoriety as a genuinely community-owned club around the football community.
 
-## Stadium
-Details about Stadium
+In their first professional season, Petite-Bourgogne won the 2023 edition of the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>, earning a spot in the 2024 CONCACAF Champions Cup.
 
 ## Players & Staff
 #### First team squad

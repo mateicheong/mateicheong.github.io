@@ -30,9 +30,6 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
-
-## Stadium
 In partnership with the Université de Sherbrooke, the club trains and plays on their multisport field.
 
 ## Players & Staff

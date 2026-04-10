@@ -32,10 +32,7 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
-
-## Stadium
-The club plays home matches at Olympic Stadium in Montréal.
+Athlétique de Montréal was founded by businessman Vincente Piacente. As a statement move for their application as one of the founding clubs of La Ligue, Piacente made a deal with the government of Québec to purchase the Olympic Stadium and accelerate the needed renovations and expansions. The stadium would then become the home base for the club, boasting a capacity of 72,000, the highest in the country.
 
 ## Players & Staff
 #### First team squad
