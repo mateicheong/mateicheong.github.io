@@ -346,6 +346,31 @@ html[data-theme="dark"] .infobox {
     margin-top: 0;
 }
 
+/* Mobile: no horizontal page scroll; wide blocks scroll inside (tables, grids, etc.). */
+@media screen and (max-width: 48rem) {
+    .content-margin {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    @supports (overflow-x: clip) {
+        .content-margin {
+            overflow-x: clip;
+        }
+    }
+
+    article section > *:not(.club-lead):not(.la-ligue-clubs-table-scroll) {
+        max-width: 100%;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    /* Grid cells can shrink so inner tables trigger the parent scroll instead of the viewport. */
+    article section .squad-grid {
+        min-width: 0;
+    }
+}
+
 .squad-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -1519,10 +1544,11 @@ html[data-theme="dark"] .home-season-card__arrow {
     white-space: nowrap;
 }
 
-.coach-record-table {
+/* Scroll on the grid wrapper (not display:block on <table>, which breaks table layout). */
+article .squad-grid:has(> table.coach-record-table) {
     max-width: 100%;
     overflow-x: auto;
-    display: block;
+    -webkit-overflow-scrolling: touch;
 }
 
 /* Year-by-year table: same no-wrap + horizontal scroll treatment */
