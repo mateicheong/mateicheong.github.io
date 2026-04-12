@@ -49,7 +49,6 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Reynald Diebolt</td></tr>
 <tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adnan Hodžić</td></tr>
 <tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexis Teixeira</td></tr>
 <tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan van Duijn</td></tr>
