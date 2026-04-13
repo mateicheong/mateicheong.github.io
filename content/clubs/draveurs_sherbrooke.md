@@ -22,6 +22,12 @@ aliases:
 <tr><th>Owner</th><td>George Beckett</td></tr>
 <tr><th>Head Coach</th><td>Raphaël Roy</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "draveurs_home.png" "Draveurs de Sherbrooke home kit" "Home colours" >}}
+{{< club_kit "draveurs_away.png" "Draveurs de Sherbrooke away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/draveurs_sherbrooke/2023/">Current Season</a></td></tr>
 </table>
 </div>
