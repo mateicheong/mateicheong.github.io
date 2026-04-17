@@ -24,6 +24,12 @@ aliases:
 <tr><th>Owner</th><td>Vicente Piaciente</td></tr>
 <tr><th>Head Coach</th><td>John Haddow</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "athletiquemontreal_home.png" "Athlétique de Montréal home kit" "Home colours" >}}
+{{< club_kit "athletiquemontreal_away.png" "Athlétique de Montréal away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2023/">Current Season</a></td></tr>
 </table>
 </div>

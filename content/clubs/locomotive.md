@@ -20,6 +20,12 @@ url: /clubs/locomotive/
 <tr><th>Owner</th><td>Etienne Galmiche</td></tr>
 <tr><th>Head Coach</th><td>Ilan Mercier</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "locomotive_home.png" "Locomotive home kit" "Home colours" >}}
+{{< club_kit "locomotive_away.png" "Locomotive away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/locomotive/2023/">Current Season</a></td></tr>
 </table>
 </div>
