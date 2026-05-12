@@ -55,7 +55,8 @@
   {{- with .Get "title" -}}
   <figcaption class="club-position-chart__title">{{ . }}</figcaption>
   {{- end -}}
-  <div class="club-position-chart__svg-wrap" style="aspect-ratio: {{ int $W }} / {{ int $H }}">
+  <div class="club-position-chart__scroll">
+  <div class="club-position-chart__svg-wrap" style="--club-position-chart-years: {{ len $points }};">
     <svg class="club-position-chart__svg" viewBox="0 0 {{ int $W }} {{ int $H }}" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
       <defs>
         <clipPath id="{{ $clipId }}"><rect x="{{ $ml }}" y="{{ $mt }}" width="{{ $plotW }}" height="{{ $plotH }}" /></clipPath>
@@ -109,10 +110,26 @@
         {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
         {{- $dotClass := "club-position-chart__dot" -}}
         {{- if and $highlightFirst (eq (int $pos) 1) -}}{{- $dotClass = "club-position-chart__dot club-position-chart__dot--first-place" -}}{{- end -}}
-        <circle class="{{ $dotClass }}" cx="{{ $x }}" cy="{{ $yy }}" r="5" />
+        {{- $n := int $pos -}}
+        {{- $rem100 := mod $n 100 -}}
+        {{- $tip := "" -}}
+        {{- if and (ge $rem100 11) (le $rem100 13) -}}
+          {{- $tip = printf "%dth" $n -}}
+        {{- else -}}
+          {{- $m := mod $n 10 -}}
+          {{- if eq $m 1 -}}{{- $tip = printf "%dst" $n -}}
+          {{- else if eq $m 2 -}}{{- $tip = printf "%dnd" $n -}}
+          {{- else if eq $m 3 -}}{{- $tip = printf "%drd" $n -}}
+          {{- else -}}{{- $tip = printf "%dth" $n -}}
+          {{- end -}}
+        {{- end -}}
+        <circle class="{{ $dotClass }}" cx="{{ $x }}" cy="{{ $yy }}" r="5">
+          <title>{{ $tip }}</title>
+        </circle>
         <text class="club-position-chart__xlabel" x="{{ $x }}" y="{{ sub $H 12 }}" text-anchor="middle">{{ $year }}</text>
       {{- end -}}
     </svg>
+  </div>
   </div>
   {{- if $cap -}}
   <p class="club-position-chart__caption">{{ $cap }}</p>

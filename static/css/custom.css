@@ -389,6 +389,11 @@ html[data-theme="dark"] .infobox {
     article section .squad-grid {
         min-width: 0;
     }
+
+    /* Year-by-year: do not shrink below content — otherwise wide tables compress and clip columns. */
+    article section .squad-grid.year-by-year-table {
+        min-width: auto;
+    }
 }
 
 .squad-grid {
@@ -1576,13 +1581,20 @@ article .squad-grid:has(> table.coach-record-table) {
     -webkit-overflow-scrolling: touch;
 }
 
-/* Year-by-year table: same no-wrap + horizontal scroll treatment */
+/* Year-by-year: full-width scroll strip; table uses intrinsic width (width:100% alone squishes columns). */
 .year-by-year-table {
-    width: max-content;
-    max-width: none;
+    width: 100%;
     max-width: 100%;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
     display: block;
+}
+
+.year-by-year-table > .squad-table {
+    width: max-content;
+    min-width: 100%;
+    max-width: none;
 }
 
 .year-by-year-table th,
@@ -2194,9 +2206,54 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     font-size: 1rem;
 }
 
+/* Horizontal scroll when plot is wider than viewport (many seasons) */
+.club-position-chart__scroll {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: visible;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+    touch-action: pan-x pan-y pinch-zoom;
+}
+
 .club-position-chart__svg-wrap {
     width: 100%;
     max-width: 100%;
+    /* Match SVG viewBox width:height on large screens */
+    aspect-ratio: 1100 / 300;
+    /* Extra width only when 3+ seasons (keeps x-axis readable; scroll on narrow viewports) */
+    min-width: max(100%, calc(max(0, var(--club-position-chart-years, 2) - 2) * 6rem));
+}
+
+/*
+ * Mobile: SVG uses preserveAspectRatio meet → scale is min(W/1100, H/300). A tall box with W=100%
+ * stays width-limited (tiny plot + empty space). Fix: set height first; width follows aspect-ratio
+ * (1100/300), so the plot is height-limited and min(W,H) uses H → readable size + horizontal scroll.
+ */
+@media (max-width: 639px) {
+    .club-position-chart__svg-wrap {
+        width: auto;
+        max-width: none;
+        height: min(48vh, 19rem);
+        aspect-ratio: 1100 / 300;
+        min-width: max(100%, calc(max(0, var(--club-position-chart-years, 2) - 2) * 6rem));
+    }
+
+    .club-position-chart__svg .club-position-chart__axis-y,
+    .club-position-chart__svg .club-position-chart__xlabel {
+        font-size: 13px;
+    }
+
+    .club-position-chart__svg .club-position-chart__axis-ylabel {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 419px) {
+    .club-position-chart__svg-wrap {
+        height: min(50vh, 17.5rem);
+    }
 }
 
 .club-position-chart__svg {
@@ -2225,6 +2282,7 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
     fill: var(--color-background);
     stroke: var(--color-link);
     stroke-width: 2;
+    cursor: help;
 }
 
 /* Same gold as .final-position--winner (year-by-year "Won"); opt-in via highlight_first="true" */
