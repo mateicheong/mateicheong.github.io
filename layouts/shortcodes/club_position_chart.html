@@ -51,6 +51,20 @@
 {{- $plotH := sub $H (add $mt $mb) -}}
 {{- $posMin := 1 -}}
 {{- $posMax := 18 -}}
+{{- /* Precompute x/y once per point (path + markers shared the same math twice). */ -}}
+{{- $plotData := slice -}}
+{{- range $points -}}
+  {{- $year := .year -}}
+  {{- $pos := .pos -}}
+  {{- $x := 0.0 -}}
+  {{- if eq $minY $maxY -}}
+    {{- $x = add $ml (div $plotW 2.0) -}}
+  {{- else -}}
+    {{- $x = add $ml (mul (div (sub (float $year) (float $minY)) (sub (float $maxY) (float $minY))) $plotW) -}}
+  {{- end -}}
+  {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
+  {{- $plotData = $plotData | append (dict "year" $year "pos" $pos "x" $x "yy" $yy) -}}
+{{- end -}}
 <figure class="{{ $chartClass }}" role="img" aria-label="{{ $aria }}">
   {{- with .Get "title" -}}
   <figcaption class="club-position-chart__title">{{ . }}</figcaption>
@@ -80,16 +94,9 @@
       <!-- Line + points -->
       {{- $pathD := "" -}}
       {{- $first := true -}}
-      {{- range $points -}}
-        {{- $year := .year -}}
-        {{- $pos := .pos -}}
-        {{- $x := 0.0 -}}
-        {{- if eq $minY $maxY -}}
-          {{- $x = add $ml (div $plotW 2.0) -}}
-        {{- else -}}
-          {{- $x = add $ml (mul (div (sub (float $year) (float $minY)) (sub (float $maxY) (float $minY))) $plotW) -}}
-        {{- end -}}
-        {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
+      {{- range $plotData -}}
+        {{- $x := .x -}}
+        {{- $yy := .yy -}}
         {{- if $first -}}
           {{- $pathD = printf "M %.2f %.2f" $x $yy -}}
           {{- $first = false -}}
@@ -98,16 +105,11 @@
         {{- end -}}
       {{- end -}}
       <path class="club-position-chart__line" d="{{ $pathD }}" fill="none" clip-path="url(#{{ $clipId }})" />
-      {{- range $points -}}
+      {{- range $plotData -}}
         {{- $year := .year -}}
         {{- $pos := .pos -}}
-        {{- $x := 0.0 -}}
-        {{- if eq $minY $maxY -}}
-          {{- $x = add $ml (div $plotW 2.0) -}}
-        {{- else -}}
-          {{- $x = add $ml (mul (div (sub (float $year) (float $minY)) (sub (float $maxY) (float $minY))) $plotW) -}}
-        {{- end -}}
-        {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
+        {{- $x := .x -}}
+        {{- $yy := .yy -}}
         {{- $dotClass := "club-position-chart__dot" -}}
         {{- if and $highlightFirst (eq (int $pos) 1) -}}{{- $dotClass = "club-position-chart__dot club-position-chart__dot--first-place" -}}{{- end -}}
         {{- $n := int $pos -}}

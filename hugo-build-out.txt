@@ -1,0 +1,10 @@
+﻿hugo : WARN  DEPRECATED: Kind "taxonomyterm" used in disableKinds is deprecated, use "taxonomy" instead.
+At C:\Users\matei\AppData\Local\Temp\ps-script-4419bd52-6e68-485c-99ed-610abee98c94.ps1:80 char:44
++ ... n "d:\My Data\Coding\la-ligue"; hugo build --gc --minify 2>&1 | Out-F ...
++                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARN  DEPRECATE...onomy" instead.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Start building sites ÔÇª 
+hugo v0.157.0-7747abbb316b03c8f353fd3be62d5011fa883ee6+extended windows/amd64 BuildDate=2026-02-25T16:38:33Z VendorInfo=gohugoio
+

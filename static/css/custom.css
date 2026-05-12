@@ -68,14 +68,6 @@ header #header_content.extra-wide {
     }
 }
 
-@media screen and (min-width: 120rem) {
-    header #header_content.normal,
-    header #header_content.wide,
-    header #header_content.extra-wide {
-        width: 50vw;
-    }
-}
-
 /*
  * Theme toggle: faint outline (~25% opacity of --color-text-secondary).
  * Uses explicit rgba (matches theme gray-500 / gray-450) instead of color-mix()
