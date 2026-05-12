@@ -20,7 +20,7 @@ url: /clubs/club_du_fjord/
 <tr><th>Owner</th><td>Alain Robinson</td></tr>
 <tr><th>Head Coach</th><td>Mark Davis</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -41,16 +41,15 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Noah Guth</td></tr>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Samuel Zanon</td></tr>
-<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>David Rowley</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Fels</td></tr>
-<tr><td>10</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matthew Croston-Mitchell</td></tr>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jussi Helin</td></tr>
-<tr><td>14</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrey Balashov</td></tr>
-<tr><td>30</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jonas König</td></tr>
-<tr><td>32</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nathanael Bossard</td></tr>
-<tr><td>33</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marco Petrosino</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Samuel Zanon</td></tr>
+<tr><td>5</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alessandro Ghisolfi</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Smith</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kevin Hartman</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>David Rowley</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Fels</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matthew Croston-Mitchell</td></tr>
+<tr><td>11</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jussi Helin</td></tr>
+<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roy Pusic</td></tr>
 </tbody>
 </table>
 
@@ -59,29 +58,15 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>34</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Anthony Knight</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alain Zimmermann</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Hugo Aubert</td></tr>
-<tr><td>37</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tim Forsbach</td></tr>
-<tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Matić</td></tr>
-<tr><td>39</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dejan Dmitrović</td></tr>
-<tr><td>41</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vinceroy Hanley</td></tr>
-<tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Conor Hornby</td></tr>
-<tr><td>45</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ivan Dabac</td></tr>
-<tr><td>46</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alen Jusic</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--club-du-fjord">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Foglia</td><td><img src="/images/flags/gi.svg" width="18" alt=""> College 1975</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tjeerd Inge</td><td><img src="/images/flags/il.svg" width="18" alt=""> Hapoel Kfar-Saba</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Francesco Cardini</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Anthony Knight</td></tr>
+<tr><td>31</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pablo Lucchini</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Lacey</td></tr>
+<tr><td>33</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eliott Duhau</td></tr>
+<tr><td>35</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Matić</td></tr>
+<tr><td>37</td><td>RB</td><td><img src="/images/flags/tt.svg" width="18" alt=""> TTO</td><td>Keston Campbell</td></tr>
+<tr><td>38</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dejan Dmitrović</td></tr>
+<tr><td>39</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Philippe Geneste</td></tr>
 </tbody>
 </table>
 </div>
@@ -93,7 +78,7 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Jussi Helin</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Jussi Helin</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -106,7 +91,7 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Mark Davis</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 26, 2023 - Present</td><td>20</td><td>2</td><td>10</td><td>8</td><td>10%</td></tr>
+<tr><td>Mark Davis</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 26, 2023 - Present</td><td>56</td><td>17</td><td>21</td><td>18</td><td>30%</td></tr>
 <tr><td>Angel Kotar</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - June 3, 2023</td><td>13</td><td>2</td><td>5</td><td>6</td><td>15%</td></tr>
 </tbody>
 </table>
@@ -145,9 +130,19 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tbody>
 <tr>
   <td><a href="/clubs/club_du_fjord/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>5</td><td>16</td><td>13</td><td>34</td><td>46</td><td>-12</td><td>31</td><td>16th</td><td>QF</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>5</td><td>16</td><td>13</td><td>34</td><td>46</td><td>-12</td><td>31</td><td>16th</td><td>QF</td><td>—</td><td>—</td>
   <td>—</td><td>8,646</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jannik Fels</td><td>16</td>
+</tr>
+<tr>
+  <td><a href="/clubs/club_du_fjord/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>14</td><td>11</td><td>9</td><td>43</td><td>38</td><td>+5</td><td>53</td><td>4th</td><td>R2</td><td>—</td><td>—</td>
+  <td>—</td><td>8,654</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jannik Fels</td><td>9</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="club-du-fjord" highlight_first="true" >}}
+2023,16
+2024,4
+{{< /club_position_chart >}}

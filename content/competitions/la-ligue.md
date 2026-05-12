@@ -22,12 +22,9 @@ aliases:
 <tr><th>Confederation</th><td>CONCACAF</td></tr>
 <tr><th>Number of clubs</th><td>18</td></tr>
 <tr><th>Domestic cup</th><td>Canadian Championship</td></tr>
-<tr><th>International cup</th><td>CONCACAF Champions Cup</td></tr>
-<tr><th>Current champions</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a></td></tr>
-<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
-<tr><th>Most appearances</th><td>Dorian Giroud (35)</td></tr>
-<tr><th>Top scorer</th><td>Umberto Di Vincenzo (16)</td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2023/">2023 La Ligue</a></td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a></td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> & <a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2024/">2024 La Ligue</a></td></tr>
 </table>
 </div>
 
@@ -178,7 +175,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>Saint-Jérôme</td>
       <td>Stade Desjardins</td>
       <td>2022</td>
-      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
       <td><a href="/clubs/metaberoutin/" class="club-chip club-chip--metaberoutin">

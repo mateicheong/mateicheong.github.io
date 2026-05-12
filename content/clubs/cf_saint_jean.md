@@ -26,7 +26,7 @@ url: /clubs/cf_saint_jean/
 {{< club_kit "saintjean_away.png" "CF Saint-Jean away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/cf_saint_jean/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/cf_saint_jean/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -47,16 +47,15 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>4</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gregory Breuil</td></tr>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Toni Turkalj</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rayan Bouillaguet</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jamie Coates</td></tr>
-<tr><td>10</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josh Morrison</td></tr>
-<tr><td>12</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Zhang Ya</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Olivier Dos Santos</td></tr>
-<tr><td>14</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Baptiste Berger</td></tr>
+<tr><td>4</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gregory Breuil</td></tr>
+<tr><td>6</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Milan Vukovic</td></tr>
+<tr><td>7</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jordan Alvarez</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fraser McArthur</td></tr>
+<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Toni Turkalj</td></tr>
 <tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Filip Cichoń</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Braulio Adriano</td></tr>
+<tr><td>31</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Eckerstorfer</td></tr>
+<tr><td>32</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Braulio Adriano</td></tr>
+<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikhil Ralte</td></tr>
 </tbody>
 </table>
 
@@ -65,30 +64,13 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ross Graham</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cédric Simon</td></tr>
-<tr><td>34</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikhil Ralte</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Eckerstorfer</td></tr>
-<tr><td>36</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Omar Garcés</td></tr>
-<tr><td>37</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benjamin Mann</td></tr>
-<tr><td>38</td><td>DF</td><td><img src="/images/flags/jm.svg" width="18" alt=""> JAM</td><td>Kemar Harvey</td></tr>
-<tr><td>40</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luciano Grassi</td></tr>
-<tr><td>41</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonio Raffaelli</td></tr>
-<tr><td>43</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Overton</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--cf-saint-jean">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Maximilien Burger</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Longueuil</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fraser McArthur</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Forge FC</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tony Morgan</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Celtix du Haut-Richelieu</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jamie Coates</td></tr>
+<tr><td>35</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cédric Simon</td></tr>
+<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dorian Barthelemy</td></tr>
+<tr><td>40</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dean Palmer</td></tr>
+<tr><td>41</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ross Graham</td></tr>
+<tr><td>42</td><td>RB</td><td><img src="/images/flags/jm.svg" width="18" alt=""> JAM</td><td>Kemar Harvey</td></tr>
+<tr><td>43</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Henk Beltman</td></tr>
 </tbody>
 </table>
 </div>
@@ -100,7 +82,8 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Josh Morrison</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-</td><td>Toni Turkalj</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Josh Morrison</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -113,7 +96,7 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Dwight Corinaldi</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>35</td><td>12</td><td>13</td><td>10</td><td>34%</td></tr>
+<tr><td>Dwight Corinaldi</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>72</td><td>25</td><td>23</td><td>24</td><td>34%</td></tr>
 </tbody>
 </table>
 </div>
@@ -151,9 +134,19 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tbody>
 <tr>
   <td><a href="/clubs/cf_saint_jean/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>12</td><td>13</td><td>9</td><td>40</td><td>34</td><td>+6</td><td>49</td><td>8th</td><td>R1</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>12</td><td>13</td><td>9</td><td>40</td><td>34</td><td>+6</td><td>49</td><td>8th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>7,866</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jamie Coates</td><td>11</td>
+</tr>
+<tr>
+  <td><a href="/clubs/cf_saint_jean/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>11</td><td>10</td><td>13</td><td>35</td><td>36</td><td>-1</td><td>43</td><td>11th</td><td>QF</td><td>—</td><td>—</td>
+  <td>—</td><td>7,851</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jamie Coates</td><td>8</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="cf-saint-jean" highlight_first="true" >}}
+2023,8
+2024,11
+{{< /club_position_chart >}}

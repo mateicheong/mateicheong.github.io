@@ -30,7 +30,7 @@ aliases:
 {{< club_kit "athletiquemontreal_away.png" "Athlétique de Montréal away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -48,18 +48,18 @@ Athlétique de Montréal was founded by businessman Vincente Piacente. As a stat
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yuri Pasquini</td></tr>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Nguyen</td></tr>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacopo Dadina</td></tr>
-<tr><td>6</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yacine Zouaoui</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ousmane Conté</td></tr>
-<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alexandre Guimard</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jarid Budd</td></tr>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Connolly</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christopher Brossard</td></tr>
-<tr><td>30</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Bruckert</td></tr>
-<tr><td>31</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roberto Castelnuovo</td></tr>
-<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paulo De Wilde</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cian Henderson</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joshua Gould</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Bruckert</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Damien Chalut Natal</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacopo Dadina</td></tr>
+<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Lyonnet</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yacine Zouaoui</td></tr>
+<tr><td>8</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alexandre Guimard</td></tr>
+<tr><td>9</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Connolly</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marko Kovacevic</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roberto Castelnuovo</td></tr>
+<tr><td>12</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ousmane Conté</td></tr>
 </tbody>
 </table>
 
@@ -68,31 +68,18 @@ Athlétique de Montréal was founded by businessman Vincente Piacente. As a stat
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joe Charlesworth</td></tr>
-<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Belaïd Cherifi</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Coen Westra</td></tr>
-<tr><td>36</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eoghan Gleeson</td></tr>
-<tr><td>37</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Goran Petrić</td></tr>
-<tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jake Belcher-Heard</td></tr>
-<tr><td>39</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Massillon Chérestal</td></tr>
-<tr><td>40</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Lyonnet</td></tr>
-<tr><td>41</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marko Kovacevic</td></tr>
-<tr><td>42</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gustavo Santacruz</td></tr>
-<tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Enrico Godói</td></tr>
-<tr><td>44</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Denis Marechal</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--athletique-de-montreal">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Geoffrey Daguerre</td><td><img src="/images/flags/fi.svg" width="18" alt=""> Käpylän Pallo</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>João Teixeira</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Longueuil</td></tr>
+<tr><td>13</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jarid Budd</td></tr>
+<tr><td>18</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrew Mason</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Goran Petrić</td></tr>
+<tr><td>31</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Nguyen</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrea Longhi</td></tr>
+<tr><td>33</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Enrico Godói</td></tr>
+<tr><td>34</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Belaïd Cherifi</td></tr>
+<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Coen Westra</td></tr>
+<tr><td>39</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Massillon Chérestal</td></tr>
+<tr><td>40</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Maistrello</td></tr>
+<tr><td>41</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Titouan Masson</td></tr>
+<tr><td>43</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jason England</td></tr>
 </tbody>
 </table>
 </div>
@@ -104,7 +91,7 @@ Athlétique de Montréal was founded by businessman Vincente Piacente. As a stat
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Yacine Zouaoui</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Yacine Zouaoui</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023</td><td>Angelo Catanese</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
@@ -118,7 +105,7 @@ Athlétique de Montréal was founded by businessman Vincente Piacente. As a stat
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>John Haddow</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 29, 2023 - Present</td><td>23</td><td>8</td><td>4</td><td>11</td><td>34%</td></tr>
+<tr><td>John Haddow</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 29, 2023 - Present</td><td>60</td><td>27</td><td>12</td><td>21</td><td>45%</td></tr>
 <tr><td>Pierre-Alexandre Segura</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - May 27, 2023</td><td>13</td><td>3</td><td>3</td><td>8</td><td>23%</td></tr>
 </tbody>
 </table>
@@ -157,9 +144,19 @@ Athlétique de Montréal was founded by businessman Vincente Piacente. As a stat
 <tbody>
 <tr>
   <td><a href="/clubs/athlétique_de_montréal/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>9</td><td>6</td><td>19</td><td>32</td><td>54</td><td>-22</td><td>33</td><td>14th</td><td>SF</td><td>—</td><td>QF</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>9</td><td>6</td><td>19</td><td>32</td><td>54</td><td>-22</td><td>33</td><td>14th</td><td>SF</td><td>—</td><td>QF</td>
   <td>—</td><td>12,388</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Roberto Castelnuovo<br><img src="/images/flags/ca.svg" width="18" alt=""> Thomas Connolly</td><td>5</td>
+</tr>
+<tr>
+  <td><a href="/clubs/athlétique_de_montréal/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>17</td><td>8</td><td>9</td><td>43</td><td>36</td><td>+7</td><td>59</td><td>3rd</td><td>QF</td><td>—</td><td>—</td>
+  <td>—</td><td>13,163</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Roberto Castelnuovo</td><td>12</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="athletique-de-montreal" highlight_first="true" >}}
+2023,14
+2024,3
+{{< /club_position_chart >}}

@@ -20,7 +20,7 @@ aliases:
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>Mateus Chont</td></tr>
-<tr><th>Head Coach</th><td>Andy Cook</td></tr>
+<tr><th>Head Coach</th><td>Jérémy Deschamps</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "petitebourgogne_away.png" "Petite-Bourgogne away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/petite-bourgogne/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/petite-bourgogne/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,16 +49,18 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adnan Hodžić</td></tr>
-<tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexis Teixeira</td></tr>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan van Duijn</td></tr>
-<tr><td>6</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Brandon Swinburn</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Philippe Causse</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jonathan Hogg</td></tr>
-<tr><td>10</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Zlatko Dimitrijević</td></tr>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ousmane Blot</td></tr>
-<tr><td>12</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Rayan Levy</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sotiris Antonis</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adnan Hodžić</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexis Teixeira</td></tr>
+<tr><td>6</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan van Duijn</td></tr>
+<tr><td>7</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ewan Chagnaud</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Guillaume Burger</td></tr>
+<tr><td>10</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Zlatko Dimitrijević</td></tr>
+<tr><td>12</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Regan Kelly</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lewis Urquhart</td></tr>
+<tr><td>14</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan Brossard</td></tr>
+<tr><td>15</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>George Miles</td></tr>
+<tr><td>16</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joseph Adams</td></tr>
+<tr><td>18</td><td>ST</td><td><img src="/images/flags/ht.svg" width="18"> HTI</td><td>Aubelin Joseph</td></tr>
 </tbody>
 </table>
 
@@ -67,31 +69,16 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>18</td><td>FW</td><td><img src="/images/flags/ht.svg" width="18"> HTI</td><td>Aubelin Joseph</td></tr>
-<tr><td>30</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Weston Simpson</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Chris Burke</td></tr>
-<tr><td>32</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sean Duffy</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Simone Piana</td></tr>
-<tr><td>34</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lewis Urquhart</td></tr>
-<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michel Yavorsky</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lukas O'Regan</td></tr>
-<tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alessandro Ghisolfi</td></tr>
-<tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ewan Chagnaud</td></tr>
-<tr><td>39</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nicholas Santos</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--petite-bourgogne">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>George Bostock</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Atlético Ottawa</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roussan Roche</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Mont-Royal Outremont</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Bosc</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Saint-Laurent</td></tr>
+<tr><td>30</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michel Yavorsky</td></tr>
+<tr><td>31</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nicholas Santos</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Bruce Mbanjwa</td></tr>
+<tr><td>33</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sotiris Antonis</td></tr>
+<tr><td>34</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Vincenzo Auletta</td></tr>
+<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Simone Piana</td></tr>
+<tr><td>36</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas O'Regan</td></tr>
+<tr><td>37</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jérémy Horn</td></tr>
+<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gianlucca Carannante</td></tr>
+<tr><td>39</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohammad Chaaban</td></tr>
 </tbody>
 </table>
 </div>
@@ -103,6 +90,7 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
+<tr><td>2024-</td><td>Zlatko Dimitrijević</td><td><img src="/images/flags/ca.svg" width="18"> Canada</td></tr>
 <tr><td>2023</td><td>Jonathan Hogg</td><td><img src="/images/flags/ca.svg" width="18"> Canada</td></tr>
 </tbody>
 </table>
@@ -116,7 +104,8 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>April 5, 2023 - Present</td><td>39</td><td>24</td><td>9</td><td>6</td><td>61%</td></tr>
+<tr><td>Jérémy Deschamps</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>June 8, 2024 - Present</td><td>25</td><td>13</td><td>8</td><td>4</td><td>52%</td></tr>
+<tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>April 5, 2023 - May 22, 2024</td><td>54</td><td>25</td><td>13</td><td>16</td><td>46%</td></tr>
 </tbody>
 </table>
 </div>
@@ -154,9 +143,19 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 <tbody>
 <tr>
   <td><a href="/clubs/petite-bourgogne/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
   <td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Hogg</td><td>15</td>
+</tr>
+<tr>
+  <td><a href="/clubs/petite-bourgogne/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>12</td><td>13</td><td>9</td><td>42</td><td>34</td><td>+8</td><td>49</td><td>6th</td><td class="final-position--">R-U</td><td>R-U</td><td>R1</td>
+  <td>R1</td><td>11,081</td><td><img src="/images/flags/ht.svg" width="18" alt=""> Aubelin Joseph</td><td>9</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="petite-bourgogne" highlight_first="true" >}}
+2023,2
+2024,6
+{{< /club_position_chart >}}

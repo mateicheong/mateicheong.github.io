@@ -26,7 +26,7 @@ url: /clubs/laval_nord/
 {{< club_kit "laval_away.png" "Laval Nord away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/laval_nord/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/laval_nord/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -47,14 +47,19 @@ The club plays home matches at Parc Cartier in Laval.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>3</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Morgan Breuil</td></tr>
-<tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Tournier</td></tr>
-<tr><td>9</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Davies</td></tr>
-<tr><td>10</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mark Williams</td></tr>
-<tr><td>12</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Richard Crossley</td></tr>
-<tr><td>14</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dorian Giroud</td></tr>
-<tr><td>15</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Will Hall-Jones</td></tr>
-<tr><td>30</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Guillaume Ott</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Will Hall-Jones</td></tr>
+<tr><td>2</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Cutajar</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Morgan Breuil</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Tournier</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ivan Vicente</td></tr>
+<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikola Marković</td></tr>
+<tr><td>8</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tim Forsbach</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Overton</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fred Mukiele</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gilbert Bootsma</td></tr>
+<tr><td>12</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Andrews</td></tr>
+<tr><td>13</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Malo Lévêque</td></tr>
+<tr><td>23</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kévin Papon</td></tr>
 </tbody>
 </table>
 
@@ -63,28 +68,18 @@ The club plays home matches at Parc Cartier in Laval.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikola Marković</td></tr>
-<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Deyvid</td></tr>
-<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Haris Kovač</td></tr>
-<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>José Luis Cazorla</td></tr>
-<tr><td>35</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Léo Lecoq</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florentin Retailleau</td></tr>
-<tr><td>37</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pierre Morisse</td></tr>
-<tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Ward</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--laval-nord">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Frane Živković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> York United FC</td></tr>
-<tr><td>-</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Cutajar</td><td><img src="/images/flags/ca.svg" width="18" alt=""> AS Laval</td></tr>
-<tr><td>-</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ivan Vicente</td><td><img src="/images/flags/de.svg" width="18" alt=""> Hansa Rostock</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jack Ryan</td></tr>
+<tr><td>31</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Deyvid</td></tr>
+<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Davies</td></tr>
+<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matt Joyce</td></tr>
+<tr><td>34</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pierre Morisse</td></tr>
+<tr><td>35</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dean Blackburn</td></tr>
+<tr><td>36</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Iván Huerta</td></tr>
+<tr><td>37</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luc Gasser</td></tr>
+<tr><td>38</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kamil Ducasse</td></tr>
+<tr><td>39</td><td>RM</td><td><img src="/images/flags/gb-nir.svg" width="18" alt=""> NIR</td><td>Lewis Mooney</td></tr>
+<tr><td>40</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Killian Ruiz</td></tr>
+<tr><td>41</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paolo Morello</td></tr>
 </tbody>
 </table>
 </div>
@@ -96,7 +91,9 @@ The club plays home matches at Parc Cartier in Laval.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Mark Williams</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-</td><td>Nikola Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024</td><td>Dorian Giroud</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Mark Williams</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -109,7 +106,7 @@ The club plays home matches at Parc Cartier in Laval.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Henri Schweitzer</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 25, 2023 - Present</td><td>21</td><td>6</td><td>2</td><td>13</td><td>28%</td></tr>
+<tr><td>Henri Schweitzer</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 25, 2023 - Present</td><td>59</td><td>18</td><td>10</td><td>31</td><td>30%</td></tr>
 <tr><td>Cédric Heitz</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 9, 2023 - June 3, 2023</td><td>14</td><td>2</td><td>6</td><td>6</td><td>14%</td></tr>
 </tbody>
 </table>
@@ -148,9 +145,19 @@ The club plays home matches at Parc Cartier in Laval.
 <tbody>
 <tr>
   <td><a href="/clubs/laval_nord/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>8</td><td>8</td><td>18</td><td>42</td><td>61</td><td>-19</td><td>32</td><td>15th</td><td>R2</td><td>—</td><td>QF</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>8</td><td>8</td><td>18</td><td>42</td><td>61</td><td>-19</td><td>32</td><td>15th</td><td>R2</td><td>—</td><td>QF</td>
   <td>—</td><td>10,140</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Umberto Di Vincenzo</td><td>10</td>
+</tr>
+<tr>
+  <td><a href="/clubs/laval_nord/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>9</td><td>8</td><td>17</td><td>34</td><td>42</td><td>-8</td><td>35</td><td>15th</td><td>SF</td><td>—</td><td>—</td>
+  <td>—</td><td>10,189</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Gilbert Bootsma<br><img src="/images/flags/ca.svg" width="18" alt=""> Fred Mukiele</td><td>6</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="laval-nord" highlight_first="true" >}}
+2023,15
+2024,15
+{{< /club_position_chart >}}

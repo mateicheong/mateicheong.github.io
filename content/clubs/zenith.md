@@ -22,7 +22,7 @@ aliases:
 <tr><th>Owner</th><td>Volodymyr Tremblay</td></tr>
 <tr><th>Head Coach</th><td>Evan Acker</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/zénith/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/zénith/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -43,15 +43,17 @@ The club plays home matches at Stade Fernand-Grenier in Mégantic.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Terzić</td></tr>
-<tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luigi Massari</td></tr>
-<tr><td>6</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Hasan Ali Mohammed</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohamad Attye</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonello Gaucci</td></tr>
-<tr><td>10</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Martin Marković</td></tr>
-<tr><td>11</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fred Mukiele</td></tr>
-<tr><td>12</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benoît Sueur</td></tr>
-<tr><td>13</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nicolai Møller</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Terzić</td></tr>
+<tr><td>3</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Calum Bennett</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luigi Massari</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Satoshi Omori</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Martin Marković</td></tr>
+<tr><td>7</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Hasan Ali Mohammed</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tommaso Siciliano</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benoît Sueur</td></tr>
+<tr><td>11</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrés Aldao</td></tr>
+<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Semir Cibra</td></tr>
+<tr><td>14</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Michał Zientarski</td></tr>
 </tbody>
 </table>
 
@@ -61,28 +63,16 @@ The club plays home matches at Stade Fernand-Grenier in Mégantic.
 </thead>
 <tbody>
 <tr><td>18</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Sean Thorpe</td></tr>
-<tr><td>30</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Hart</td></tr>
-<tr><td>31</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roydean Herrera</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Or Ka Wai</td></tr>
-<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Leonardo Almaral</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Semir Cibra</td></tr>
-<tr><td>36</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jean-Louis Baptiste</td></tr>
-<tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jaime Martínez</td></tr>
-<tr><td>38</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vyacheslav Kirillov</td></tr>
-<tr><td>41</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Evan Jardim</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--zenith">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Overton</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CF Saint-Jean</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Michał Zientarski</td><td><img src="/images/flags/il.svg" width="18" alt=""> Maccabi Jaffa</td></tr>
+<tr><td>30</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florentin Retailleau</td></tr>
+<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Webb</td></tr>
+<tr><td>32</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Liam Higham</td></tr>
+<tr><td>33</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vyacheslav Kirillov</td></tr>
+<tr><td>34</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ben Norris</td></tr>
+<tr><td>35</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jean-Louis Baptiste</td></tr>
+<tr><td>37</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Evan Jardim</td></tr>
+<tr><td>38</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Callum Glover</td></tr>
+<tr><td>39</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Or Ka Wai</td></tr>
+<tr><td>40</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Ward</td></tr>
 </tbody>
 </table>
 </div>
@@ -94,7 +84,7 @@ The club plays home matches at Stade Fernand-Grenier in Mégantic.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Martin Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Martin Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -107,7 +97,7 @@ The club plays home matches at Stade Fernand-Grenier in Mégantic.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Evan Acker</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>35</td><td>10</td><td>12</td><td>13</td><td>28%</td></tr>
+<tr><td>Evan Acker</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>70</td><td>23</td><td>22</td><td>25</td><td>32%</td></tr>
 </tbody>
 </table>
 </div>
@@ -145,9 +135,19 @@ The club plays home matches at Stade Fernand-Grenier in Mégantic.
 <tbody>
 <tr>
   <td><a href="/clubs/zénith/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>10</td><td>12</td><td>12</td><td>40</td><td>46</td><td>-6</td><td>42</td><td>12th</td><td>R1</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>10</td><td>12</td><td>12</td><td>40</td><td>46</td><td>-6</td><td>42</td><td>12th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>2,933</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Mohamad Attye</td><td>7</td>
+</tr>
+<tr>
+  <td><a href="/clubs/zénith/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>13</td><td>10</td><td>11</td><td>42</td><td>38</td><td>+4</td><td>49</td><td>7th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>2,940</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Martin Marković</td><td>9</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="zenith" highlight_first="true" >}}
+2023,12
+2024,7
+{{< /club_position_chart >}}

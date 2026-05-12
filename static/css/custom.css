@@ -332,6 +332,26 @@ html[data-theme="dark"] .infobox {
     gap: 0.35rem;
 }
 
+/* Season page infobox: previous (left) + next (right) */
+.infobox .infobox-rows .infobox-season-nav-cell {
+    padding-top: 0.5rem;
+    vertical-align: middle;
+}
+
+.infobox .infobox-rows .infobox-season-nav-cell--prev {
+    text-align: left;
+}
+
+.infobox .infobox-rows .infobox-season-nav-cell--next {
+    text-align: right;
+}
+
+.infobox .infobox-rows .infobox-season-nav-cell a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
 /* Let content flow beside the floated infobox when it fits… */
 .club-lead {
     margin-bottom: 0.35rem;
@@ -375,6 +395,11 @@ html[data-theme="dark"] .infobox {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0.5rem;
+}
+
+/* Year-by-year stats: single wide table spans full content width */
+.year-by-year-table.squad-grid {
+    grid-template-columns: 1fr;
 }
 
 .squad-table {
@@ -2065,6 +2090,8 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 
 .season-league-table th.season-league-table__pos,
 .season-league-table td.season-league-table__pos,
+.season-league-table th.season-league-table__inf,
+.season-league-table td.season-league-table__inf,
 .season-league-table th.season-league-table__num,
 .season-league-table td.season-league-table__num,
 .season-league-table th.season-league-table__pts,
@@ -2152,5 +2179,205 @@ html[data-theme="dark"] .club-chip--cs-chateauguay:focus-visible {
 
 .top-scorers-table td.top-scorers-table__club .club-chip {
     vertical-align: middle;
+}
+
+/* Club page: league position trend (SVG shortcode) */
+.club-position-chart {
+    margin: 1rem 0 1.25rem;
+    width: 100%;
+    max-width: 100%;
+}
+
+.club-position-chart__title {
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    font-size: 1rem;
+}
+
+.club-position-chart__svg-wrap {
+    width: 100%;
+    max-width: 100%;
+}
+
+.club-position-chart__svg {
+    display: block;
+}
+
+.club-position-chart__frame {
+    stroke: var(--color-border);
+    stroke-width: 1;
+}
+
+.club-position-chart__grid-h {
+    stroke: var(--color-border);
+    stroke-width: 0.5;
+    opacity: 0.55;
+}
+
+.club-position-chart__line {
+    stroke: var(--color-link);
+    stroke-width: 2.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.club-position-chart__dot {
+    fill: var(--color-background);
+    stroke: var(--color-link);
+    stroke-width: 2;
+}
+
+/* Same gold as .final-position--winner (year-by-year "Won"); opt-in via highlight_first="true" */
+.club-position-chart__dot.club-position-chart__dot--first-place {
+    fill: #ecbb7c;
+}
+
+/* Club chart line/dot stroke: same accent as .club-chip (light) / chip dark override */
+.club-position-chart--petite-bourgogne .club-position-chart__line,
+.club-position-chart--petite-bourgogne .club-position-chart__dot {
+    stroke: #9f2042;
+}
+
+.club-position-chart--draveurs-sherbrooke .club-position-chart__line,
+.club-position-chart--draveurs-sherbrooke .club-position-chart__dot {
+    stroke: #2e6e5f;
+}
+
+.club-position-chart--navigateurs-rimouski .club-position-chart__line,
+.club-position-chart--navigateurs-rimouski .club-position-chart__dot {
+    stroke: #2d58a7;
+}
+
+.club-position-chart--deux-rives .club-position-chart__line,
+.club-position-chart--deux-rives .club-position-chart__dot {
+    stroke: #6767ba;
+}
+
+.club-position-chart--hawkesbury-united .club-position-chart__line,
+.club-position-chart--hawkesbury-united .club-position-chart__dot {
+    stroke: #1e1e1e;
+}
+
+html[data-theme="dark"] .club-position-chart--hawkesbury-united .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--hawkesbury-united .club-position-chart__dot {
+    stroke: #fce5cf;
+}
+
+.club-position-chart--club-du-fjord .club-position-chart__line,
+.club-position-chart--club-du-fjord .club-position-chart__dot {
+    stroke: #067ebb;
+}
+
+.club-position-chart--rouyn-noranda .club-position-chart__line,
+.club-position-chart--rouyn-noranda .club-position-chart__dot {
+    stroke: #f93529;
+}
+
+.club-position-chart--laval-nord .club-position-chart__line,
+.club-position-chart--laval-nord .club-position-chart__dot {
+    stroke: #383838;
+}
+
+html[data-theme="dark"] .club-position-chart--laval-nord .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--laval-nord .club-position-chart__dot {
+    stroke: #d8f8d8;
+}
+
+.club-position-chart--cf-saint-jean .club-position-chart__line,
+.club-position-chart--cf-saint-jean .club-position-chart__dot {
+    stroke: #491d75;
+}
+
+html[data-theme="dark"] .club-position-chart--cf-saint-jean .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--cf-saint-jean .club-position-chart__dot {
+    stroke: #f6b74e;
+}
+
+.club-position-chart--athletique-de-montreal .club-position-chart__line,
+.club-position-chart--athletique-de-montreal .club-position-chart__dot {
+    stroke: #2d2424;
+}
+
+html[data-theme="dark"] .club-position-chart--athletique-de-montreal .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--athletique-de-montreal .club-position-chart__dot {
+    stroke: #ffffff;
+}
+
+.club-position-chart--kichi-sibi .club-position-chart__line,
+.club-position-chart--kichi-sibi .club-position-chart__dot {
+    stroke: #2a3251;
+}
+
+html[data-theme="dark"] .club-position-chart--kichi-sibi .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--kichi-sibi .club-position-chart__dot {
+    stroke: #8b97d6;
+}
+
+.club-position-chart--levis .club-position-chart__line,
+.club-position-chart--levis .club-position-chart__dot {
+    stroke: #76ccd2;
+}
+
+.club-position-chart--zenith .club-position-chart__line,
+.club-position-chart--zenith .club-position-chart__dot {
+    stroke: #006074;
+}
+
+html[data-theme="dark"] .club-position-chart--zenith .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--zenith .club-position-chart__dot {
+    stroke: #f7e4b1;
+}
+
+.club-position-chart--locomotive .club-position-chart__line,
+.club-position-chart--locomotive .club-position-chart__dot {
+    stroke: #ff2c4d;
+}
+
+.club-position-chart--as-drummond .club-position-chart__line,
+.club-position-chart--as-drummond .club-position-chart__dot {
+    stroke: #1b1b1b;
+}
+
+html[data-theme="dark"] .club-position-chart--as-drummond .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--as-drummond .club-position-chart__dot {
+    stroke: #ffc400;
+}
+
+.club-position-chart--bastions-de-quebec .club-position-chart__line,
+.club-position-chart--bastions-de-quebec .club-position-chart__dot {
+    stroke: #523b2d;
+}
+
+html[data-theme="dark"] .club-position-chart--bastions-de-quebec .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--bastions-de-quebec .club-position-chart__dot {
+    stroke: #ede0c4;
+}
+
+.club-position-chart--cs-chateauguay .club-position-chart__line,
+.club-position-chart--cs-chateauguay .club-position-chart__dot {
+    stroke: #4a5230;
+}
+
+html[data-theme="dark"] .club-position-chart--cs-chateauguay .club-position-chart__line,
+html[data-theme="dark"] .club-position-chart--cs-chateauguay .club-position-chart__dot {
+    stroke: #c8b060;
+}
+
+.club-position-chart--metaberoutin .club-position-chart__line,
+.club-position-chart--metaberoutin .club-position-chart__dot {
+    stroke: #fc722a;
+}
+
+.club-position-chart__axis-y,
+.club-position-chart__axis-ylabel,
+.club-position-chart__xlabel {
+    fill: var(--color-text-secondary);
+    font-size: 11px;
+}
+
+.club-position-chart__caption {
+    margin: 0.5rem 0 0;
+    font-size: 0.875rem;
+    color: var(--color-text-secondary);
 }
 

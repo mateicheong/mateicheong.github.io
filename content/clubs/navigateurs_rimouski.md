@@ -20,7 +20,7 @@ aliases:
 <tr><th>Stadium</th><td>Stade Ernest-Lepage</td></tr>
 <tr><th>Capacity</th><td>5,870</td></tr>
 <tr><th>Owner</th><td>Michael Dubois</td></tr>
-<tr><th>Head Coach</th><td>Marcel Villaume</td></tr>
+<tr><th>Head Coach</th><td>Liam Lucas</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "navigateurs_away.png" "Navigateurs de Rimouski away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/navigateurs_rimouski/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/navigateurs_rimouski/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -46,14 +46,15 @@ The club is associated with the junior ice hockey team Rimouski Océanic.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pascal Charron</td></tr>
-<tr><td>3</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bill Morelli</td></tr>
-<tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Romain Simonin</td></tr>
-<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florentin Gerard</td></tr>
-<tr><td>9</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edvin Pepić</td></tr>
-<tr><td>10</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabio Isidor</td></tr>
-<tr><td>12</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gabriele Mungo</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josip Perković</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ahmed Pelletier</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pascal Charron</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ross Wells</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rajee Salmon</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edvin Pepić</td></tr>
+<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lucas Thuillier</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louis-Antoine Sauvage</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabio Isidor</td></tr>
+<tr><td>12</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gabriele Mungo</td></tr>
 </tbody>
 </table>
 
@@ -62,14 +63,17 @@ The club is associated with the junior ice hockey team Rimouski Océanic.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>14</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joshua Gould</td></tr>
-<tr><td>30</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louis-Antoine Sauvage</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Steve McMahon</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rajee Salmon</td></tr>
-<tr><td>34</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>José Juan Medina</td></tr>
-<tr><td>35</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacques Gueguen</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florian Lesueur</td></tr>
-<tr><td>37</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mattia Scardina</td></tr>
+<tr><td>13</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohamad Attye</td></tr>
+<tr><td>14</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Burke</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josip Perković</td></tr>
+<tr><td>31</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Guy Evans</td></tr>
+<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alan Jackson</td></tr>
+<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Baptiste Berger</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mael Andre</td></tr>
+<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Steve McMahon</td></tr>
+<tr><td>36</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mattia Scardina</td></tr>
+<tr><td>37</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacques Gueguen</td></tr>
+<tr><td>38</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thibault Lefevre</td></tr>
 </tbody>
 </table>
 </div>
@@ -81,7 +85,7 @@ The club is associated with the junior ice hockey team Rimouski Océanic.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Fabio Isidor</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Fabio Isidor</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023</td><td>Dorian Giroud</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
@@ -95,7 +99,8 @@ The club is associated with the junior ice hockey team Rimouski Océanic.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Marcel Villaume</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 18, 2023 - Present</td><td>15</td><td>1</td><td>4</td><td>10</td><td>6%</td></tr>
+<tr><td>Liam Lucas</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 11, 2024 - Present</td><td>21</td><td>9</td><td>5</td><td>7</td><td>42%</td></tr>
+<tr><td>Marcel Villaume</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>July 17, 2023 - May 18, 2024</td><td>15</td><td>1</td><td>7</td><td>17</td><td>4%</td></tr>
 <tr><td>Antonin Mace</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - June 17, 2023</td><td>16</td><td>3</td><td>7</td><td>6</td><td>18%</td></tr>
 </tbody>
 </table>
@@ -134,9 +139,19 @@ The club is associated with the junior ice hockey team Rimouski Océanic.
 <tbody>
 <tr>
   <td><a href="/clubs/navigateurs_rimouski/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>5</td><td>11</td><td>18</td><td>29</td><td>51</td><td>-22</td><td>26</td><td>17th</td><td>R1</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>5</td><td>11</td><td>18</td><td>29</td><td>51</td><td>-22</td><td>26</td><td>17th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>5,833</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Fabio Isidor</td><td>7</td>
+</tr>
+<tr>
+  <td><a href="/clubs/navigateurs_rimouski/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>11</td><td>10</td><td>13</td><td>46</td><td>45</td><td>+1</td><td>43</td><td>9th</td><td>R2</td><td>—</td><td>—</td>
+  <td>—</td><td>5,824</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Fabio Isidor</td><td>11</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="navigateurs-rimouski" highlight_first="true" >}}
+2023,17
+2024,9
+{{< /club_position_chart >}}

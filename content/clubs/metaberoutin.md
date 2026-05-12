@@ -20,7 +20,7 @@ aliases:
 <tr><th>Stadium</th><td>Stade Martin-Bergeron</td></tr>
 <tr><th>Capacity</th><td>8,960</td></tr>
 <tr><th>Owner</th><td>Alexis Vial</td></tr>
-<tr><th>Head Coach</th><td>—</td></tr>
+<tr><th>Head Coach</th><td>Eric Guillot</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/metaberoutin/2023/">Current Season</a></td></tr>
 </table>
@@ -43,14 +43,16 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vasilis Labropoulos</td></tr>
-<tr><td>6</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jim Gibson</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ht.svg" width="18" alt=""> HAI</td><td>Jacques Axenat</td></tr>
-<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louis Horner</td></tr>
-<tr><td>12</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matheo Beretti</td></tr>
+<tr><td>8</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louis Horner</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edgar Huerta</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/mx.svg" width="18" alt=""> MEX</td><td>Yostin Valadéz</td></tr>
+<tr><td>11</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Loïc Esnault</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nicolas Fleuriau Chateau</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bruno Parente</td></tr>
 <tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alexis Huyghe</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Loïc Esnault</td></tr>
-<tr><td>32</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Raman Das</td></tr>
+<tr><td>31</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miroslav Stepanović</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brandon Swinburn</td></tr>
+<tr><td>33</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Raman Das</td></tr>
 </tbody>
 </table>
 
@@ -59,26 +61,16 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kyle Angell</td></tr>
-<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brad Bisgrove</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Maistrello</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ronaldo Seminario</td></tr>
-<tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thierry Garrigues</td></tr>
-<tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Faedo</td></tr>
-<tr><td>39</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Stéphane Campana</td></tr>
-<tr><td>41</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Michael Conan</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--metaberoutin">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benjamin Kuiper</td><td><img src="/images/flags/il.svg" width="18" alt=""> Hapoel Kfar-Saba</td></tr>
+<tr><td>34</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kyle Angell</td></tr>
+<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brad Bisgrove</td></tr>
+<tr><td>36</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ronaldo Seminario</td></tr>
+<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Faedo</td></tr>
+<tr><td>38</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benjamin Kuiper</td></tr>
+<tr><td>39</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thierry Garrigues</td></tr>
+<tr><td>40</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Stéphane Campana</td></tr>
+<tr><td>41</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nial Hall</td></tr>
+<tr><td>44</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gauthier Aubert</td></tr>
+<tr><td>47</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabian Rodney</td></tr>
 </tbody>
 </table>
 </div>
@@ -90,7 +82,8 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Jim Gibson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-</td><td>Loïc Esnault</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Jim Gibson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -103,6 +96,7 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
+<tr><td>Eric Guillot</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>December 2, 2023 - Present</td><td>37</td><td>21</td><td>6</td><td>10</td><td>56%</td></tr>
 <tr><td>Tony Dixon</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - October 30, 2023</td><td>35</td><td>10</td><td>10</td><td>15</td><td>28%</td></tr>
 </tbody>
 </table>
@@ -141,9 +135,19 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tbody>
 <tr>
   <td><a href="/clubs/metaberoutin/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>10</td><td>10</td><td>14</td><td>37</td><td>43</td><td>-6</td><td>40</td><td>13th</td><td>R1</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>10</td><td>10</td><td>14</td><td>37</td><td>43</td><td>-6</td><td>40</td><td>13th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>8,940</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Matheo Beretti</td><td>15</td>
+</tr>
+<tr>
+  <td><a href="/clubs/metaberoutin/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>19</td><td>6</td><td>9</td><td>51</td><td>35</td><td>+16</td><td>63</td><td>2nd</td><td>QF</td><td>—</td><td>—</td>
+  <td>—</td><td>8,954</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Edgar Huerta</td><td>11</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="metaberoutin" highlight_first="true" >}}
+2023,13
+2024,2
+{{< /club_position_chart >}}

@@ -106,20 +106,20 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
 
 ## Latest
 
-<a href="/seasons/2023/" class="home-season-card">
+<a href="/seasons/2024/" class="home-season-card">
 <img src="/images/competitions/la_ligue.png" width="52" height="52" alt="La Ligue" class="home-season-card__logo">
 <span class="home-season-card__text">
 <span class="home-season-card__title">La Ligue</span>
-<span class="home-season-card__sub">2023 season</span>
+<span class="home-season-card__sub">2024 season</span>
 </span>
 <img src="/images/icons/arrow-right.svg" alt="" class="home-season-card__arrow" width="18" height="18" decoding="async" aria-hidden="true">
 </a>
 
-<a href="/competitions/coupe_du_québec/2023/" class="home-season-card home-season-card--coupe-du-quebec">
+<a href="/competitions/coupe_du_québec/2024/" class="home-season-card home-season-card--coupe-du-quebec">
 <img src="/images/competitions/coupe_du_québec.png" width="52" height="52" alt="Coupe du Québec" class="home-season-card__logo">
 <span class="home-season-card__text">
 <span class="home-season-card__title">Coupe du Québec</span>
-<span class="home-season-card__sub">2023 edition</span>
+<span class="home-season-card__sub">2024 edition</span>
 </span>
 <img src="/images/icons/arrow-right.svg" alt="" class="home-season-card__arrow" width="18" height="18" decoding="async" aria-hidden="true">
 </a>

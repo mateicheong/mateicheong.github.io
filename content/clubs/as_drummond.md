@@ -26,7 +26,7 @@ url: /clubs/as_drummond/
 {{< club_kit "drummond_away.png" "AS Drummond away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/as_drummond/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/as_drummond/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -48,14 +48,14 @@ The club plays home matches at Stade Marchand in Drummondville.
 </thead>
 <tbody>
 <tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eric Dawson</td></tr>
-<tr><td>2</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Szymon Niemienionek</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Aldo Morales</td></tr>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohammad Rustom</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lewis Baldwin</td></tr>
-<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gianmarco Franceschini</td></tr>
-<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dornell Lewis</td></tr>
-<tr><td>34</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nicolas Dubuc</td></tr>
-<tr><td>35</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonin Maisonnave</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Szymon Niemienionek</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Aldo Morales</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohammad Rustom</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lucas Ozimec</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jordan Barton</td></tr>
+<tr><td>30</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lewis Baldwin</td></tr>
+<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Gil</td></tr>
+<tr><td>34</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gianmarco Franceschini</td></tr>
 </tbody>
 </table>
 
@@ -64,14 +64,15 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Smith</td></tr>
-<tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Satoshi Omori</td></tr>
-<tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Gil</td></tr>
-<tr><td>40</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>David Martin</td></tr>
-<tr><td>41</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Corentin Dumont</td></tr>
-<tr><td>42</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabien Etcheberry</td></tr>
-<tr><td>43</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mika Valtonen</td></tr>
-<tr><td>46</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Freimann</td></tr>
+<tr><td>35</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josh Morrison</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nathanael Bossard</td></tr>
+<tr><td>37</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dornell Lewis</td></tr>
+<tr><td>38</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Romain Aubert</td></tr>
+<tr><td>39</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>George Bostock</td></tr>
+<tr><td>40</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Corentin Dumont</td></tr>
+<tr><td>41</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabien Etcheberry</td></tr>
+<tr><td>42</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonin Maisonnave</td></tr>
+<tr><td>49</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rayan Levy</td></tr>
 </tbody>
 </table>
 </div>
@@ -83,7 +84,7 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Mohammad Rustom</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Mohammad Rustom</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -96,7 +97,7 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Martin Hughes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>35</td><td>12</td><td>12</td><td>11</td><td>34%</td></tr>
+<tr><td>Martin Hughes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>73</td><td>25</td><td>27</td><td>21</td><td>34%</td></tr>
 </tbody>
 </table>
 </div>
@@ -134,9 +135,19 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tbody>
 <tr>
   <td><a href="/clubs/as_drummond/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>12</td><td>12</td><td>10</td><td>47</td><td>44</td><td>+3</td><td>48</td><td>9th</td><td>R1</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>12</td><td>12</td><td>10</td><td>47</td><td>44</td><td>+3</td><td>48</td><td>9th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>6,960</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Antonin Maisonnave</td><td>8</td>
+</tr>
+<tr>
+  <td><a href="/clubs/as_drummond/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>10</td><td>15</td><td>9</td><td>47</td><td>47</td><td>0</td><td>45</td><td>8th</td><td>SF</td><td>—</td><td>—</td>
+  <td>—</td><td>6,960</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Lucas Ozimec</td><td>10</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="as-drummond" highlight_first="true" >}}
+2023,9
+2024,8
+{{< /club_position_chart >}}

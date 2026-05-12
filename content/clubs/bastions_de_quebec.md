@@ -18,7 +18,7 @@ url: /clubs/bastions_de_quebec/
 <tr><th>Stadium</th><td>Stade Beauport</td></tr>
 <tr><th>Capacity</th><td>17,620</td></tr>
 <tr><th>Owner</th><td>Stéphane Lachevre</td></tr>
-<tr><th>Head Coach</th><td>Katsuhiko Sasaki</td></tr>
+<tr><th>Head Coach</th><td>Anthony Andre</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -26,7 +26,7 @@ url: /clubs/bastions_de_quebec/
 {{< club_kit "bastions_away.png" "Bastions de Québec away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/bastions_de_quebec/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/bastions_de_quebec/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -48,13 +48,14 @@ The club plays home matches at Stade Beauport in Québec City.
 </thead>
 <tbody>
 <tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Piotr Letniowski</td></tr>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Andrews</td></tr>
-<tr><td>6</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tim Stanton</td></tr>
-<tr><td>8</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Robin Floch</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tommaso Siciliano</td></tr>
-<tr><td>10</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nathan Bright</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Sergio Mateo</td></tr>
-<tr><td>14</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Brossard</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/rs.svg" width="18" alt=""> SRB</td><td>Zoran Mirosavljević</td></tr>
+<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Momir Đurić</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roydean Herrera</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jack Barwick</td></tr>
+<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cédric Castillo</td></tr>
+<tr><td>14</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christopher Campbell</td></tr>
+<tr><td>30</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jake Belcher-Heard</td></tr>
+<tr><td>31</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Carlos Caldwell</td></tr>
 </tbody>
 </table>
 
@@ -63,26 +64,13 @@ The club plays home matches at Stade Beauport in Québec City.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gordan Primorac</td></tr>
-<tr><td>31</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Abdikani Ahmed</td></tr>
-<tr><td>32</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edward Beltman</td></tr>
-<tr><td>33</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thijs Koning</td></tr>
-<tr><td>34</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Derbyshire</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Abdul Haruna</td></tr>
-<tr><td>36</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>César Fuenzalida</td></tr>
-</tbody>
-</table>
-</div>
-
-#### Out on loan
-<div class="squad-grid">
-<table class="squad-table squad-table--bastions-de-quebec">
-<thead>
-<tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th><th>On loan to</th></tr>
-</thead>
-<tbody>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mattia Benedetto</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CS Lanaudière</td></tr>
-<tr><td>-</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Adnan Pintol</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Vancouver FC</td></tr>
+<tr><td>32</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Freimann</td></tr>
+<tr><td>33</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonio Raffaelli</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dorian Giroud</td></tr>
+<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Howarth</td></tr>
+<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gordan Primorac</td></tr>
+<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Victor Trofimov</td></tr>
+<tr><td>39</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Derbyshire</td></tr>
 </tbody>
 </table>
 </div>
@@ -94,7 +82,8 @@ The club plays home matches at Stade Beauport in Québec City.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Paul Andrews</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-</td><td>Piotr Letniowski</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Paul Andrews</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -107,7 +96,8 @@ The club plays home matches at Stade Beauport in Québec City.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Katsuhiko Sasaki</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>40</td><td>16</td><td>13</td><td>11</td><td>40%</td></tr>
+<tr><td>Anthony Andre</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 18, 2024 - Present</td><td>19</td><td>7</td><td>9</td><td>3</td><td>36%</td></tr>
+<tr><td>Katsuhiko Sasaki</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - May 31, 2024</td><td>53</td><td>18</td><td>15</td><td>20</td><td>33%</td></tr>
 </tbody>
 </table>
 </div>
@@ -145,9 +135,19 @@ The club plays home matches at Stade Beauport in Québec City.
 <tbody>
 <tr>
   <td><a href="/clubs/bastions_de_quebec/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>13</td><td>12</td><td>9</td><td>45</td><td>44</td><td>+1</td><td>51</td><td>6th</td><td>QF</td><td>—</td><td>QF</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>13</td><td>12</td><td>9</td><td>45</td><td>44</td><td>+1</td><td>51</td><td>6th</td><td>QF</td><td>—</td><td>QF</td>
   <td>—</td><td>10,978</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Edward Beltman</td><td>15</td>
+</tr>
+<tr>
+  <td><a href="/clubs/bastions_de_quebec/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>9</td><td>11</td><td>14</td><td>28</td><td>44</td><td>-16</td><td>38</td><td>13th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>11,197</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Dorian Giroud</td><td>8</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="bastions-de-quebec" highlight_first="true" >}}
+2023,6
+2024,13
+{{< /club_position_chart >}}

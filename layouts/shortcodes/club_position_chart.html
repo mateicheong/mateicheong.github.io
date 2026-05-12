@@ -1,0 +1,121 @@
+{{/*
+  League position over time. Inner content: one "year,pos" pair per line (comma-separated).
+  Optional: club="…" — same slug as club chips (e.g. petite-bourgogne, kichi-sibi, athletique-de-montreal).
+  Colours are in custom.css under .club-position-chart--* (light + dark where chips differ).
+  Optional: highlight_first="true" — dots where position is 1 use the same gold fill as .final-position--winner ("Won").
+  Optional: title="...", caption="..." (omit both for no heading/caption; caption only if you pass caption="...").
+  Example:
+  {{< club_position_chart club="petite-bourgogne" >}}
+  2023,2
+  2024,6
+  {{< /club_position_chart >}}
+*/}}
+{{- $raw := .Inner | default "" -}}
+{{- $points := slice -}}
+{{- range split $raw "\n" -}}
+  {{- $line := trim . " \r\t" -}}
+  {{- if $line -}}
+    {{- $parts := split $line "," -}}
+    {{- if ge (len $parts) 2 -}}
+      {{- $y := int (trim (index $parts 0) " ") -}}
+      {{- $p := int (trim (index $parts 1) " ") -}}
+      {{- $points = $points | append (dict "year" $y "pos" $p) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if lt (len $points) 1 -}}
+  <!-- club_position_chart: add at least one year,pos line -->
+{{- else -}}
+{{- $points = sort $points "year" "asc" -}}
+{{- $minY := index $points 0 "year" -}}
+{{- $maxY := index $points (sub (len $points) 1) "year" -}}
+{{- $cap := .Get "caption" | default "" -}}
+{{- /* Slug: coerce with print (typed params break replace/replaceRE); sanitize without stripping hyphens in "rouyn-noranda" */ -}}
+{{- $clubRaw := print (.Get "club") -}}
+{{- $clubSlug := replace (trim $clubRaw " \t\n\r") "_" "-" -}}
+{{- $clubSlug = replaceRE `[^a-z0-9\-]+` "" $clubSlug -}}
+{{- $highlightFirst := eq (print (.Get "highlight_first")) "true" -}}
+{{- $aria := "League position by season. Y-axis: position 1 (best) to 18 (worst); X-axis: season year." -}}
+{{- with .Get "title" -}}{{- $aria = printf "%s. %s" . $aria -}}{{- end -}}
+{{- $clipId := printf "club-pos-chart-plot-%d" .Ordinal -}}
+{{- $chartClass := "club-position-chart" -}}
+{{- if $clubSlug -}}{{- $chartClass = printf "%s club-position-chart--%s" $chartClass $clubSlug -}}{{- end -}}
+{{/* Wide viewBox: at full column width scale stays ~1:1 (640-wide was magnified when stretched). */}}
+{{- $W := 1100.0 -}}
+{{- $H := 300.0 -}}
+{{- $ml := 48.0 -}}
+{{- $mr := 24.0 -}}
+{{- $mt := 24.0 -}}
+{{- $mb := 44.0 -}}
+{{- $plotW := sub $W (add $ml $mr) -}}
+{{- $plotH := sub $H (add $mt $mb) -}}
+{{- $posMin := 1 -}}
+{{- $posMax := 18 -}}
+<figure class="{{ $chartClass }}" role="img" aria-label="{{ $aria }}">
+  {{- with .Get "title" -}}
+  <figcaption class="club-position-chart__title">{{ . }}</figcaption>
+  {{- end -}}
+  <div class="club-position-chart__svg-wrap" style="aspect-ratio: {{ int $W }} / {{ int $H }}">
+    <svg class="club-position-chart__svg" viewBox="0 0 {{ int $W }} {{ int $H }}" width="100%" height="100%" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <clipPath id="{{ $clipId }}"><rect x="{{ $ml }}" y="{{ $mt }}" width="{{ $plotW }}" height="{{ $plotH }}" /></clipPath>
+      </defs>
+      <!-- Plot frame -->
+      <rect class="club-position-chart__frame" x="{{ $ml }}" y="{{ $mt }}" width="{{ $plotW }}" height="{{ $plotH }}" fill="none" />
+      <!-- Horizontal grid (positions 1 top … 18 bottom) -->
+      {{- range seq $posMin $posMax -}}
+        {{- $pos := . -}}
+        {{- $yy := add $mt (mul (sub $pos $posMin) (div $plotH (sub $posMax $posMin))) -}}
+        <line class="club-position-chart__grid-h" x1="{{ $ml }}" y1="{{ $yy }}" x2="{{ add $ml $plotW }}" y2="{{ $yy }}" />
+      {{- end -}}
+      <!-- Y-axis labels (sampled) -->
+      {{- range slice 1 6 12 18 -}}
+        {{- $pos := . -}}
+        {{- $yy := add $mt (mul (sub $pos $posMin) (div $plotH (sub $posMax $posMin))) -}}
+        <text class="club-position-chart__axis-y" x="{{ sub $ml 8 }}" y="{{ add $yy 4 }}" text-anchor="end">{{ $pos }}</text>
+      {{- end -}}
+      <!-- Y-axis title -->
+      <text class="club-position-chart__axis-ylabel" transform="rotate(-90 {{ sub $ml 28 }} {{ add $mt (div $plotH 2.0) }})" x="{{ sub $ml 28 }}" y="{{ add $mt (div $plotH 2.0) }}" text-anchor="middle">Position</text>
+      <!-- Line + points -->
+      {{- $pathD := "" -}}
+      {{- $first := true -}}
+      {{- range $points -}}
+        {{- $year := .year -}}
+        {{- $pos := .pos -}}
+        {{- $x := 0.0 -}}
+        {{- if eq $minY $maxY -}}
+          {{- $x = add $ml (div $plotW 2.0) -}}
+        {{- else -}}
+          {{- $x = add $ml (mul (div (sub (float $year) (float $minY)) (sub (float $maxY) (float $minY))) $plotW) -}}
+        {{- end -}}
+        {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
+        {{- if $first -}}
+          {{- $pathD = printf "M %.2f %.2f" $x $yy -}}
+          {{- $first = false -}}
+        {{- else -}}
+          {{- $pathD = printf "%s L %.2f %.2f" $pathD $x $yy -}}
+        {{- end -}}
+      {{- end -}}
+      <path class="club-position-chart__line" d="{{ $pathD }}" fill="none" clip-path="url(#{{ $clipId }})" />
+      {{- range $points -}}
+        {{- $year := .year -}}
+        {{- $pos := .pos -}}
+        {{- $x := 0.0 -}}
+        {{- if eq $minY $maxY -}}
+          {{- $x = add $ml (div $plotW 2.0) -}}
+        {{- else -}}
+          {{- $x = add $ml (mul (div (sub (float $year) (float $minY)) (sub (float $maxY) (float $minY))) $plotW) -}}
+        {{- end -}}
+        {{- $yy := add $mt (mul (sub (float $pos) (float $posMin)) (div $plotH (sub (float $posMax) (float $posMin)))) -}}
+        {{- $dotClass := "club-position-chart__dot" -}}
+        {{- if and $highlightFirst (eq (int $pos) 1) -}}{{- $dotClass = "club-position-chart__dot club-position-chart__dot--first-place" -}}{{- end -}}
+        <circle class="{{ $dotClass }}" cx="{{ $x }}" cy="{{ $yy }}" r="5" />
+        <text class="club-position-chart__xlabel" x="{{ $x }}" y="{{ sub $H 12 }}" text-anchor="middle">{{ $year }}</text>
+      {{- end -}}
+    </svg>
+  </div>
+  {{- if $cap -}}
+  <p class="club-position-chart__caption">{{ $cap }}</p>
+  {{- end -}}
+</figure>
+{{- end -}}

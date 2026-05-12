@@ -26,7 +26,7 @@ url: /clubs/locomotive/
 {{< club_kit "locomotive_away.png" "Locomotive away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/locomotive/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/locomotive/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -47,15 +47,16 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gennaro D'Amicis</td></tr>
-<tr><td>3</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mathys Chambon</td></tr>
-<tr><td>4</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nemanja Hristić</td></tr>
-<tr><td>5</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vítor Ramos</td></tr>
-<tr><td>7</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jonathan Poulain</td></tr>
-<tr><td>9</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>John Quinn</td></tr>
-<tr><td>10</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Connor Burke</td></tr>
-<tr><td>11</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bradley Wright</td></tr>
-<tr><td>12</td><td>FW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joseph Giddings</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Petros Magakis</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nemanja Hristić</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rui Santos</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Connor Burke</td></tr>
+<tr><td>11</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bradley Wright</td></tr>
+<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joseph Giddings</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gennaro D'Amicis</td></tr>
+<tr><td>31</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Vallée</td></tr>
+<tr><td>32</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bruno Almeida</td></tr>
+<tr><td>33</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Danilo Morales</td></tr>
 </tbody>
 </table>
 
@@ -64,13 +65,15 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrés Aldao</td></tr>
-<tr><td>32</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christophe Clain</td></tr>
-<tr><td>33</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Danilo Morales</td></tr>
-<tr><td>34</td><td>MF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Bruno Almeida</td></tr>
-<tr><td>35</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tomislav Musulin</td></tr>
-<tr><td>37</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florian Poulain</td></tr>
-<tr><td>38</td><td>DF</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marc Lefevre</td></tr>
+<tr><td>34</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christophe Clain</td></tr>
+<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marc Lefevre</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florian Poulain</td></tr>
+<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tomislav Musulin</td></tr>
+<tr><td>38</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Clement Rodrigues</td></tr>
+<tr><td>40</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jean Pierre</td></tr>
+<tr><td>41</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jason Torres</td></tr>
+<tr><td>42</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Renaud</td></tr>
+<tr><td>44</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jan van Beek</td></tr>
 </tbody>
 </table>
 </div>
@@ -82,7 +85,8 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023</td><td>Jonathan Poulain</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-</td><td>Nemanja Hristić</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Jonathan Poulain</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -95,7 +99,7 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Ilan Mercier</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>39</td><td>21</td><td>11</td><td>7</td><td>53%</td></tr>
+<tr><td>Ilan Mercier</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>79</td><td>48</td><td>21</td><td>10</td><td>60%</td></tr>
 </tbody>
 </table>
 </div>
@@ -133,9 +137,19 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 <tbody>
 <tr>
   <td><a href="/clubs/locomotive/2023/">2023</a></td>
-  <td><a href="/competitions/la-ligue/">LLQ</a></td><td>34</td><td>17</td><td>11</td><td>6</td><td>51</td><td>31</td><td>+20</td><td>62</td><td>4th</td><td>R-U</td><td>—</td><td>—</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>17</td><td>11</td><td>6</td><td>51</td><td>31</td><td>+20</td><td>62</td><td>4th</td><td>R-U</td><td>—</td><td>—</td>
   <td>—</td><td>7,307</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Poulin</td><td>13</td>
+</tr>
+<tr>
+  <td><a href="/clubs/locomotive/2024/">2024</a></td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>22</td><td>10</td><td>2</td><td>53</td><td>23</td><td>+30</td><td>76</td><td class="final-position--winner">1st</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
+  <td>—</td><td>7,313</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Joseph Giddings</td><td>24</td>
 </tr>
 </tbody>
 </table>
 </div>
+
+{{< club_position_chart club="locomotive" highlight_first="true" >}}
+2023,4
+2024,1
+{{< /club_position_chart >}}
