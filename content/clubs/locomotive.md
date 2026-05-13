@@ -104,6 +104,26 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme.
 </table>
 </div>
 
+## Honours
+<div class="squad-grid">
+<table class="squad-table squad-table--locomotive">
+<thead>
+<tr><th>Type</th><th>Competition</th><th>Titles</th><th>Seasons</th></tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" class="season-league-table__qual-block">Domestic</td>
+  <td><a href="/competitions/la-ligue/">La Ligue</a></td>
+  <td>1</td>
+  <td><a href="/seasons/2024/">2024</a></td>
+</tr>
+  <td><a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td>
+  <td>1</td>
+  <td><a href="/competitions/coupe_du_québec/2024/">2024</a></td>
+</tbody>
+</table>
+</div>
+
 ## Team statistics and records
 #### Year-by-year
 <div class="squad-grid year-by-year-table">

@@ -110,6 +110,24 @@ In their first professional season, Petite-Bourgogne won the 2023 edition of the
 </table>
 </div>
 
+## Honours
+<div class="squad-grid">
+<table class="squad-table squad-table--petite-bourgogne">
+<thead>
+<tr><th>Type</th><th>Competition</th><th>Titles</th><th>Seasons</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td>Domestic</td>
+  <td><a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td>
+  <td>1</td>
+  <td><a href="/competitions/coupe_du_québec/2023/">2023</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+
+
 ## Team statistics and records
 #### Year-by-year
 <div class="squad-grid year-by-year-table">

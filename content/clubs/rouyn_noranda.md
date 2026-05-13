@@ -101,6 +101,26 @@ The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium bo
 </table>
 </div>
 
+## Honours
+<div class="squad-grid">
+<table class="squad-table squad-table--rouyn-noranda">
+<thead>
+<tr><th>Type</th><th>Competition</th><th>Titles</th><th>Seasons</th></tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" class="season-league-table__qual-block">Domestic</td>
+  <td><a href="/competitions/la-ligue/">La Ligue</a></td>
+  <td>1</td>
+  <td><a href="/seasons/2023/">2023</a></td>
+</tr>
+  <td>Supercoupe du Québec</td>
+  <td>1</td>
+  <td>2024</td>
+</tbody>
+</table>
+</div>
+
 ## Team statistics and records
 #### Year-by-year
 <div class="squad-grid year-by-year-table">
