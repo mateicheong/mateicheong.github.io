@@ -114,7 +114,7 @@ The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium bo
   <td>1</td>
   <td><a href="/seasons/2023/">2023</a></td>
 </tr>
-  <td>Supercoupe du Québec</td>
+  <td><a href="/competitions/la-supercoupe/">La Supercoupe</a></td>
   <td>1</td>
   <td>2024</td>
 </tbody>

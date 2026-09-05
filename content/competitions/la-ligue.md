@@ -22,7 +22,7 @@ aliases:
 <tr><th>Confederation</th><td>CONCACAF</td></tr>
 <tr><th>Number of clubs</th><td>18</td></tr>
 <tr><th>Domestic cup</th><td>Canadian Championship</td></tr>
-<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a></td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
 <tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> & <a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/seasons/2024/">2024 La Ligue</a></td></tr>
 </table>

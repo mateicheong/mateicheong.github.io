@@ -20,9 +20,9 @@ aliases:
 <tr><th>Region</th><td>Québec</td></tr>
 <tr><th>Teams</th><td>30</td></tr>
 <tr><th>Qualifier for</th><td>CONCACAF Champions Cup</td></tr>
-<tr><th>Current champions</th><td><a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> (1)</td></tr>
-<tr><th>Most championships</th><td><a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> (1)</td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/competitions/coupe_du_québec/2023/">2023 Coupe du Québec</a></td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> & <a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/competitions/coupe_du_québec/2024/">2024 Coupe du Québec</a></td></tr>
 </table>
 </div>
 
@@ -95,6 +95,11 @@ The two finalists from the previous edition automatically qualify to the Second 
     <tr>
       <td><a href="/competitions/coupe_du_québec/2023/">2023</a></td>
       <td><a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>
+  </a></td>
+    </tr>
+        <tr>
+      <td><a href="/competitions/coupe_du_québec/2024/">2024</a></td>
+      <td><a href="/clubs/locomotive/">Locomotive</a>
   </a></td>
     </tr>
   </tbody>
