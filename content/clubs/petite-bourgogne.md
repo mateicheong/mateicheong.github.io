@@ -16,7 +16,7 @@ aliases:
 <img src="/images/clubs/petite_bourgogne.png" width="180" alt="Petite-Bourgogne">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2021</td></tr>
+<tr><th>Founded</th><td>2018</td></tr>
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>Mateus Chont</td></tr>
@@ -37,9 +37,11 @@ aliases:
 
 
 ## History
-Established before the creation of La Ligue, Petite-Bourgogne started as a community football project among residents of the surrounding neighbourhoods of the Sud-Ouest. Early funding was secured through founding memberships. Anyone could buy shares in the club. This model, unusual for a sports organization in the province, attracted media attention and gave the club its notoriety as a genuinely community-owned club around the football community.
+Established before the creation of <a href="/competitions/la-ligue/">La Ligue</a>, Petite-Bourgogne started as a community football project among residents of the surrounding neighbourhoods of the Sud-Ouest. Early funding was secured through founding memberships. Anyone could buy shares in the club. This model, unusual for a sports organization in the province, attracted media attention and gave the club its notoriety as a community-owned club around the Montréal football community.
 
-In their first professional season, Petite-Bourgogne won the 2023 edition of the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>, earning a spot in the 2024 CONCACAF Champions Cup.
+Petite-Bourgogne was announced as one of the first 5 clubs of La Ligue during the league's official reveal on September 15, 2021. The club was the only club among the others with an already established brand and foundation. Following the announcement, the club sought financial backing to establish itself as a professional club. The main goal for the backing being construction of a new stadium. Funding was reached after only one month, with interest in the league going above expectations.
+
+In their first professional season in 2023, Petite-Bourgogne won the 2023 edition of the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>, earning a spot in the 2024 CONCACAF Champions Cup. Their performance in <a href="/competitions/la-ligue/">La Ligue</a> saw them come up 2nd, ultimately losing the first place on goal difference after tied on 69 points with champions <a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a>.
 
 ## Players & Staff
 #### First team squad

@@ -260,6 +260,10 @@ html[data-theme="dark"] .infobox--coupe-du-quebec {
     border-color: #1865FF;
 }
 
+.infobox--la-supercoupe {
+    border-color: #CBA052;
+}
+
 html[data-theme="dark"] .infobox {
     box-shadow: 0 0px 0px rgba(0,0,0,0.6);
 }
@@ -613,6 +617,11 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
 
 .squad-table--metaberoutin th {
     background-color: #FC722A;
+    color: #FFFFFF;
+}
+
+.squad-table--la-supercoupe th {
+    background-color: #CBA052;
     color: #FFFFFF;
 }
 
@@ -1370,7 +1379,6 @@ html[data-theme="dark"] .squad-table--cs-chateauguay th {
     }
 }
 
-/* Homepage: season CTA under Latest (border matches header: 1px var(--color-border)) */
 .home-season-card {
     display: flex;
     align-items: center;
@@ -1428,13 +1436,20 @@ html[data-theme="dark"] .home-season-card__title {
     color: #5eb0e8;
 }
 
-/* Coupe du Québec CTA: same border as La Ligue card; title uses cup accent colours */
 .home-season-card--coupe-du-quebec .home-season-card__title {
     color: #09255c;
 }
 
 html[data-theme="dark"] .home-season-card--coupe-du-quebec .home-season-card__title {
     color: #1865FF;
+}
+
+.home-season-card--la-supercoupe .home-season-card__title {
+    color: #CBA052;
+}
+
+html[data-theme="dark"] .home-season-card--la-supercoupe .home-season-card__title {
+    color: #CBA052;
 }
 
 .home-season-card + .home-season-card {

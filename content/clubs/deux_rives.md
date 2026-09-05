@@ -30,7 +30,7 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
+Deux-Rives was officially unveiled on May 10, 2022. 
 
 ## Stadium
 The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.

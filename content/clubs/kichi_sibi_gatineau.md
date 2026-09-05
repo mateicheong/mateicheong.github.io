@@ -36,10 +36,14 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
+In May 2022, the club held its official launch event where it announced its name and branding. The club took inspiration from the Algonquin name for the Ottawa River. The river holds deep historical and cultural significance to the area and the Algonquin Nation.
+
+On April 7, 2023, Jake Dunn was announced as the club's first Head Coach.
+
+Kichi Sibi's inaugural season saw Head Coach Jake Dunn lead the club to a third place finish in <a href="/competitions/la-ligue/">La Ligue</a>. Being selected to participate in the expanded Canadian Championship, the club blew expectations by beating FC Laval and <a href="/clubs/athlétique_de_montréal/">Athlétique de Montréal</a> to reach the Semi-finals and lose against established Major League Soccer club CF Montréal in an aggregate score of 3-2.
 
 ## Stadium
-The club plays home matches at Stade de la Cité in Gatineau.
+The club plays home matches at Stade de la Cité in Gatineau. Situated in the sector of Hull in Gatineau, the stadium is at the crossroads between the Ottawa River and the Gatineau River, only a few minutes away from the border with Ontario and downtown Ottawa.
 
 ## Players & Staff
 #### First team squad

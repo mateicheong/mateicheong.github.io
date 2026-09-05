@@ -28,10 +28,14 @@ url: /clubs/rouyn_noranda/
 </div>
 
 ## History
-On their first season as a team, and as the first ever La Ligue season, the club took home the first title on goal difference from <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> who also finished the season with 69 points.
+In September 2022, as a late addition to <a href="/competitions/la-ligue/">La Ligue</a>, Rouyn-Noranda were officially announced as a founding member.
+
+On their first season as a team, and in the first ever La Ligue season, the club took home their first ever trophy home. The title was decided on goal difference, being tied on points with <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>.
+
+In April 2024, following their league win, the Rouyn-Noranda won the first <a href="/competitions/la-supercoupe/">La Supercoupe</a>, a trophy contested against last season's <a href="/competitions/coupe_du_québec/">Coupe du Québec</a> winners <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>.
 
 ## Stadium
-The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium boasts a dome that covers the field to accomodate year round use. Setting up these fields required a tremendous amount of effort and extensive discussions with the provincial government to secure funding. It was a vital necessity into bringing a team in the Abitibi-Témiscamingue region in Québec. 
+The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium boasts a dome that covers the field to accomodate year round use. Setting up these facilities required a tremendous amount of effort and extensive discussions with the provincial government to secure funding. It was a necessity into bringing a team in the Abitibi-Témiscamingue region in Québec. 
 
 ## Players & Staff
 #### First team squad

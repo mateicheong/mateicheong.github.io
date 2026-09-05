@@ -19,7 +19,8 @@ aliases:
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade de l'Université Sherbrooke</td></tr>
 <tr><th>Capacity</th><td>12,500</td></tr>
-<tr><th>Owner</th><td>Olivier Loiselle</td></tr>
+<tr><th>Owner</th><td>Université Sherbrooke</td></tr>
+<tr><th>Chairman</th><td>Olivier Loiselle</td></tr>
 <tr><th>Head Coach</th><td>Raphaël Roy</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
@@ -36,7 +37,16 @@ aliases:
 </div>
 
 ## History
-In partnership with the Université de Sherbrooke, the club trains and plays on their multisport field.
+In partnership with the Université de Sherbrooke, the club was accepted as a founding member of <a href="/competitions/la-ligue/">La Ligue</a> in April of 2022. This was accomplished with the support of the dean, and Olivier Loiselle was appointed as chairman of the club.
+
+Separating itself from the university's Vert & Or athletic teams, the Draveurs were announced as a team separate from the regional membership association for Canadian universities. As a result, the branding did not feature the traditional green and gold colours. The name Draveurs takes inspiration from the historical log driving that existed in the region.
+
+In September 2022, tryouts were held to draft the team for the inaugural season. Much of the founding squad was formed with alumni from the Sherbrooke Vert et Or soccer team.
+
+In their inaugural season of 2023, the club's early performance saw Head Coach Chris Robers get sacked after 2 wins in the club's first 11 games. For the second half of the season, the club's form turned around, landing them the 7th position at the end of the season.
+
+## Stadium
+The club trains and plays on the university's multisport field. Following the creation of the club, the stadium was expanded from a capacity of 3359 to 12,500. The field has natural grass.
 
 ## Players & Staff
 #### First team squad

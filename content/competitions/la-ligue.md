@@ -17,7 +17,7 @@ aliases:
 <img src="/images/competitions/la_ligue.png" width="180" alt="La Ligue">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>September 15, 2022</td></tr>
+<tr><th>Founded</th><td>September 15, 2021</td></tr>
 <tr><th>First Season</th><td><a href="/seasons/2023/">2023</a></td></tr>
 <tr><th>Confederation</th><td>CONCACAF</td></tr>
 <tr><th>Number of clubs</th><td>18</td></tr>
@@ -35,7 +35,9 @@ aliases:
 ## History
 Québec's football structure remained fragmented before the implementation of La Ligue. Many of the competitions were organized primarily through university competitions, municipal leagues, and the semi-professional Ligue1 Québec. The absence of a fully professional tier in the province made the objective of climbing the ranks for many young athletes unclear. Many would funnel into those semi-professional clubs, or the still-growing Canadian Premier League. Alongside everything, Canada's co-hosting for the 2026 FIFA World Cup created pressure for the government to invest in building a top-flight league in the province. The talent was there; the players just needed a place to grow.
 
-La Ligue was unanimously approved and sanctioned on September 15, 2021, by the Canadian Soccer Association, making it the first fully professional football competition in Québec's history. Only a small number of clubs were already existing as semi-professional or even amateur clubs. The majority of teams were created following the announcement of the league. Eighteen were officially admitted, with the criteria for admittance being location, financial structure, stadium plans, and a demonstration of community ties. Football Québec prioritized geographic distribution across the province, ensuring the league represented not only the bigger cities but also the more remote regions. One exception to all the Québec clubs was Hawkesbury United, based in Hawkesbury, Ontario, on the grounds of the town's historical, cultural, and economic ties to the Outaouais region. Furthermore, a minimum stadium capacity of 2,500 seats was required, a threshold set low enough to allow smaller communities like Mégantic to participate without requiring new construction.
+La Ligue was presented in September 2021, along with the early introduction of 5 teams: <a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a> in Montréal, and locations in Laval, Québec City, Trois-Rivières, and Sherbrooke. Making it the first fully professional football competition in Québec's history.
+
+Eighteen teams were officially admitted to the league, with the criteria for admittance being location, financial structure, stadium plans, and a demonstration of community ties. Football Québec prioritized geographic distribution across the province, ensuring the league represented not only the bigger cities but also the more remote regions. One exception to all the Québec clubs was Hawkesbury United, based in Hawkesbury Ontario, on the grounds of the town's historical, cultural, and economic ties to the Outaouais region. Furthermore, a minimum stadium capacity of 2,500 seats was required, a threshold set low enough to allow smaller communities like Mégantic to participate without requiring new construction.
 
 ## Competition format
 There are 18 clubs in La Ligue. During the course of a season each club plays the other twice, once at their home stadium and once at that of their opponents, for 34 games. Seasons usually start on the third weekend of April and end on the third weekend of October. Teams receive three points for a win and one for a draw. Teams are ranked by total points, then goals scored, then games won, then matches between teams. As of today, the league does not feature promotion or relegation. The objective is to introduce it further on as more teams could potentially compete in the soccer pyramid in Québec.

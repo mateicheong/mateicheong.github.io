@@ -38,7 +38,13 @@ aliases:
 </div>
 
 ## History
-Athlétique de Montréal was founded by businessman Vincente Piacente. As a statement move for their application as one of the founding clubs of La Ligue, Piacente made a deal with the government of Québec to purchase the Olympic Stadium and accelerate the needed renovations and expansions. The stadium would then become the home base for the club, boasting a capacity of 72,000, the highest in the country.
+Athlétique de Montréal was founded by businessman Vincente Piacente. As a statement move for their application as one of the founding clubs of <a href="/competitions/la-ligue/">La Ligue</a>, Piacente made a deal with the government of Québec to purchase the Olympic Stadium to accelerate the needed renovations and expansions. The stadium then became the home base for the club, boasting a capacity of 72,000, the highest in Canada.
+
+Athlétique de Montréal was officially unveiled on June 22nd 2022. The club revealed its crest, colours and branding. Inspired by clubs Juventus FC and Notts County, the black and white stripes as well as the secondary colour of pink were adopted. Piacente presented to the media that "A club with real classiness was needed in the city".  
+
+In October 2022, Athlétique de Montréal announced that Pierre-Alexandre Segura would serve as the club's first head coach. Expectations before the start of the inaugural La Ligue season were high for Athlétique. The club had invested significant sums of money on player and staff wages, as well as advertisement to compete for attention in the busy Montréal market. The spending was poorly seen by the sport's supporters around the province, with backlash on social media requesting the league to intervene with stricter financial rules to promote equal competition.
+
+On May 27, 2023, after a hugely disappointing start, Segura was sacked following a record of 3-3-8. A 14th place finish at the end of the season affirmed that high spending wasn't necessarily going to be a strategy to perform in the newly formed league.
 
 ## Players & Staff
 #### First team squad

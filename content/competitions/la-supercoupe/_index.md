@@ -20,8 +20,7 @@ url: "/competitions/la-supercoupe/"
 <tr><th>Teams</th><td>2</td></tr>
 <tr><th>Related competitions</th><td><a href="/competitions/la-ligue/">La Ligue</a> & <a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td></tr>
 <tr><th>Current champions</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
-<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/competitions/la-supercoupe/2024/">2024 La Supercoupe</a></td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
 </table>
 </div>
 
@@ -30,9 +29,17 @@ url: "/competitions/la-supercoupe/"
 
 
 ## History
-The Supercoupe is contested at the beginning of the season. Plans are that games are played internationally to attract interest to the league and talent in Québec.  
+La Supercoupe is contested at the beginning of the season. In the future, Soccer Québec's plans are that games will be played internationally to attract new fans to the league and interest to the talent in Québec.
 
-## Matches
+The first edition of the competition was won by <a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> in 2024.
+
+## Trophy
+The Supercoupe trophy is formed of four fleur de lis pointing each cardinal point to create a tall silver column. Mirroring the competition's logo, a gold star is visible under the trophy in the middle, visible only when the trophy is held overhead.
+
+## Format
+The competition is determined by the winner of the previous La Ligue season and Coupe du Québec. If a team wins both La Ligue and the Coupe du Québec, the runners-up from La Ligue will be the opposition. If the scores are level after 90 minutes, the teams play a penalty shootout.
+
+## Results
 <div class="la-ligue-clubs-table-scroll coupe-champions-scroll" role="region" aria-label="Coupe du Québec champions">
 <table class="squad-table squad-table--la-supercoupe">
   <thead>

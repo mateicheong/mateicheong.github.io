@@ -36,7 +36,9 @@ aliases:
 </div>
 
 ## History
-The club is associated with the junior ice hockey team Rimouski Océanic. 
+In early 2022, discussions between the leadership of the Rimouski Océanic, the junior ice hockey team in Rimouski, and the board of La Ligue were ongoing into securing a founding club in the city. It was later announced in May 2022 that the club would play at the Stade Ernest-Lepage situated right next to the hockey coliseum. The team's branding was revealed later in June 2022 with much of the name and the logo relating to the Oceanic's theme.
+
+During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Mace midway through the season due to below expectation results. Marcel Villaume was then appointed for the second half of the season where they compiled a dismal 1-4-10 record, placing them second to last in the final standings.
 
 ## Players & Staff
 #### First team squad

@@ -104,7 +104,7 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
  
 </div>
 
-## Latest
+## Competitions
 
 <a href="/seasons/2024/" class="home-season-card">
 <img src="/images/competitions/la_ligue.png" width="52" height="52" alt="La Ligue" class="home-season-card__logo">
@@ -120,6 +120,14 @@ This website acts as a wiki for <a href="/competitions/la-ligue/">La Ligue</a>, 
 <span class="home-season-card__text">
 <span class="home-season-card__title">Coupe du Québec</span>
 <span class="home-season-card__sub">2024 edition</span>
+</span>
+<img src="/images/icons/arrow-right.svg" alt="" class="home-season-card__arrow" width="18" height="18" decoding="async" aria-hidden="true">
+</a>
+
+<a href="/competitions/la-supercoupe/" class="home-season-card home-season-card--la-supercoupe">
+<img src="/images/competitions/la_supercoupe.png" width="52" height="52" alt="Coupe du Québec" class="home-season-card__logo">
+<span class="home-season-card__text">
+<span class="home-season-card__title">La Supercoupe</span>
 </span>
 <img src="/images/icons/arrow-right.svg" alt="" class="home-season-card__arrow" width="18" height="18" decoding="async" aria-hidden="true">
 </a>
