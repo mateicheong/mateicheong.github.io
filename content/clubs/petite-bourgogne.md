@@ -19,7 +19,8 @@ aliases:
 <tr><th>Founded</th><td>2018</td></tr>
 <tr><th>Stadium</th><td>Stade Oscar Peterson</td></tr>
 <tr><th>Capacity</th><td>11,340</td></tr>
-<tr><th>Owner</th><td>Mateus Chont</td></tr>
+<tr><th>Owner</th><td>Fan owned</td></tr>
+<tr><th>Chairman</th><td>Mateus Chont</td></tr>
 <tr><th>Head Coach</th><td>Jérémy Deschamps</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
@@ -32,12 +33,12 @@ aliases:
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Petite-Bourgogne</strong> is a professional football club based in Montréal, Québec.</p>
+<p class="club-lead-intro"><strong>Petite-Bourgogne</strong> is a professional football club based in Montréal, Québec. Founded in 2018, they began playing in <a href="/competitions/la-ligue/">La Ligue</a> in 2023.</p> 
 </div>
 
 
 ## History
-Established before the creation of <a href="/competitions/la-ligue/">La Ligue</a>, Petite-Bourgogne started as a community football project among residents of the surrounding neighbourhoods of the Sud-Ouest. Early funding was secured through founding memberships. Anyone could buy shares in the club. This model, unusual for a sports organization in the province, attracted media attention and gave the club its notoriety as a community-owned club around the Montréal football community.
+Established before the creation of La Ligue, Petite-Bourgogne started as a community football project among residents of the surrounding neighbourhoods of the Sud-Ouest. Early funding was secured through founding memberships. Anyone could buy shares in the club. This model, unusual for a sports organization in the province, attracted media attention and gave the club its notoriety as a community-owned club around the Montréal football community.
 
 Petite-Bourgogne was announced as one of the first 5 clubs of La Ligue during the league's official reveal on September 15, 2021. The club was the only club among the others with an already established brand and foundation. Following the announcement, the club sought financial backing to establish itself as a professional club. The main goal for the backing being construction of a new stadium. Funding was reached after only one month, with interest in the league going above expectations.
 

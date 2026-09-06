@@ -34,7 +34,7 @@ url: /clubs/cf_saint_jean/
 </div>
 
 ## History
-Club history paragraph.
+On April 14, 2023, Zhang Ya became the first scorer in La Ligue history and in a competitive game for the club against the <a href="/clubs/draveurs_sherbrooke/">Draveurs</a> in Sherbrooke.
 
 ## Stadium
 The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.

@@ -26,14 +26,18 @@ aliases:
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Zénith</strong> is a professional football club based in Mégantic, Québec.</p>
+<p class="club-lead-intro"><strong>Zénith</strong> is a professional football club based in Lac-Mégantic, Québec.</p>
 </div>
 
 ## History
-Club history paragraph.
+Zénith was officially announced as a club joining La Ligue on May 27, 2022 to much surprise. With a population of around 6,000 and the smallest planned stadium in the league, the city fell well below the thresholds that had guided club selection elsewhere. The region's spokepersons proposed concrete plans to host a team. They believed that giving a smaller city like Lac-Mégantic could bring growth to the region, as well as giving a local rivalry to Sherbrooke's <a href="/clubs/draveurs_sherbrooke/">Draveurs</a>, and agreed construction on a stadium that fit the league's rules.
+
+The club's crest represents a bright star in the night sky, a cultural distinctiveness that Mégantic has as the site of North America's first International Dark Sky Reserve.
+
+Zénith finished 12th in their inaugural season.
 
 ## Stadium
-The club plays home matches at Stade Fernand-Grenier in Mégantic.
+The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a capacity of 2,940, the club boasted a 99.76% attendance record in their first season and sold out all home games during the 2024 season.
 
 ## Players & Staff
 #### First team squad

@@ -16,13 +16,13 @@ aliases:
 <img src="/images/clubs/metaberoutin.png" width="180" alt="Métabéroutin">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2022</td></tr>
+<tr><th>Founded</th><td>2021</td></tr>
 <tr><th>Stadium</th><td>Stade Martin-Bergeron</td></tr>
 <tr><th>Capacity</th><td>8,960</td></tr>
 <tr><th>Owner</th><td>Alexis Vial</td></tr>
 <tr><th>Head Coach</th><td>Eric Guillot</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/metaberoutin/2023/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/metaberoutin/2024/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -30,7 +30,9 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
+In September 2021, Trois-Rivières was announced as one of the cities wwith a club participating in <a href="/competitions/la-ligue/">La Ligue</a>. The original colours were announced as green, orange, gold and beige. On March 1, 2022, the club unveiled their brand, presenting different colours than the ones initially revealed as the green and gold were removed for a orange, blue, and beige combination. The name Métabéroutin comes from the name given to the Saint-Maurice river by the Algonquin that means "discharge of the wind".
+
+Métabéroutin ended their first season in 13th and lost to Ligue1 Québec side CS Saint-Laurent in the first round of the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>. On October 30, head coach Tony Dixon was relieved of his duties, the club communicating they were looking for a more entertaining playing style.
 
 ## Stadium
 The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.

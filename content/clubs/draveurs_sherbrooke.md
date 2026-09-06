@@ -16,7 +16,7 @@ aliases:
 <img src="/images/clubs/draveurs.png" width="180" alt="Draveurs de Sherbrooke">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2022</td></tr>
+<tr><th>Founded</th><td>2021</td></tr>
 <tr><th>Stadium</th><td>Stade de l'Université Sherbrooke</td></tr>
 <tr><th>Capacity</th><td>12,500</td></tr>
 <tr><th>Owner</th><td>Université Sherbrooke</td></tr>
@@ -37,7 +37,7 @@ aliases:
 </div>
 
 ## History
-In partnership with the Université de Sherbrooke, the club was accepted as a founding member of <a href="/competitions/la-ligue/">La Ligue</a> in April of 2022. This was accomplished with the support of the dean, and Olivier Loiselle was appointed as chairman of the club.
+In partnership with the Université de Sherbrooke, the club was announced as a founding member of <a href="/competitions/la-ligue/">La Ligue</a> in September of 2021.
 
 Separating itself from the university's Vert & Or athletic teams, the Draveurs were announced as a team separate from the regional membership association for Canadian universities. As a result, the branding did not feature the traditional green and gold colours. The name Draveurs takes inspiration from the historical log driving that existed in the region.
 

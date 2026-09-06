@@ -34,10 +34,15 @@ url: /clubs/laval_nord/
 </div>
 
 ## History
-Club history paragraph.
+In September 2021, Laval Nord was announced as an addition to <a href="/competitions/la-ligue/">La Ligue</a> with four other locations. As part of the league announcement, the team's colours were revealed to be mint and graphite. On February 15, 2022, Laval released their inaugural kits, which feature Ukrainian flags and a crest depicting a smiling figure with a crown.
+
+During Laval Nord's inaugural season, the club was awarded a spot in the Canadian Championship where they reached the Quarter-finals. In La Ligue, the club finished 15th, sacking head coach Cédric Heitz halfway through the season.
+
+## Club culture
+The club's identity is inspired by Ukraine. Serbyn, the owner, has aimed to develop local talent as well as give the path to Ukrainian youngsters looking to develop in North America. Starting in 2025, Laval Nord partnered with Ukrainian club FC Karpaty Lviv.
 
 ## Stadium
-The club plays home matches at Parc Cartier in Laval.
+Laval Nord plays home matches at Parc Cartier in Laval.
 
 ## Players & Staff
 #### First team squad

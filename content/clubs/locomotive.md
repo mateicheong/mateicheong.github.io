@@ -30,14 +30,21 @@ url: /clubs/locomotive/
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>Locomotive</strong> is a professional football club based in Saint-Jérôme, Québec.</p>
+<p class="club-lead-intro"><strong>Locomotive</strong>, nicknamed Loco, is a professional football club based in Saint-Jérôme, Québec.</p>
 </div>
 
 ## History
-Club history paragraph.
+On July 7, 2022, Locomotive unveiled their identity. Inspired by the Parc Linéaire Le P'tit Train du Nord, a trail that originally was a railway line during the majority of the 90s that runs between Saint-Jérôme and Mont-Laurier. Locomotive's colours are red and black. 
+
+On April 6, 2023, Ilan Mercier was announced as Loco's first Head coach.
+
+During their inaugural season, Locomotive ended 4th in <a href="/competitions/la-ligue/">La Ligue</a> and were runner-up in the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>. 
+
+In January 2024, the $450K transfer of midfielder Jonathan Poulin to FC Metz in France broke the La Ligue record for the most expensive sale ever made. In February, Locomotive sold Mathys Chambon to Turkish club Galatasaray for $195K, setting the second highest sale.
+Following eleven games unbeaten in La Ligue, Locomotive won the double with their first league title and the Coupe du Québec trophy during their 2024 campaign, losing only three times across the three competitions they participated in.
 
 ## Stadium
-The club plays home matches at Stade Desjardins in Saint-Jérôme.
+The club plays home matches at Stade Desjardins in Saint-Jérôme, a stadium with a capacity of 7,340.
 
 ## Players & Staff
 #### First team squad

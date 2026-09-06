@@ -14,7 +14,7 @@ url: /clubs/bastions_de_quebec/
 <img src="/images/clubs/bastions.png" width="180" alt="Bastions de Québec">
 
 <table class="infobox-rows">
-<tr><th>Founded</th><td>2022</td></tr>
+<tr><th>Founded</th><td>2021</td></tr>
 <tr><th>Stadium</th><td>Stade Beauport</td></tr>
 <tr><th>Capacity</th><td>17,620</td></tr>
 <tr><th>Owner</th><td>Stéphane Lachevre</td></tr>
@@ -34,10 +34,12 @@ url: /clubs/bastions_de_quebec/
 </div>
 
 ## History
-Club history paragraph.
+In September 2021, Bastions was announced as an addition to La Ligue with four other locations. As part of the league announcement, the team’s colours were revealed to be walnut and sand. Later on February 19, 2022, the Bastions revealed their branding. Inspired by the city's heritage, the badge features walls and a simplified illustration of the Citadelle of Quebec.
+
+The Bastions were awarded a spot in the Canadian Championship for their inaugural season, reaching the Quarter-finals and losing to Toronto FC 4-2 in aggregate. While finishing 6th in the domestic league, the club enjoyed success in their first season defeating local rivals <a href="/clubs/lévis/">Lévis</a> twice.
 
 ## Stadium
-The club plays home matches at Stade Beauport in Québec City.
+The club plays home matches at Stade Beauport in Québec City. The original indoor complex was renovated before the start of Bastions' season, turning the previously indoor only stadium into a stadium boasting a retractable roof and a grass surface with a capacity of 17,620. They share their stadium with Ligue1 Québec club Royal-Sélect de Beauport.
 
 ## Players & Staff
 #### First team squad
