@@ -84,7 +84,7 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023-</td><td>Mohammad Rustom</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-</td><td>Mohammad Rustom</td><td><img src="/images/flags/lb.svg" width="18" alt=""> Lebanon</td></tr>
 </tbody>
 </table>
 </div>
@@ -97,7 +97,7 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Martin Hughes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>73</td><td>25</td><td>27</td><td>21</td><td>34%</td></tr>
+<tr><td>Martin Hughes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>109</td><td>41</td><td>34</td><td>34</td><td>37%</td></tr>
 </tbody>
 </table>
 </div>
@@ -143,6 +143,11 @@ The club plays home matches at Stade Marchand in Drummondville.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>10</td><td>15</td><td>9</td><td>47</td><td>47</td><td>0</td><td>45</td><td>8th</td><td>SF</td><td>—</td><td>—</td>
   <td>—</td><td>6,960</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Lucas Ozimec</td><td>10</td>
 </tr>
+<tr>
+  <td><a href="/clubs/as_drummond/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>15</td><td>7</td><td>12</td><td>42</td><td>36</td><td>+6</td><td>52</td><td>8th</td><td>R2</td><td>—</td><td>—</td>
+  <td>—</td><td>6,960</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Lewis Baldwin<br><img src="/images/flags/ca.svg" width="18" alt=""> Gianmarco Franceschini<br><img src="/images/flags/ca.svg" width="18" alt=""> Mario Picariello</td></td><td>5</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -150,4 +155,5 @@ The club plays home matches at Stade Marchand in Drummondville.
 {{< club_position_chart club="as-drummond" highlight_first="true" >}}
 2023,9
 2024,8
+2025,8
 {{< /club_position_chart >}}

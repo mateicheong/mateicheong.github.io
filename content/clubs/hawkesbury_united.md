@@ -18,7 +18,7 @@ url: /clubs/hawkesbury_united/
 <tr><th>Stadium</th><td>Robert Harley Stadium</td></tr>
 <tr><th>Capacity</th><td>3,380</td></tr>
 <tr><th>Owner</th><td>Cole Pugh</td></tr>
-<tr><th>Head Coach</th><td>Hugo Peron</td></tr>
+<tr><th>Head Coach</th><td>Luke Jones</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -34,10 +34,12 @@ url: /clubs/hawkesbury_united/
 </div>
 
 ## History
-Club history paragraph.
+Halfway between Gatineau and Montréal, Hawkesbury United is the only team in <a href="/competitions/la-ligue/">La Ligue</a> located in Ontario. It is also the only club in the league with an english word in its name, with United being the way to represent both French and English speaking communities that live in the area. The crest features an "H" for the name of the city and as a nod to the Long-Sault Bridge that connects Hawkesbury to Grenville, Québec.
+
+In their inaugural season, Hawkesbury finished last in the domestic league while going through two head coaches, Schweitzer and Thompson. During the following 2024 season, the club achieved twice the amount of wins, going from four to eight, and ended up in 16th position. With interest very high, Hawkesbury United achieved sell-out crowds in their second season.
 
 ## Stadium
-The club plays home matches at Robert Harley Stadium in Hawkesbury.
+The club plays home matches at Robert Harley Stadium in Hawkesbury. Robert Harley Stadium has one grand stand on the east side and 800 seats combined on the north and south ends. The west side sits on a hill, where spectators can freely sit where they choose.
 
 ## Players & Staff
 #### First team squad
@@ -98,7 +100,8 @@ The club plays home matches at Robert Harley Stadium in Hawkesbury.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Hugo Peron</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>November 7, 2023 - Present</td><td>35</td><td>8</td><td>10</td><td>17</td><td>22%</td></tr>
+<tr><td>Luke Jones</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>January 16, 2025 - Present</td><td>36</td><td>10</td><td>8</td><td>18</td><td>27%</td></tr>
+<tr><td>Hugo Peron</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>November 7, 2023 - December 31, 2024</td><td>35</td><td>8</td><td>10</td><td>17</td><td>22%</td></tr>
 <tr><td>Daniel Thompson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 12, 2023 - October 7, 2023</td><td>18</td><td>3</td><td>5</td><td>10</td><td>16%</td></tr>
 <tr><td>Henri Schweitzer</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 5, 2023 - May 24, 2023</td><td>11</td><td>1</td><td>5</td><td>5</td><td>9%</td></tr>
 </tbody>
@@ -146,6 +149,11 @@ The club plays home matches at Robert Harley Stadium in Hawkesbury.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>8</td><td>10</td><td>16</td><td>40</td><td>50</td><td>-10</td><td>34</td><td>16th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>3,380</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Andy Stevenson</td><td>11</td>
 </tr>
+<tr>
+  <td><a href="/clubs/hawkesbury_united/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>9</td><td>8</td><td>17</td><td>35</td><td>52</td><td>-17</td><td>35</td><td>16th</td><td>R2</td><td>—</td><td>—</td>
+  <td>—</td><td>3,380</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Andy Stevenson</td><td>13</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -153,4 +161,5 @@ The club plays home matches at Robert Harley Stadium in Hawkesbury.
 {{< club_position_chart club="hawkesbury-united" highlight_first="true" >}}
 2023,18
 2024,16
+2025,16
 {{< /club_position_chart >}}

@@ -20,7 +20,7 @@ aliases:
 <tr><th>Stadium</th><td>Stade Fernand-Grenier</td></tr>
 <tr><th>Capacity</th><td>2,940</td></tr>
 <tr><th>Owner</th><td>Volodymyr Tremblay</td></tr>
-<tr><th>Head Coach</th><td>Evan Acker</td></tr>
+<tr><th>Head Coach</th><td>Andy Cook</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/zénith/2024/">Current Season</a></td></tr>
 </table>
@@ -88,7 +88,8 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023-</td><td>Martin Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Satoshi Omori</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2024</td><td>Martin Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
 </div>
@@ -101,7 +102,8 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Evan Acker</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>70</td><td>23</td><td>22</td><td>25</td><td>32%</td></tr>
+<tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>January 17, 2025 - Present</td><td>35</td><td>11</td><td>6</td><td>18</td><td>31%</td></tr>
+<tr><td>Evan Acker</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - December 31, 2024</td><td>70</td><td>23</td><td>22</td><td>25</td><td>32%</td></tr>
 </tbody>
 </table>
 </div>
@@ -147,6 +149,11 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>13</td><td>10</td><td>11</td><td>42</td><td>38</td><td>+4</td><td>49</td><td>7th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>2,940</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Martin Marković</td><td>9</td>
 </tr>
+<tr>
+  <td><a href="/clubs/zénith/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>11</td><td>6</td><td>17</td><td>35</td><td>50</td><td>-15</td><td>39</td><td>15th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>2,940</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Marco Petrosino</td><td>10</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -154,4 +161,5 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 {{< club_position_chart club="zenith" highlight_first="true" >}}
 2023,12
 2024,7
+2025,15
 {{< /club_position_chart >}}

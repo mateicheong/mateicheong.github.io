@@ -21,7 +21,7 @@ aliases:
 <tr><th>Capacity</th><td>11,340</td></tr>
 <tr><th>Owner</th><td>Fan owned</td></tr>
 <tr><th>Chairman</th><td>Mateus Chont</td></tr>
-<tr><th>Head Coach</th><td>Jérémy Deschamps</td></tr>
+<tr><th>Head Coach</th><td>Jamie Hodge</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -107,7 +107,8 @@ In their first professional season in 2023, Petite-Bourgogne won the 2023 editio
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Jérémy Deschamps</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>June 8, 2024 - Present</td><td>25</td><td>13</td><td>8</td><td>4</td><td>52%</td></tr>
+<tr><td>Jamie Hodge</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>June 7, 2025 - Present</td><td>22</td><td>8</td><td>3</td><td>11</td><td>36%</td></tr>
+<tr><td>Jérémy Deschamps</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>June 8, 2024 - May 21, 2025</td><td>36</td><td>15</td><td>9</td><td>12</td><td>42%</td></tr>
 <tr><td>Andy Cook</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>April 5, 2023 - May 22, 2024</td><td>54</td><td>25</td><td>13</td><td>16</td><td>46%</td></tr>
 </tbody>
 </table>
@@ -164,13 +165,15 @@ In their first professional season in 2023, Petite-Bourgogne won the 2023 editio
 <tbody>
 <tr>
   <td><a href="/clubs/petite-bourgogne/2023/">2023</a></td>
-  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
-  <td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Hogg</td><td>15</td>
+  <td><a href="/seasons/2023/">LLQ</a></td><td>34</td><td>20</td><td>9</td><td>5</td><td>46</td><td>24</td><td>+22</td><td>69</td><td>2nd</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td><td>—</td><td>11,118</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jonathan Hogg</td><td>15</td>
 </tr>
 <tr>
   <td><a href="/clubs/petite-bourgogne/2024/">2024</a></td>
-  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>12</td><td>13</td><td>9</td><td>42</td><td>34</td><td>+8</td><td>49</td><td>6th</td><td class="final-position--">R-U</td><td>R-U</td><td>R1</td>
-  <td>R1</td><td>11,081</td><td><img src="/images/flags/ht.svg" width="18" alt=""> Aubelin Joseph</td><td>9</td>
+  <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>12</td><td>13</td><td>9</td><td>42</td><td>34</td><td>+8</td><td>49</td><td>6th</td><td class="final-position--">R-U</td><td>R-U</td><td>R1</td><td>R1</td><td>11,081</td><td><img src="/images/flags/ht.svg" width="18" alt=""> Aubelin Joseph</td><td>9</td>
+</tr>
+<tr>
+  <td><a href="/clubs/petite-bourgogne/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>12</td><td>4</td><td>18</td><td>41</td><td>54</td><td>-13</td><td>40</td><td>14th</td><td class="final-position--">R2</td><td>—</td><td>—</td><td>—</td><td>11,108</td><td><img src="/images/flags/ht.svg" width="18" alt=""> Aubelin Joseph<br><img src="/images/flags/ca.svg" width="18" alt=""> Mark Perez</td><td>8</td>
 </tr>
 </tbody>
 </table>
@@ -179,4 +182,5 @@ In their first professional season in 2023, Petite-Bourgogne won the 2023 editio
 {{< club_position_chart club="petite-bourgogne" highlight_first="true" >}}
 2023,2
 2024,6
+2025,14
 {{< /club_position_chart >}}

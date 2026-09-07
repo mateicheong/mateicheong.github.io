@@ -98,7 +98,7 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Eric Guillot</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>December 2, 2023 - Present</td><td>37</td><td>21</td><td>6</td><td>10</td><td>56%</td></tr>
+<tr><td>Eric Guillot</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>December 2, 2023 - Present</td><td>74</td><td>38</td><td>17</td><td>19</td><td>51%</td></tr>
 <tr><td>Tony Dixon</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - October 30, 2023</td><td>35</td><td>10</td><td>10</td><td>15</td><td>28%</td></tr>
 </tbody>
 </table>
@@ -145,6 +145,11 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>19</td><td>6</td><td>9</td><td>51</td><td>35</td><td>+16</td><td>63</td><td>2nd</td><td>QF</td><td>—</td><td>—</td>
   <td>—</td><td>8,954</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Edgar Huerta</td><td>11</td>
 </tr>
+<tr>
+  <td><a href="/clubs/metaberoutin/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>17</td><td>11</td><td>6</td><td>51</td><td>25</td><td>+26</td><td>62</td><td>3rd</td><td>R1</td><td>R-U</td><td>R1</td>
+  <td>—</td><td>8,960</td><td><img src="/images/flags/mx.svg" width="18" alt=""> Yostin Valadéz</td><td>18</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -152,4 +157,5 @@ The club plays home matches at Stade Martin-Bergeron in Trois-Rivières.
 {{< club_position_chart club="metaberoutin" highlight_first="true" >}}
 2023,13
 2024,2
+2025,3
 {{< /club_position_chart >}}

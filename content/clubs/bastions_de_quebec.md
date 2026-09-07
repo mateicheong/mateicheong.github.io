@@ -84,7 +84,8 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2024-</td><td>Piotr Letniowski</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Zoran Mirosavljević</td><td><img src="/images/flags/rs.svg" width="18" alt=""> Serbia</td></tr>
+<tr><td>2024</td><td>Piotr Letniowski</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023-2024</td><td>Paul Andrews</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
@@ -98,7 +99,7 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Anthony Andre</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 18, 2024 - Present</td><td>19</td><td>7</td><td>9</td><td>3</td><td>36%</td></tr>
+<tr><td>Anthony Andre</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 18, 2024 - Present</td><td>55</td><td>12</td><td>16</td><td>27</td><td>21%</td></tr>
 <tr><td>Katsuhiko Sasaki</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - May 31, 2024</td><td>53</td><td>18</td><td>15</td><td>20</td><td>33%</td></tr>
 </tbody>
 </table>
@@ -145,6 +146,11 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>9</td><td>11</td><td>14</td><td>28</td><td>44</td><td>-16</td><td>38</td><td>13th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>11,197</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Dorian Giroud</td><td>8</td>
 </tr>
+<tr>
+  <td><a href="/clubs/bastions_de_quebec/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>4</td><td>7</td><td>23</td><td>21</td><td>54</td><td>-33</td><td>19</td><td>18th</td><td>R2</td><td>—</td><td>—</td>
+  <td>—</td><td>11,180</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jamie Coates</td><td>6</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -152,4 +158,5 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
 {{< club_position_chart club="bastions-de-quebec" highlight_first="true" >}}
 2023,6
 2024,13
+2025,18
 {{< /club_position_chart >}}

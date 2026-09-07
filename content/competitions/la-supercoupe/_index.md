@@ -19,8 +19,8 @@ url: "/competitions/la-supercoupe/"
 <tr><th>Region</th><td>Québec</td></tr>
 <tr><th>Teams</th><td>2</td></tr>
 <tr><th>Related competitions</th><td><a href="/competitions/la-ligue/">La Ligue</a> & <a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td></tr>
-<tr><th>Current champions</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
-<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> (1)</td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> & <a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
 </table>
 </div>
 
@@ -60,6 +60,14 @@ The competition is determined by the winner of the previous La Ligue season and 
       <td><a href="/clubs/petite-bourgogne/">Petite-Bourgogne</a>
       <td><img src="/images/flags/ca.svg" width="18" alt=""> Stade Oscar Peterson </td>
       <td>11,340</td>
+    </tr>
+    <tr>
+      <td>2025</td>
+      <td><a href="/clubs/locomotive/">Locomotive</a>
+      <td>2-0</td>
+      <td><a href="/clubs/metaberoutin/">Métabéroutin</a>
+      <td><img src="/images/flags/ca.svg" width="18" alt=""> Stade Desjardins </td>
+      <td>7,340</td>
     </tr>
   </tbody>
 </table>

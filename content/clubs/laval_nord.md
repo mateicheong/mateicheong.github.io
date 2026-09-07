@@ -96,7 +96,8 @@ Laval Nord plays home matches at Parc Cartier in Laval.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2024-</td><td>Nikola Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Josh Morrison</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-2025</td><td>Nikola Marković</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2024</td><td>Dorian Giroud</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023-2024</td><td>Mark Williams</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
@@ -111,7 +112,7 @@ Laval Nord plays home matches at Parc Cartier in Laval.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Henri Schweitzer</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 25, 2023 - Present</td><td>59</td><td>18</td><td>10</td><td>31</td><td>30%</td></tr>
+<tr><td>Henri Schweitzer</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 25, 2023 - Present</td><td>98</td><td>33</td><td>18</td><td>47</td><td>33%</td></tr>
 <tr><td>Cédric Heitz</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 9, 2023 - June 3, 2023</td><td>14</td><td>2</td><td>6</td><td>6</td><td>14%</td></tr>
 </tbody>
 </table>
@@ -158,6 +159,11 @@ Laval Nord plays home matches at Parc Cartier in Laval.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>9</td><td>8</td><td>17</td><td>34</td><td>42</td><td>-8</td><td>35</td><td>15th</td><td>SF</td><td>—</td><td>—</td>
   <td>—</td><td>10,189</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Gilbert Bootsma<br><img src="/images/flags/ca.svg" width="18" alt=""> Fred Mukiele</td><td>6</td>
 </tr>
+<tr>
+  <td><a href="/clubs/laval_nord/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>11</td><td>8</td><td>15</td><td>40</td><td>49</td><td>-9</td><td>41</td><td>12th</td><td>R-U</td><td>—</td><td>—</td>
+  <td>—</td><td>10,195</td><td><img src="/images/flags/ua.svg" width="18" alt=""> Oleh Sydorenko<td>12</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -165,4 +171,5 @@ Laval Nord plays home matches at Parc Cartier in Laval.
 {{< club_position_chart club="laval-nord" highlight_first="true" >}}
 2023,15
 2024,15
+2025,12
 {{< /club_position_chart >}}

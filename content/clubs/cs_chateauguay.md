@@ -97,7 +97,7 @@ The club plays home matches at Stade du Lac Saint-Louis in Châteauguay.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Fares Poulin</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 5, 2023 - Present</td><td>71</td><td>23</td><td>15</td><td>33</td><td>32%</td></tr>
+<tr><td>Fares Poulin</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 5, 2023 - Present</td><td>108</td><td>30</td><td>28</td><td>50</td><td>27%</td></tr>
 </tbody>
 </table>
 </div>
@@ -143,6 +143,11 @@ The club plays home matches at Stade du Lac Saint-Louis in Châteauguay.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>10</td><td>7</td><td>17</td><td>34</td><td>45</td><td>-11</td><td>37</td><td>14th</td><td>R2</td><td>—</td><td>—</td>
   <td>—</td><td>5,898</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Dustin Stearns</td><td>8</td>
 </tr>
+<tr>
+  <td><a href="/clubs/cs_chateauguay/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>5</td><td>13</td><td>16</td><td>32</td><td>55</td><td>-23</td><td>28</td><td>17th</td><td>QF</td><td>—</td><td>—</td>
+  <td>—</td><td>5,916</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Dustin Stearns</td><td>9</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -150,4 +155,5 @@ The club plays home matches at Stade du Lac Saint-Louis in Châteauguay.
 {{< club_position_chart club="cs-chateauguay" highlight_first="true" >}}
 2023,10
 2024,14
+2025,17
 {{< /club_position_chart >}}

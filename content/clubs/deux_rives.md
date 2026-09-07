@@ -82,7 +82,8 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2024-</td><td>Slobodan Veselinović</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Adam Bond</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2024-2025</td><td>Slobodan Veselinović</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2024</td><td>Eliott Duhau</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023-2024</td><td>Stuart Reilly</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023</td><td>Matteo Denti</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
@@ -98,7 +99,7 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Chris Wilson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 8, 2023 - Present</td><td>76</td><td>27</td><td>17</td><td>32</td><td>35%</td></tr>
+<tr><td>Chris Wilson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 8, 2023 - Present</td><td>111</td><td>38</td><td>24</td><td>49</td><td>34%</td></tr>
 </tbody>
 </table>
 </div>
@@ -144,6 +145,11 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>9</td><td>7</td><td>18</td><td>39</td><td>50</td><td>-11</td><td>34</td><td>17th</td><td>QF</td><td>—</td><td>QF</td>
   <td>—</td><td>5,454</td><td><img src="/images/flags/bb.svg" width="18" alt=""> Teriq Williams</td><td>14</td>
 </tr>
+<tr>
+  <td><a href="/clubs/deux-rives/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>11</td><td>7</td><td>16</td><td>38</td><td>46</td><td>-8</td><td>40</td><td>13th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>5,459</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Tommaso Siciliano</td><td>9</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -151,4 +157,5 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
 {{< club_position_chart club="deux-rives" highlight_first="true" >}}
 2023,5
 2024,17
+2025,13
 {{< /club_position_chart >}}

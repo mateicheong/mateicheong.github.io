@@ -21,7 +21,7 @@ aliases:
 <tr><th>Capacity</th><td>12,500</td></tr>
 <tr><th>Owner</th><td>Université Sherbrooke</td></tr>
 <tr><th>Chairman</th><td>Olivier Loiselle</td></tr>
-<tr><th>Head Coach</th><td>Raphaël Roy</td></tr>
+<tr><th>Head Coach</th><td>Vacant</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -105,7 +105,7 @@ The club trains and plays on the university's multisport field. Following the cr
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Raphaël Roy</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 17, 2023 - Present</td><td>55</td><td>23</td><td>18</td><td>14</td><td>41%</td></tr>
+<tr><td>Raphaël Roy</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 17, 2023 - October 11, 2025</td><td>92</td><td>37</td><td>26</td><td>29</td><td>40%</td></tr>
 <tr><td>Chris Robers</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - May 24, 2023</td><td>11</td><td>2</td><td>3</td><td>6</td><td>18%</td></tr>
 </tbody>
 </table>
@@ -152,6 +152,11 @@ The club trains and plays on the university's multisport field. Following the cr
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>13</td><td>13</td><td>8</td><td>40</td><td>33</td><td>+7</td><td>52</td><td>5th</td><td>R2</td><td>—</td><td>—</td>
   <td>—</td><td>10,938</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Miklós Németh</td><td>10</td>
 </tr>
+<tr>
+  <td><a href="/clubs/draveurs_sherbrooke/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>13</td><td>8</td><td>13</td><td>43</td><td>40</td><td>+3</td><td>47</td><td>9th</td><td>QF</td><td>—</td><td>QF</td>
+  <td>—</td><td>10,964</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Miklós Németh</td><td>9</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -159,4 +164,5 @@ The club trains and plays on the university's multisport field. Following the cr
 {{< club_position_chart club="draveurs-sherbrooke" highlight_first="true" >}}
 2023,7
 2024,5
+2025,9
 {{< /club_position_chart >}}

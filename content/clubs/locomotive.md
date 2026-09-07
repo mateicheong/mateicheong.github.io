@@ -18,7 +18,7 @@ url: /clubs/locomotive/
 <tr><th>Stadium</th><td>Stade Desjardins</td></tr>
 <tr><th>Capacity</th><td>7,340</td></tr>
 <tr><th>Owner</th><td>Etienne Galmiche</td></tr>
-<tr><th>Head Coach</th><td>Ilan Mercier</td></tr>
+<tr><th>Head Coach</th><td>Danny Wilson</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">
 <div class="infobox-kits">
@@ -106,7 +106,8 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme, a stadium wit
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Ilan Mercier</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - Present</td><td>79</td><td>48</td><td>21</td><td>10</td><td>60%</td></tr>
+<tr><td>Danny Wilson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>December 30, 2024 - Present</td><td>47</td><td>29</td><td>8</td><td>10</td><td>61%</td></tr>
+<tr><td>Ilan Mercier</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - December 16, 2024</td><td>79</td><td>48</td><td>21</td><td>10</td><td>60%</td></tr>
 </tbody>
 </table>
 </div>
@@ -121,12 +122,16 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme, a stadium wit
 <tr>
 <td rowspan="3" class="season-league-table__qual-block">Domestic</td>
   <td><a href="/competitions/la-ligue/">La Ligue</a></td>
-  <td>1</td>
-  <td><a href="/seasons/2024/">2024</a></td>
+  <td>2</td>
+  <td><a href="/seasons/2024/">2024</a>, <a href="/seasons/2025/">2025</a></td>
 </tr>
   <td><a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td>
   <td>1</td>
   <td><a href="/competitions/coupe_du_québec/2024/">2024</a></td>
+</tr>
+  <td><a href="/competitions/la-supercoupe/">La Supercoupe</a></td>
+  <td>1</td>
+  <td>2025</td>
 </tbody>
 </table>
 </div>
@@ -172,6 +177,10 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme, a stadium wit
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>22</td><td>10</td><td>2</td><td>53</td><td>23</td><td>+30</td><td>76</td><td class="final-position--winner">1st</td><td class="final-position--winner">Won</td><td>—</td><td>R1</td>
   <td>—</td><td>7,313</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Joseph Giddings</td><td>24</td>
 </tr>
+<tr>
+  <td><a href="/clubs/locomotive/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>22</td><td>7</td><td>5</td><td>66</td><td>31</td><td>+35</td><td>73</td><td class="final-position--winner">1st</td><td>SF</td><td class="final-position--winner">Won</td><td>SF</td><td>R2</td><td>7,292</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Joseph Giddings<br><img src="/images/flags/ca.svg" width="18" alt=""> Rui Santos</td><td>14</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -179,4 +188,5 @@ The club plays home matches at Stade Desjardins in Saint-Jérôme, a stadium wit
 {{< club_position_chart club="locomotive" highlight_first="true" >}}
 2023,4
 2024,1
+2025,1
 {{< /club_position_chart >}}

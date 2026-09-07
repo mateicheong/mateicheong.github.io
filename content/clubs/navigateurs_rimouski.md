@@ -36,9 +36,11 @@ aliases:
 </div>
 
 ## History
-In early 2022, discussions between the leadership of the Rimouski Océanic, the junior ice hockey team in Rimouski, and the board of La Ligue were ongoing into securing a founding club in the city. It was later announced in May 2022 that the club would play at the Stade Ernest-Lepage situated right next to the hockey coliseum. The team's branding was revealed later in June 2022 with much of the name and the logo relating to the Oceanic's theme.
+In early 2022, discussions between the leadership of the Rimouski Océanic, the junior ice hockey team in Rimouski, and the board of La Ligue were ongoing into securing a founding club in the city. It was later announced in May 2022 that the club would play at the Stade Ernest-Lepage situated right next to the hockey coliseum. The team's branding was revealed later in June 2022 with much of the name and the logo relating to the Oceanic's brand.
 
 During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Mace midway through the season due to below expectation results. Marcel Villaume was then appointed for the second half of the season where they compiled a dismal 1-4-10 record, placing them second to last in the final standings.
+
+In 2024, the Navigateurs finished midtable at 9th with a goal difference of +1.
 
 ## Players & Staff
 #### First team squad
@@ -87,7 +89,8 @@ During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Ma
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023-</td><td>Fabio Isidor</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Benjamin Kuiper</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2025</td><td>Fabio Isidor</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023</td><td>Dorian Giroud</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
@@ -101,7 +104,7 @@ During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Ma
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Liam Lucas</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 11, 2024 - Present</td><td>21</td><td>9</td><td>5</td><td>7</td><td>42%</td></tr>
+<tr><td>Liam Lucas</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 11, 2024 - Present</td><td>58</td><td>27</td><td>10</td><td>21</td><td>46%</td></tr>
 <tr><td>Marcel Villaume</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>July 17, 2023 - May 18, 2024</td><td>15</td><td>1</td><td>7</td><td>17</td><td>4%</td></tr>
 <tr><td>Antonin Mace</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - June 17, 2023</td><td>16</td><td>3</td><td>7</td><td>6</td><td>18%</td></tr>
 </tbody>
@@ -149,6 +152,11 @@ During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Ma
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>11</td><td>10</td><td>13</td><td>46</td><td>45</td><td>+1</td><td>43</td><td>9th</td><td>R2</td><td>—</td><td>—</td>
   <td>—</td><td>5,824</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Fabio Isidor</td><td>11</td>
 </tr>
+<tr>
+  <td><a href="/clubs/navigateurs_rimouski/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>16</td><td>15</td><td>13</td><td>47</td><td>40</td><td>+7</td><td>53</td><td>6th</td><td>QF</td><td>—</td><td>—</td>
+  <td>—</td><td>5,823</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Mael Andre</td><td>13</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -156,4 +164,5 @@ During their inaugural campaign, Rimouski parted ways with Head Coach Antonin Ma
 {{< club_position_chart club="navigateurs-rimouski" highlight_first="true" >}}
 2023,17
 2024,9
+2025,6
 {{< /club_position_chart >}}

@@ -97,7 +97,8 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
 <tr><th>Period</th><th>Name</th><th>Nation</th></tr>
 </thead>
 <tbody>
-<tr><td>2023-</td><td>Yacine Zouaoui</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2025-</td><td>Damien Chalut Natal</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
+<tr><td>2023-2025</td><td>Yacine Zouaoui</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 <tr><td>2023</td><td>Angelo Catanese</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Canada</td></tr>
 </tbody>
 </table>
@@ -111,7 +112,7 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>John Haddow</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 29, 2023 - Present</td><td>60</td><td>27</td><td>12</td><td>21</td><td>45%</td></tr>
+<tr><td>John Haddow</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 29, 2023 - Present</td><td>96</td><td>42</td><td>20</td><td>34</td><td>43%</td></tr>
 <tr><td>Pierre-Alexandre Segura</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - May 27, 2023</td><td>13</td><td>3</td><td>3</td><td>8</td><td>23%</td></tr>
 </tbody>
 </table>
@@ -158,6 +159,11 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>17</td><td>8</td><td>9</td><td>43</td><td>36</td><td>+7</td><td>59</td><td>3rd</td><td>QF</td><td>—</td><td>—</td>
   <td>—</td><td>13,163</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Roberto Castelnuovo</td><td>12</td>
 </tr>
+<tr>
+  <td><a href="/clubs/athlétique_de_montréal/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>15</td><td>8</td><td>11</td><td>37</td><td>34</td><td>+3</td><td>53</td><td>7th</td><td>R1</td><td>—</td><td>R1</td>
+  <td>—</td><td>12,629</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Roberto Castelnuovo<br><img src="/images/flags/ca.svg" width="18" alt=""> Andrew Mason</td><td>6</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -165,4 +171,5 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
 {{< club_position_chart club="athletique-de-montreal" highlight_first="true" >}}
 2023,14
 2024,3
+2025,7
 {{< /club_position_chart >}}

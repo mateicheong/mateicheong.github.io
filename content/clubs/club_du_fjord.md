@@ -17,8 +17,8 @@ url: /clubs/club_du_fjord/
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Stade Saguenay</td></tr>
 <tr><th>Capacity</th><td>8,810</td></tr>
-<tr><th>Owner</th><td>Alain Robinson</td></tr>
-<tr><th>Head Coach</th><td>Mark Davis</td></tr>
+<tr><th>Owner</th><td>Laetitia Boutin</td></tr>
+<tr><th>Head Coach</th><td>Louis Worthington</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2024/">Current Season</a></td></tr>
 </table>
@@ -91,7 +91,8 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Mark Davis</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 26, 2023 - Present</td><td>56</td><td>17</td><td>21</td><td>18</td><td>30%</td></tr>
+<tr><td>Louis Worthington</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>January 15, 2025 - Present</td><td>37</td><td>20</td><td>10</td><td>7</td><td>54%</td></tr>
+<tr><td>Mark Davis</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 26, 2023 - December 31, 2024</td><td>56</td><td>17</td><td>21</td><td>18</td><td>30%</td></tr>
 <tr><td>Angel Kotar</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - June 3, 2023</td><td>13</td><td>2</td><td>5</td><td>6</td><td>15%</td></tr>
 </tbody>
 </table>
@@ -138,6 +139,11 @@ The club plays home matches at Stade Saguenay in Saguenay.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>14</td><td>11</td><td>9</td><td>43</td><td>38</td><td>+5</td><td>53</td><td>4th</td><td>R2</td><td>—</td><td>—</td>
   <td>—</td><td>8,654</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Jannik Fels</td><td>9</td>
 </tr>
+<tr>
+  <td><a href="/clubs/club_du_fjord/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>19</td><td>10</td><td>5</td><td>62</td><td>30</td><td>+32</td><td>67</td><td>2nd</td><td>R2</td><td>—</td><td>R1</td>
+  <td>—</td><td>8,691</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Slobodan Veselinović</td><td>19</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -145,4 +151,5 @@ The club plays home matches at Stade Saguenay in Saguenay.
 {{< club_position_chart club="club-du-fjord" highlight_first="true" >}}
 2023,16
 2024,4
+2025,2
 {{< /club_position_chart >}}

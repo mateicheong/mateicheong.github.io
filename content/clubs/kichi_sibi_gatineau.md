@@ -108,7 +108,7 @@ The club plays home matches at Stade de la Cité in Gatineau. Situated in the se
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Jake Dunn</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>81</td><td>34</td><td>23</td><td>24</td><td>41%</td></tr>
+<tr><td>Jake Dunn</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 7, 2023 - Present</td><td>116</td><td>48</td><td>36</td><td>32</td><td>41%</td></tr>
 </tbody>
 </table>
 </div>
@@ -154,6 +154,11 @@ The club plays home matches at Stade de la Cité in Gatineau. Situated in the se
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>10</td><td>11</td><td>13</td><td>38</td><td>47</td><td>-9</td><td>41</td><td>12th</td><td>R2</td><td>—</td><td>SF</td>
   <td>—</td><td>10,764</td><td><img src="/images/flags/ca.svg" width="18" alt=""> François Charbonnel</td><td>12</td>
 </tr>
+<tr>
+  <td><a href="/clubs/kichi_sibi_gatineau/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>14</td><td>13</td><td>7</td><td>52</td><td>39</td><td>+13</td><td>55</td><td>4th</td><td>R1</td><td>—</td><td>—</td>
+  <td>—</td><td>10,807</td><td><img src="/images/flags/ca.svg" width="18" alt=""> François Charbonnel</td><td>11</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -161,4 +166,5 @@ The club plays home matches at Stade de la Cité in Gatineau. Situated in the se
 {{< club_position_chart club="kichi-sibi" highlight_first="true" >}}
 2023,3
 2024,12
+2025,4
 {{< /club_position_chart >}}

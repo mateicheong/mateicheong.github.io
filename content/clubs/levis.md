@@ -98,13 +98,30 @@ The club plays home matches at Stade de la Chaudière in Lévis.
 <tr><th>G</th><th>W</th><th>D</th><th>L</th><th class="nowrap">Win %</th></tr>
 </thead>
 <tbody>
-<tr><td>Matthieu Barthes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>August 25, 2024 - Present</td><td>9</td><td>2</td><td>1</td><td>6</td><td>22%</td></tr>
+<tr><td>Matthieu Barthes</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>August 25, 2024 - Present</td><td>48</td><td>19</td><td>9</td><td>20</td><td>39%</td></tr>
 <tr><td>Daniel Thompson</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>January 1, 2024 - July 26, 2024</td><td>22</td><td>6</td><td>5</td><td>11</td><td>27%</td></tr>
 <tr><td>Richard Manning</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>June 21, 2023 - December 31, 2023</td><td>21</td><td>9</td><td>3</td><td>9</td><td>42%</td></tr>
 <tr><td>Ruben Grisoni</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>April 6, 2023 - May 27, 2023</td><td>12</td><td>3</td><td>3</td><td>6</td><td>25%</td></tr>
 </tbody>
 </table>
 </div>
+
+## Honours
+<div class="squad-grid">
+<table class="squad-table squad-table--levis">
+<thead>
+<tr><th>Type</th><th>Competition</th><th>Titles</th><th>Seasons</th></tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" class="season-league-table__qual-block">Domestic</td>
+  <td><a href="/competitions/coupe_du_québec/">Coupe du Québec</a></td>
+  <td>1</td>
+  <td><a href="/competitions/coupe_du_québec/2025/">2025</a></td>
+</tbody>
+</table>
+</div>
+
 
 ## Team statistics and records
 #### Year-by-year
@@ -147,6 +164,11 @@ The club plays home matches at Stade de la Chaudière in Lévis.
   <td><a href="/seasons/2024/">LLQ</a></td><td>34</td><td>8</td><td>10</td><td>16</td><td>41</td><td>53</td><td>-12</td><td>34</td><td>18th</td><td>R1</td><td>—</td><td>—</td>
   <td>—</td><td>8,415</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Tomislav Janković</td><td>8</td>
 </tr>
+<tr>
+  <td><a href="/clubs/lévis/2025/">2025</a></td>
+  <td><a href="/seasons/2025/">LLQ</a></td><td>34</td><td>12</td><td>8</td><td>14</td><td>37</td><td>44</td><td>-7</td><td>44</td><td>10th</td><td class="final-position--winner">Won</td><td>—</td><td>—</td>
+  <td>—</td><td>8,390</td><td><img src="/images/flags/ca.svg" width="18" alt=""> Tomislav Janković<br><img src="/images/flags/ca.svg" width="18" alt=""> Emanuel Alhassan</td></td><td>10</td>
+</tr>
 </tbody>
 </table>
 </div>
@@ -154,4 +176,5 @@ The club plays home matches at Stade de la Chaudière in Lévis.
 {{< club_position_chart club="levis" highlight_first="true" >}}
 2023,11
 2024,18
+2025,10
 {{< /club_position_chart >}}
