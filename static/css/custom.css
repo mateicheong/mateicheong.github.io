@@ -2446,3 +2446,6 @@ html[data-theme="dark"] .club-position-chart--cs-chateauguay .club-position-char
     color: var(--color-text-secondary);
 }
 
+.top-scorers-table .top-scorers-table__club {
+  text-align: center;
+}
