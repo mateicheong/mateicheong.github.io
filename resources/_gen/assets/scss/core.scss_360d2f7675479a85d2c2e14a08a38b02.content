@@ -348,12 +348,12 @@ html[data-theme="dark"] {
   --color-text-disabled: #272725;
   --color-border: #272725;
   --color-border-collapsible-menu: #272725;
-  --color-background: #1C1C1C;
+  --color-background: #131109;
   --color-background-active: #e5e5e5;
   --color-background-hover: #525252;
   --color-background-overlay: #272725;
   --color-background-inline-code: #525252;
-  --color-background-card: #1C1C1C;
+  --color-background-card: #131109;
   --color-background-mark: #ffd70e;
   --color-link: #93c5fd;
   --color-header-menu-item-inactive: #a3a3a3;
@@ -370,7 +370,7 @@ a {
 
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
-  font-family: "Inter", system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji; }
+  font-family: "Satoshi", system-ui, -apple-system, segoe ui, Roboto, Helvetica, Arial, sans-serif, apple color emoji, segoe ui emoji; }
 
 code, kbd, pre {
   font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,liberation mono,courier new,monospace; }
