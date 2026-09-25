@@ -16,24 +16,6 @@ header .brand .brand-logo {
 }
 
 header .brand .brand-logo--dark {
-    display: none;
-}
-
-html[data-theme="light"] header .brand .brand-logo--light,
-html:not([data-theme]) header .brand .brand-logo--light {
-    display: block;
-}
-
-html[data-theme="light"] header .brand .brand-logo--dark,
-html:not([data-theme]) header .brand .brand-logo--dark {
-    display: none;
-}
-
-html[data-theme="dark"] header .brand .brand-logo--light {
-    display: none;
-}
-
-html[data-theme="dark"] header .brand .brand-logo--dark {
     display: block;
 }
 
@@ -66,24 +48,6 @@ header #header_content.extra-wide {
     header #header_content.extra-wide {
         width: 50vw;
     }
-}
-
-/*
- * Theme toggle: faint outline (~25% opacity of --color-text-secondary).
- * Uses explicit rgba (matches theme gray-500 / gray-450) instead of color-mix()
- * for wider browser and minifier compatibility on production builds.
- */
-html[data-theme="light"] #dark_mode_btn.outline-button,
-html[data-theme="light"] #light_mode_btn.outline-button,
-html:not([data-theme]) #dark_mode_btn.outline-button,
-html:not([data-theme]) #light_mode_btn.outline-button {
-    /* Full border + !important so skin/user-agent resets cannot beat this after minify/CDN */
-    border: 1px solid rgba(39, 39, 37, 0.25) !important;
-}
-
-html[data-theme="dark"] #dark_mode_btn.outline-button,
-html[data-theme="dark"] #light_mode_btn.outline-button {
-    border: 1px solid rgba(139, 139, 139, 0.25) !important;
 }
 
 .infobox {

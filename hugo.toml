@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "RSS"]
   DateFormat = "January 2, 2006"
   # Disable click-to-zoom on images (theme Zooming.js)
   enable_zooming_js = false
+  color_scheme = "dark"
 
 
 # Navigation menu

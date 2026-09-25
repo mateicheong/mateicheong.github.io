@@ -1,0 +1,59 @@
+<head>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href='{{ "favicon.ico" | absURL }}' type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+        {{- if eq .Kind "home" -}}
+            {{- print .Site.Title -}}
+        {{- else if eq .Kind "section" -}}
+            {{- print .CurrentSection.Title " - " .Site.Title }}
+        {{- else -}}
+            {{- print .Title " - " .Site.Title -}}
+        {{- end -}}
+    </title>
+
+    {{ with .Description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
+
+    {{ with .Keywords }}
+    <meta name="keywords" content="{{ delimit . "," }}" />
+    {{ end }}
+
+    {{ with (.Store.Get "params").author }}
+    <meta name="author" content="{{ . }}" />
+    {{ end }}
+
+    {{ if (.Store.Get "params").enable_open_graph }}
+        {{ partial "opengraph.html" . }}
+    {{ end }}
+
+    {{ if (.Store.Get "params").enable_twitter_cards }}
+        {{ partial "twitter_cards.html" . }}
+    {{ end }}
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+    {{- partial "resources/css.html" . -}}
+
+    {{ if (.Store.Get "params").ga_code }}
+        {{ partial "google_analytics.html" . }}
+    {{ end }}
+
+    {{/* Dark only: ignore OS preference and any leftover localStorage light value */}}
+    <script>
+        localStorage.theme = 'dark';
+        document.documentElement.setAttribute("data-theme", "dark");
+    </script>
+
+    {{- partial "resources/js.html" . -}}
+
+    {{ if fileExists "/static/user.css" -}}
+        <link rel="stylesheet" href="{{ urls.JoinPath .Site.BaseURL "user.css" }}">
+    {{- end }}
+
+    {{ if templates.Exists "_partials/user_head.html" -}}
+        {{ partial "user_head.html" . }}
+    {{- end }}
+</head>

@@ -4,7 +4,6 @@
             <div class="brand">
                 <div>
                     <a href="{{ .Site.Home.RelPermalink }}" class="brand-link" aria-label="{{ .Site.Title }}">
-                        <img src="/images/competitions/la_ligue_light.png" alt="" class="brand-logo brand-logo--light" width="180" height="40">
                         <img src="/images/competitions/la_ligue_dark.png" alt="" class="brand-logo brand-logo--dark" width="180" height="40">
                     </a>
                 </div>
@@ -54,15 +53,6 @@
                     </ul>
                 </div>
             {{ end }}
-
-            <div id="theme_tool">
-                <button id="dark_mode_btn" class="header-menu-btn outline-button" title='{{ i18n "dark_mode_btn_tooltip" }}' type="button">
-                    {{- partial "svg/feather.html" (dict "name" "moon") -}}
-                </button>
-                <button id="light_mode_btn" class="header-menu-btn outline-button" title='{{ i18n "light_mode_btn_tooltip" }}' type="button">
-                    {{- partial "svg/feather.html" (dict "name" "sun") -}}
-                </button>
-            </div>
 
             {{ if (.Store.Get "params").enable_site_search }}
                 <div id="search_tool">
