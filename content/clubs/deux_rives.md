@@ -22,6 +22,12 @@ aliases:
 <tr><th>Owner</th><td>Antoine Marco</td></tr>
 <tr><th>Head Coach</th><td>Chris Wilson</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "deuxrives_home.png" "Deux-Rives home kit" "Home colours" >}}
+{{< club_kit "deuxrives_away.png" "Deux-Rives away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/deux-rives/2024/">Current Season</a></td></tr>
 </table>
 </div>
