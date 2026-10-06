@@ -20,6 +20,12 @@ url: /clubs/club_du_fjord/
 <tr><th>Owner</th><td>Laetitia Boutin</td></tr>
 <tr><th>Head Coach</th><td>Louis Worthington</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
+<tr><td class="infobox-kits-cell" colspan="2">
+<div class="infobox-kits">
+{{< club_kit "fjord_home.png" "Club du Fjord home kit" "Home colours" >}}
+{{< club_kit "fjord_away.png" "Club du Fjord away kit" "Away colours" >}}
+</div>
+</td></tr>
 <tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2024/">Current Season</a></td></tr>
 </table>
 </div>
