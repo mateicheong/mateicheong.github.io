@@ -52,17 +52,15 @@ In their first professional season in 2023, Petite-Bourgogne won the 2023 editio
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Charlie Leigh</td></tr>
 <tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adnan Hodžić</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexis Teixeira</td></tr>
-<tr><td>6</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan van Duijn</td></tr>
-<tr><td>7</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ewan Chagnaud</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Guillaume Burger</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lee Latham</td></tr>
+<tr><td>6</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sam Reid</td></tr>
+<tr><td>7</td><td>CM</td><td><img src="/images/flags/co.svg" width="18"> COL</td><td>Diego Mejía</td></tr>
 <tr><td>10</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Zlatko Dimitrijević</td></tr>
-<tr><td>12</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Regan Kelly</td></tr>
+<tr><td>12</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>George Miles</td></tr>
 <tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lewis Urquhart</td></tr>
-<tr><td>14</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan Brossard</td></tr>
-<tr><td>15</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>George Miles</td></tr>
-<tr><td>16</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joseph Adams</td></tr>
+<tr><td>14</td><td>CDM</td><td><img src="/images/flags/hk.svg" width="18"> HKG</td><td>Kwok Wing Fai</td></tr>
 <tr><td>18</td><td>ST</td><td><img src="/images/flags/ht.svg" width="18"> HTI</td><td>Aubelin Joseph</td></tr>
 </tbody>
 </table>
@@ -72,16 +70,16 @@ In their first professional season in 2023, Petite-Bourgogne won the 2023 editio
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michel Yavorsky</td></tr>
-<tr><td>31</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nicholas Santos</td></tr>
-<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Bruce Mbanjwa</td></tr>
-<tr><td>33</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sotiris Antonis</td></tr>
-<tr><td>34</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Vincenzo Auletta</td></tr>
-<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Simone Piana</td></tr>
-<tr><td>36</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas O'Regan</td></tr>
+<tr><td>30</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mark Perez</td></tr>
+<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marin Mijatović</td></tr>
+<tr><td>32</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nicholas Santos</td></tr>
+<tr><td>33</td><td>CB</td><td><img src="/images/flags/tt.svg" width="18"> TRI</td><td>Jabari Brown</td></tr>
+<tr><td>34</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Thibault Lefevre</td></tr>
+<tr><td>35</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Vincenzo Auletta</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gianlucca Carannante</td></tr>
 <tr><td>37</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jérémy Horn</td></tr>
-<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gianlucca Carannante</td></tr>
-<tr><td>39</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohammad Chaaban</td></tr>
+<tr><td>38</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohammad Chaaban</td></tr>
+<tr><td>39</td><td>RM</td><td><img src="/images/flags/co.svg" width="18"> COL</td><td>Jhon Orozco</td></tr>
 </tbody>
 </table>
 </div>
