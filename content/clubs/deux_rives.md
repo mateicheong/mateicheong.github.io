@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "deuxrives_away.png" "Deux-Rives away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/deux-rives/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/deux-rives/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,17 +49,16 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yuri Pasquini</td></tr>
-<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Adam Bond</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jamie Gibbs</td></tr>
-<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Niall Ryan</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/bb.svg" width="18" alt=""> BRB</td><td>Teriq Williams</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paulo Patricio</td></tr>
-<tr><td>11</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kong Hao</td></tr>
-<tr><td>12</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cristian Giuliani</td></tr>
-<tr><td>18</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Slobodan Veselinović</td></tr>
-<tr><td>30</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yoann Reyes</td></tr>
-<tr><td>31</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Hart</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Quentin Iribarne</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adam Bond</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/pk.svg" width="18"> PAK</td><td>Zahid Ullah</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jamie Gibbs</td></tr>
+<tr><td>6</td><td>LM</td><td><img src="/images/flags/jp.svg" width="18"> JPN</td><td>Sota Shimmura</td></tr>
+<tr><td>7</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jordan Alvarez</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tommaso Siciliano</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Yuri Pasquini</td></tr>
+<tr><td>14</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan Brossard</td></tr>
+<tr><td>30</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Momir Đurić</td></tr>
 </tbody>
 </table>
 
@@ -68,15 +67,17 @@ The club plays home matches at Jardins Dorion in Vaudreuil-Dorion.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>32</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mathys Hériveau</td></tr>
-<tr><td>33</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Blake Christie</td></tr>
-<tr><td>34</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ben Johnson</td></tr>
-<tr><td>35</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tom Proctor</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrija Đokić</td></tr>
-<tr><td>37</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Martijn Strijbosch-Tukker</td></tr>
-<tr><td>38</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Daniel Calvo</td></tr>
-<tr><td>39</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Martin Vonk</td></tr>
-<tr><td>44</td><td>ST</td><td><img src="/images/flags/jm.svg" width="18" alt=""> JAM</td><td>Andre Neil</td></tr>
+<tr><td>31</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tom Proctor</td></tr>
+<tr><td>32</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mathys Hériveau</td></tr>
+<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan Webb</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jonas König</td></tr>
+<tr><td>35</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Karan Kumar</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Scott Derbyshire</td></tr>
+<tr><td>37</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joy Sameer</td></tr>
+<tr><td>38</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Martin Vonk</td></tr>
+<tr><td>41</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michael Hemmings</td></tr>
+<tr><td>42</td><td>ST</td><td><img src="/images/flags/jm.svg" width="18"> JAM</td><td>Andre Neil</td></tr>
+<tr><td>43</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Blake Christie</td></tr>
 </tbody>
 </table>
 </div>

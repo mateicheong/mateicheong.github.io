@@ -26,7 +26,7 @@ url: /clubs/hawkesbury_united/
 {{< club_kit "hawkesbury_away.png" "Hawkesbury United away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/hawkesbury_united/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/hawkesbury_united/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,15 +49,16 @@ The club plays home matches at Robert Harley Stadium in Hawkesbury. Robert Harle
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Elvis Petrovic</td></tr>
-<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josh Young</td></tr>
-<tr><td>5</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>David Holden</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edward Beltman</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lucas Thalamy</td></tr>
-<tr><td>11</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Malo Huet</td></tr>
-<tr><td>12</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Patrick Blaikner</td></tr>
-<tr><td>13</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andy Stevenson</td></tr>
-<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jonas König</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Elvis Petrovic</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Calum Bennett</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Vladan Kostić</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Killian Thibert</td></tr>
+<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Fernando Simões</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andy Stevenson</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas Thalamy</td></tr>
+<tr><td>11</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Malo Huet</td></tr>
+<tr><td>12</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Patrick Blaikner</td></tr>
+<tr><td>14</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michał Zientarski</td></tr>
 </tbody>
 </table>
 
@@ -66,15 +67,16 @@ The club plays home matches at Robert Harley Stadium in Hawkesbury. Robert Harle
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vladan Kostić</td></tr>
-<tr><td>33</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Evan Gil</td></tr>
-<tr><td>34</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louka Gil</td></tr>
-<tr><td>35</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fernando Simões</td></tr>
-<tr><td>36</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alessandro Bruni</td></tr>
-<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Will Archer</td></tr>
-<tr><td>38</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thibaud Le Douarin</td></tr>
-<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Roger</td></tr>
-<tr><td>40</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Toufik Mercier</td></tr>
+<tr><td>30</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marco Baumann</td></tr>
+<tr><td>31</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paulo Patricio</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andrea Longhi</td></tr>
+<tr><td>33</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alessandro Bruni</td></tr>
+<tr><td>34</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Thibaud Le Douarin</td></tr>
+<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>David Regnier</td></tr>
+<tr><td>36</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>David Christ</td></tr>
+<tr><td>37</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ivan Milikić</td></tr>
+<tr><td>38</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Evan Gil</td></tr>
+<tr><td>39</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Matthew Brown</td></tr>
 </tbody>
 </table>
 </div>
