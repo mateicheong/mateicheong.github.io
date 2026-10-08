@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "navigateurs_away.png" "Navigateurs de Rimouski away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/navigateurs_rimouski/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/navigateurs_rimouski/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -50,15 +50,16 @@ In 2024, the Navigateurs finished midtable at 9th with a goal difference of +1.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ahmed Pelletier</td></tr>
-<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pascal Charron</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ross Wells</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rajee Salmon</td></tr>
-<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Edvin Pepić</td></tr>
-<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lucas Thuillier</td></tr>
-<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Louis-Antoine Sauvage</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabio Isidor</td></tr>
-<tr><td>12</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gabriele Mungo</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ahmed Pelletier</td></tr>
+<tr><td>3</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Eddy Roberton</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ross Wells</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Rajee Salmon</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Edvin Pepić</td></tr>
+<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas Thuillier</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Louis-Antoine Sauvage</td></tr>
+<tr><td>11</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Benjamin Kuiper</td></tr>
+<tr><td>12</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohamad Attye</td></tr>
+<tr><td>13</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gabriele Mungo</td></tr>
 </tbody>
 </table>
 
@@ -67,17 +68,15 @@ In 2024, the Navigateurs finished midtable at 9th with a goal difference of +1.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>13</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohamad Attye</td></tr>
-<tr><td>14</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Burke</td></tr>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josip Perković</td></tr>
-<tr><td>31</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Guy Evans</td></tr>
-<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alan Jackson</td></tr>
-<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Baptiste Berger</td></tr>
-<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mael Andre</td></tr>
-<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Steve McMahon</td></tr>
-<tr><td>36</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mattia Scardina</td></tr>
-<tr><td>37</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacques Gueguen</td></tr>
-<tr><td>38</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thibault Lefevre</td></tr>
+<tr><td>14</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alan Jackson</td></tr>
+<tr><td>22</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andy Burton</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Josip Perković</td></tr>
+<tr><td>31</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Riccardo Lippiello</td></tr>
+<tr><td>32</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mael Andre</td></tr>
+<tr><td>33</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Guy Evans</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mattia Fina</td></tr>
+<tr><td>35</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Steve McMahon</td></tr>
+<tr><td>36</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mattia Scardina</td></tr>
 </tbody>
 </table>
 </div>
