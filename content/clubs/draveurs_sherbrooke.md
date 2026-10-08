@@ -29,7 +29,7 @@ aliases:
 {{< club_kit "draveurs_away.png" "Draveurs de Sherbrooke away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/draveurs_sherbrooke/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/draveurs_sherbrooke/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -56,14 +56,14 @@ The club trains and plays on the university's multisport field. Following the cr
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jonas Janssen</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Armand Salmon</td></tr>
-<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miklós Németh</td></tr>
-<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Darren Freeman</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Diego Comas</td></tr>
-<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tom Poulain</td></tr>
-<tr><td>12</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luigi Morbidoni</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jean-Baptiste Teixeira</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Li Ming</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adam Firth</td></tr>
+<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Corentin Müllender</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Armand Salmon</td></tr>
+<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Miklós Németh</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alfonso Fabbrizzi</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Darwin Aguiar</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Diego Comas</td></tr>
 </tbody>
 </table>
 
@@ -72,15 +72,13 @@ The club trains and plays on the university's multisport field. Following the cr
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>14</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Corentin Müllender</td></tr>
-<tr><td>30</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Strahinja Simeunović</td></tr>
-<tr><td>31</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Darwin Aguiar</td></tr>
-<tr><td>32</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rob White</td></tr>
-<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tyler Harding</td></tr>
-<tr><td>34</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Iván Prieto</td></tr>
-<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrea Aiello</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marco Baumann</td></tr>
-<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brian Anderson</td></tr>
+<tr><td>31</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Rob White</td></tr>
+<tr><td>32</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Iván Prieto</td></tr>
+<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Brian Anderson</td></tr>
+<tr><td>35</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Brima Kargbo</td></tr>
+<tr><td>36</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andrea Aiello</td></tr>
+<tr><td>38</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Žarko Stojić</td></tr>
+<tr><td>41</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jeff López</td></tr>
 </tbody>
 </table>
 </div>
