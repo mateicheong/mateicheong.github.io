@@ -26,7 +26,7 @@ url: /clubs/club_du_fjord/
 {{< club_kit "fjord_away.png" "Club du Fjord away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/club_du_fjord/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -47,15 +47,16 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Samuel Zanon</td></tr>
-<tr><td>5</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alessandro Ghisolfi</td></tr>
-<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lenny Smith</td></tr>
-<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kevin Hartman</td></tr>
-<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>David Rowley</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Fels</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matthew Croston-Mitchell</td></tr>
-<tr><td>11</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jussi Helin</td></tr>
-<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roy Pusic</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Samuel Zanon</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nicolas Dubuc</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jon Lacey</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lenny Smith</td></tr>
+<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Fraser McArthur</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Teddy Imbert</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Matthew Croston-Mitchell</td></tr>
+<tr><td>11</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jussi Helin</td></tr>
+<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Umberto Di Vincenzo</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Bruno Parente</td></tr>
 </tbody>
 </table>
 
@@ -64,15 +65,16 @@ The club plays home matches at Stade Saguenay in Saguenay.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Francesco Cardini</td></tr>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Anthony Knight</td></tr>
-<tr><td>31</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pablo Lucchini</td></tr>
-<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Lacey</td></tr>
-<tr><td>33</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eliott Duhau</td></tr>
-<tr><td>35</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Matić</td></tr>
-<tr><td>37</td><td>RB</td><td><img src="/images/flags/tt.svg" width="18" alt=""> TTO</td><td>Keston Campbell</td></tr>
-<tr><td>38</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dejan Dmitrović</td></tr>
-<tr><td>39</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Philippe Geneste</td></tr>
+<tr><td>18</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Slobodan Veselinović</td></tr>
+<tr><td>30</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alessandro Bosch</td></tr>
+<tr><td>31</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Pablo Lucchini</td></tr>
+<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexis Teixeira</td></tr>
+<tr><td>33</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Geoffrey Daguerre</td></tr>
+<tr><td>34</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Kevin Hartman</td></tr>
+<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ali Bonnefoy</td></tr>
+<tr><td>36</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tyler Harding</td></tr>
+<tr><td>38</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Anthony Knight</td></tr>
+<tr><td>39</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hugo Aubert</td></tr>
 </tbody>
 </table>
 </div>
