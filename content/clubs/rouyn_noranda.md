@@ -45,15 +45,15 @@ The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium bo
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nicolas Dubuc</td></tr>
-<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Adis Ivanović</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Neil Park</td></tr>
-<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Les Thomas</td></tr>
-<tr><td>8</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Juan David Carabalí</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jonathan Hogg</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Umberto Di Vincenzo</td></tr>
-<tr><td>12</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Zhang Ya</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Frantz Ambroise</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas Narciso</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hugo Silva</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ryan van Duijn</td></tr>
+<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Les Thomas</td></tr>
+<tr><td>8</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Juan David Carabalí</td></tr>
+<tr><td>9</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Johan Arnaud</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Connor Burke</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jonathan Hogg</td></tr>
+<tr><td>12</td><td>RM</td><td><img src="/images/flags/cn.svg" width="18"> CHN</td><td>Zhang Ya</td></tr>
 </tbody>
 </table>
 
@@ -62,16 +62,14 @@ The club plays at Place Osisko in Rouyn-Noranda (capacity 5,340). The stadium bo
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Johan Arnaud</td></tr>
-<tr><td>31</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Laurent Carre</td></tr>
-<tr><td>31</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Léo Lamy</td></tr>
-<tr><td>33</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alessandro Bosch</td></tr>
-<tr><td>34</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Felipe Ybom</td></tr>
-<tr><td>35</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roger Neal</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brian Rowland</td></tr>
-<tr><td>37</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Blagojce Stankovski</td></tr>
-<tr><td>38</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matteo Mosciatti</td></tr>
-<tr><td>50</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mark Warren</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Olivier Dos Santos</td></tr>
+<tr><td>15</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Adis Ivanović</td></tr>
+<tr><td>30</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Branko Stamenković</td></tr>
+<tr><td>31</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mark Warren</td></tr>
+<tr><td>32</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Felipe Ybom</td></tr>
+<tr><td>33</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jordan Miller</td></tr>
+<tr><td>35</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Matteo Mosciatti</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Brian Rowland</td></tr>
 </tbody>
 </table>
 </div>
