@@ -22,9 +22,9 @@ aliases:
 <tr><th>Confederation</th><td>CONCACAF</td></tr>
 <tr><th>Number of clubs</th><td>18</td></tr>
 <tr><th>Domestic cup</th><td>Canadian Championship</td></tr>
-<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
-<tr><th>Most championships</th><td><a href="/clubs/rouyn_noranda/">Rouyn-Noranda</a> & <a href="/clubs/locomotive/">Locomotive</a> (1)</td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/seasons/2024/">2024 La Ligue</a></td></tr>
+<tr><th>Current champions</th><td><a href="/clubs/locomotive/">Locomotive</a> (2)</td></tr>
+<tr><th>Most championships</th><td><a href="/clubs/locomotive/">Locomotive</a> (2)</td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/seasons/2025/">2025 La Ligue</a></td></tr>
 </table>
 </div>
 
@@ -177,7 +177,7 @@ Eighteen clubs compete in La Ligue. Only <a href="/clubs/hawkesbury_united/">Haw
       <td>Saint-Jérôme</td>
       <td>Stade Desjardins</td>
       <td>2022</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td><a href="/clubs/metaberoutin/" class="club-chip club-chip--metaberoutin">

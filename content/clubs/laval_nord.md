@@ -26,7 +26,7 @@ url: /clubs/laval_nord/
 {{< club_kit "laval_away.png" "Laval Nord away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/laval_nord/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/laval_nord/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -52,19 +52,19 @@ Laval Nord plays home matches at Parc Cartier in Laval.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Will Hall-Jones</td></tr>
-<tr><td>2</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Cutajar</td></tr>
-<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Morgan Breuil</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Tournier</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ivan Vicente</td></tr>
-<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikola Marković</td></tr>
-<tr><td>8</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tim Forsbach</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Overton</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fred Mukiele</td></tr>
-<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gilbert Bootsma</td></tr>
-<tr><td>12</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Andrews</td></tr>
-<tr><td>13</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Malo Lévêque</td></tr>
-<tr><td>23</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kévin Papon</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Noah Guth</td></tr>
+<tr><td>4</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Josh Morrison</td></tr>
+<tr><td>5</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Giacomo Sanna</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/gb-nir.svg" width="18"> NIR</td><td>Lewis Mooney</td></tr>
+<tr><td>8</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Darren Howell</td></tr>
+<tr><td>8</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Guillaume Ott</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Valentin Savitskiy</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ua.svg" width="18"> UKR</td><td>Oleh Sydorenko</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jack Ryan</td></tr>
+<tr><td>23</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Kévin Papon</td></tr>
+<tr><td>30</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Carlos Caldwell</td></tr>
+<tr><td>31</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Omar Chen</td></tr>
+<tr><td>32</td><td>CM</td><td><img src="/images/flags/ua.svg" width="18"> UKR</td><td>Dmytro Zubkov</td></tr>
 </tbody>
 </table>
 
@@ -73,18 +73,20 @@ Laval Nord plays home matches at Parc Cartier in Laval.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jack Ryan</td></tr>
-<tr><td>31</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Deyvid</td></tr>
-<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Davies</td></tr>
-<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Matt Joyce</td></tr>
-<tr><td>34</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Pierre Morisse</td></tr>
-<tr><td>35</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dean Blackburn</td></tr>
-<tr><td>36</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Iván Huerta</td></tr>
-<tr><td>37</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luc Gasser</td></tr>
-<tr><td>38</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kamil Ducasse</td></tr>
-<tr><td>39</td><td>RM</td><td><img src="/images/flags/gb-nir.svg" width="18" alt=""> NIR</td><td>Lewis Mooney</td></tr>
-<tr><td>40</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Killian Ruiz</td></tr>
-<tr><td>41</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paolo Morello</td></tr>
+<tr><td>33</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alain Zimmermann</td></tr>
+<tr><td>34</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Morgan Breuil</td></tr>
+<tr><td>35</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Matt Joyce</td></tr>
+<tr><td>36</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gilbert Bootsma</td></tr>
+<tr><td>37</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tim Forsbach</td></tr>
+<tr><td>38</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Killian Ruiz</td></tr>
+<tr><td>39</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Kamil Ducasse</td></tr>
+<tr><td>40</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Pierre Morisse</td></tr>
+<tr><td>41</td><td>CB</td><td><img src="/images/flags/ua.svg" width="18"> UKR</td><td>Vladyslav Davydov</td></tr>
+<tr><td>42</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dean Blackburn</td></tr>
+<tr><td>43</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paolo Morello</td></tr>
+<tr><td>44</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Iván Huerta</td></tr>
+<tr><td>45</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jarid Budd</td></tr>
+<tr><td>46</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Théo Gibert</td></tr>
 </tbody>
 </table>
 </div>

@@ -26,7 +26,7 @@ url: /clubs/cf_saint_jean/
 {{< club_kit "saintjean_away.png" "CF Saint-Jean away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/cf_saint_jean/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/cf_saint_jean/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -47,15 +47,14 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>4</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gregory Breuil</td></tr>
-<tr><td>6</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Milan Vukovic</td></tr>
-<tr><td>7</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jordan Alvarez</td></tr>
-<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fraser McArthur</td></tr>
-<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Toni Turkalj</td></tr>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Filip Cichoń</td></tr>
-<tr><td>31</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Eckerstorfer</td></tr>
-<tr><td>32</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Braulio Adriano</td></tr>
-<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nikhil Ralte</td></tr>
+<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Luigi Morbidoni</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mario Eckerstorfer</td></tr>
+<tr><td>7</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Braulio Adriano</td></tr>
+<tr><td>8</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Milan Vukovic</td></tr>
+<tr><td>10</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sonny Heraghty</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Will Barker</td></tr>
+<tr><td>31</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Filip Cichoń</td></tr>
+<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gregory Breuil</td></tr>
 </tbody>
 </table>
 
@@ -64,13 +63,13 @@ The club plays home matches at Stade Dupond Fort in Saint-Jean-sur-Richelieu.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jamie Coates</td></tr>
-<tr><td>35</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cédric Simon</td></tr>
-<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dorian Barthelemy</td></tr>
-<tr><td>40</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dean Palmer</td></tr>
-<tr><td>41</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ross Graham</td></tr>
-<tr><td>42</td><td>RB</td><td><img src="/images/flags/jm.svg" width="18" alt=""> JAM</td><td>Kemar Harvey</td></tr>
-<tr><td>43</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Henk Beltman</td></tr>
+<tr><td>34</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Cédric Simon</td></tr>
+<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dean Palmer</td></tr>
+<tr><td>36</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ross Graham</td></tr>
+<tr><td>37</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Rayan Bouillaguet</td></tr>
+<tr><td>38</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nikhil Ralte</td></tr>
+<tr><td>43</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dorian Barthelemy</td></tr>
+<tr><td>44</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Henk Beltman</td></tr>
 </tbody>
 </table>
 </div>
