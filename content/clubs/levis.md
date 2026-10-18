@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "levis_away.png" "Lévis away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/lévis/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/lévis/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,14 +49,15 @@ The club plays home matches at Stade de la Chaudière in Lévis.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tarik Besic</td></tr>
-<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Maytham Hussein</td></tr>
-<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Timo Jaatinen</td></tr>
-<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohammed Haidar</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tomislav Janković</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gianluigi Pasqualini</td></tr>
-<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Emanuel Alhassan</td></tr>
-<tr><td>12</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cristian Peduzzi</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Eliott Duhau</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Philip Purewal</td></tr>
+<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Timo Jaatinen</td></tr>
+<tr><td>7</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohammed Haidar</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tomislav Janković</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gianluigi Pasqualini</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Emanuel Alhassan</td></tr>
+<tr><td>12</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Cristian Peduzzi</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jesús Abad</td></tr>
 </tbody>
 </table>
 
@@ -65,13 +66,15 @@ The club plays home matches at Stade de la Chaudière in Lévis.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>14</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Théo Thomas</td></tr>
-<tr><td>31</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nathan Simpson</td></tr>
-<tr><td>32</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Veličković</td></tr>
-<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Philip Purewal</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cameron Larner</td></tr>
-<tr><td>37</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marco Berardi</td></tr>
-<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Paul Betts-Johnson</td></tr>
+<tr><td>14</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Théo Thomas</td></tr>
+<tr><td>30</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Raúl Franco</td></tr>
+<tr><td>31</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tarik Besic</td></tr>
+<tr><td>32</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nathan Simpson</td></tr>
+<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paul Betts-Johnson</td></tr>
+<tr><td>34</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Maytham Hussein</td></tr>
+<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gautier Tisserand</td></tr>
+<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tom Nelson</td></tr>
+<tr><td>43</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohamed Lefeuvre</td></tr>
 </tbody>
 </table>
 </div>
