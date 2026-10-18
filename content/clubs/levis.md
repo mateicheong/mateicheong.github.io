@@ -36,7 +36,7 @@ aliases:
 </div>
 
 ## History
-Club history paragraph.
+Lévis won the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a> in 2025.
 
 ## Stadium
 The club plays home matches at Stade de la Chaudière in Lévis.

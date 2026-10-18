@@ -22,7 +22,7 @@ aliases:
 <tr><th>Owner</th><td>Volodymyr Tremblay</td></tr>
 <tr><th>Head Coach</th><td>Andy Cook</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/zénith/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/zénith/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
