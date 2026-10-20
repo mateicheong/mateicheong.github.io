@@ -53,17 +53,16 @@ The club plays home matches at Stade de la Cité in Gatineau. Situated in the se
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Anestis Diamantis</td></tr>
-<tr><td>8</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Wilfried Dumas</td></tr>
-<tr><td>11</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Liam Rennicks</td></tr>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Derek Cooke</td></tr>
-<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>François Charbonnel</td></tr>
-<tr><td>32</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Valentino Vigorito</td></tr>
-<tr><td>33</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Abraham Sannoh</td></tr>
-<tr><td>34</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabrice Blachon</td></tr>
-<tr><td>35</td><td>RM</td><td><img src="/images/flags/co.svg" width="18" alt=""> COL</td><td>Jhon Orozco</td></tr>
-<tr><td>36</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nate Brown</td></tr>
-<tr><td>37</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nélson Correia</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joe Dowell</td></tr>
+<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tommy Ede</td></tr>
+<tr><td>5</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paul Andrews</td></tr>
+<tr><td>6</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Brandon Swinburn</td></tr>
+<tr><td>7</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Abraham Sannoh</td></tr>
+<tr><td>8</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Wilfried Dumas</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nick Woods</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>François Charbonnel</td></tr>
+<tr><td>11</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Liam Rennicks</td></tr>
+<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hubert Kowalksi</td></tr>
 </tbody>
 </table>
 
@@ -72,16 +71,16 @@ The club plays home matches at Stade de la Cité in Gatineau. Situated in the se
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>38</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Guillaume Heitz</td></tr>
-<tr><td>39</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohamed Ajith Kumara</td></tr>
-<tr><td>40</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marin Mijatović</td></tr>
-<tr><td>41</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Brian Soto</td></tr>
-<tr><td>42</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Savić</td></tr>
-<tr><td>44</td><td>LB</td><td><img src="/images/flags/jm.svg" width="18" alt=""> JAM</td><td>Wesley Calvert</td></tr>
-<tr><td>46</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alin Iordache</td></tr>
-<tr><td>47</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miguel Martin</td></tr>
-<tr><td>48</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Stuart Fink</td></tr>
-<tr><td>49</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Hall-Phillips</td></tr>
+<tr><td>13</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Valentino Vigorito</td></tr>
+<tr><td>14</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lucas Ozimec</td></tr>
+<tr><td>30</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Bill Anderson</td></tr>
+<tr><td>31</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Anestis Diamantis</td></tr>
+<tr><td>32</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nate Brown</td></tr>
+<tr><td>33</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tjeerd Inge</td></tr>
+<tr><td>34</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Derek Cooke</td></tr>
+<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nélson Correia</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mohamed Ajith Kumara</td></tr>
+<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nathanael Bossard</td></tr>
 </tbody>
 </table>
 </div>

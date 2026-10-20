@@ -47,17 +47,16 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Miloš Terzić</td></tr>
-<tr><td>3</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Calum Bennett</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luigi Massari</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Satoshi Omori</td></tr>
-<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Martin Marković</td></tr>
-<tr><td>7</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Hasan Ali Mohammed</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Tommaso Siciliano</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benoît Sueur</td></tr>
-<tr><td>11</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrés Aldao</td></tr>
-<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Semir Cibra</td></tr>
-<tr><td>14</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Michał Zientarski</td></tr>
+<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Miloš Terzić</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Luigi Massari</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Satoshi Omori</td></tr>
+<tr><td>6</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Léo Lamy</td></tr>
+<tr><td>7</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Maurizio Bisconti</td></tr>
+<tr><td>8</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Vyacheslav Kirillov</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Benoît Sueur</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marco Petrosino</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Roger Neal</td></tr>
+<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Semir Cibra</td></tr>
 </tbody>
 </table>
 
@@ -66,17 +65,14 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>18</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Sean Thorpe</td></tr>
-<tr><td>30</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Florentin Retailleau</td></tr>
-<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ryan Webb</td></tr>
-<tr><td>32</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Liam Higham</td></tr>
-<tr><td>33</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Vyacheslav Kirillov</td></tr>
-<tr><td>34</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ben Norris</td></tr>
-<tr><td>35</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jean-Louis Baptiste</td></tr>
-<tr><td>37</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Evan Jardim</td></tr>
-<tr><td>38</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Callum Glover</td></tr>
-<tr><td>39</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Or Ka Wai</td></tr>
-<tr><td>40</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Chris Ward</td></tr>
+<tr><td>13</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michael Powell</td></tr>
+<tr><td>18</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sean Thorpe</td></tr>
+<tr><td>30</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Martijn Strijbosch-Tukker</td></tr>
+<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hendrik Springer</td></tr>
+<tr><td>32</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Scott Nguyen</td></tr>
+<tr><td>37</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Callum Glover</td></tr>
+<tr><td>39</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Armand Barthelemy</td></tr>
+<tr><td>44</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Davide Viscomi</td></tr>
 </tbody>
 </table>
 </div>

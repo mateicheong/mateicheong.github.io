@@ -30,7 +30,7 @@ aliases:
 {{< club_kit "athletiquemontreal_away.png" "Athlétique de Montréal away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/athlétique_de_montréal/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -54,18 +54,18 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cian Henderson</td></tr>
-<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joshua Gould</td></tr>
-<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jannik Bruckert</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Damien Chalut Natal</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jacopo Dadina</td></tr>
-<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Lyonnet</td></tr>
-<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Yacine Zouaoui</td></tr>
-<tr><td>8</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alexandre Guimard</td></tr>
-<tr><td>9</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Thomas Connolly</td></tr>
-<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Marko Kovacevic</td></tr>
-<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roberto Castelnuovo</td></tr>
-<tr><td>12</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Ousmane Conté</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Xavier Bulle</td></tr>
+<tr><td>2</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hervé Guegan</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jannik Bruckert</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Damien Chalut Natal</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jacopo Dadina</td></tr>
+<tr><td>6</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Arnaud Lyonnet</td></tr>
+<tr><td>9</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Louka Gil</td></tr>
+<tr><td>10</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jorge Moreira</td></tr>
+<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Roberto Castelnuovo</td></tr>
+<tr><td>18</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andrew Mason</td></tr>
+<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Goran Petrić</td></tr>
+<tr><td>31</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gustavo Santacruz</td></tr>
 </tbody>
 </table>
 
@@ -74,18 +74,18 @@ On May 27, 2023, after a hugely disappointing start, Segura was sacked following
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>13</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jarid Budd</td></tr>
-<tr><td>18</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrew Mason</td></tr>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Goran Petrić</td></tr>
-<tr><td>31</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Nguyen</td></tr>
-<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andrea Longhi</td></tr>
-<tr><td>33</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Enrico Godói</td></tr>
-<tr><td>34</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Belaïd Cherifi</td></tr>
-<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Coen Westra</td></tr>
-<tr><td>39</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Massillon Chérestal</td></tr>
-<tr><td>40</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Maistrello</td></tr>
-<tr><td>41</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Titouan Masson</td></tr>
-<tr><td>43</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jason England</td></tr>
+<tr><td>33</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Yacine Zouaoui</td></tr>
+<tr><td>34</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Guillaume Heitz</td></tr>
+<tr><td>35</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Alexandre Guimard</td></tr>
+<tr><td>36</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Ousmane Conté</td></tr>
+<tr><td>37</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Rodrigo Marques</td></tr>
+<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Christian Maistrello</td></tr>
+<tr><td>39</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Paulo De Wilde</td></tr>
+<tr><td>40</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marc Coicou</td></tr>
+<tr><td>41</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jason England</td></tr>
+<tr><td>42</td><td>ST</td><td><img src="/images/flags/za.svg" width="18"> RSA</td><td>Buhle Sithole</td></tr>
+<tr><td>45</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andrija Đokić</td></tr>
+<tr><td>49</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Hasan Ali Mohammed</td></tr>
 </tbody>
 </table>
 </div>
