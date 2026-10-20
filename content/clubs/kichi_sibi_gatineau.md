@@ -28,7 +28,7 @@ aliases:
 {{< club_kit "kichisibi_away.png" "Kichi Sibi away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/kichi_sibi_gatineau/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/kichi_sibi_gatineau/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
