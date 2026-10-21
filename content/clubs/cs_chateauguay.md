@@ -5,7 +5,7 @@ draft: false
 url: /clubs/cs_chateauguay/
 ---
 
-# Club Sportif Châteauguay
+# CS Châteauguay
 
 <div class="club-lead">
 <div class="infobox infobox--cs-chateauguay">
@@ -34,10 +34,12 @@ url: /clubs/cs_chateauguay/
 </div>
 
 ## History
-Club history paragraph.
+CS Châteauguay was officially unveiled on May 18, 2022. As well as confirming their place in La Ligue for the inaugural season, the club also revealed their crest, colours and branding. Inspired by the major historical Battle of the Chateauguay in 1813, the club wears green military colours home and a half black and white away kit.
+
+Through 13 games, from the May 17 2025 to July 16 2025, Châteauguay failed to win a single match. The club ended the season 17th with 28 points. 
 
 ## Stadium
-The club plays home matches at Stade du Lac Saint-Louis in Châteauguay.
+The club plays home matches at Stade du Lac Saint-Louis in the south of Châteauguay close to the city of Mercier.
 
 ## Players & Staff
 #### First team squad

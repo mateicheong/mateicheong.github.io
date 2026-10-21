@@ -36,7 +36,7 @@ aliases:
 </div>
 
 ## History
-Lévis won the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a> in 2025.
+In 2025, Lévis won the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a> and qualified for the 2026 CONCACAF Champions Cup.
 
 ## Stadium
 The club plays home matches at Stade de la Chaudière in Lévis.

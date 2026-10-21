@@ -34,10 +34,14 @@ url: /clubs/club_du_fjord/
 </div>
 
 ## History
-Club history paragraph.
+In February 2022, it was first announced that a Saguenay team would join <a href="/competitions/la-ligue/">La Ligue</a> for the inaugural season. On October 27, 2022, the team name and branding was revealed. The name was inspired by the fjord part of the Saguenay river, and the logo features a whale fluke. Angel Kotar was named the inaugural head coach of the club.
+
+In 2023, a disappointing start saw Kotar get sacked after achieving only 2 wins in 13 games. Club du Fjord finished 16th in their first season and reached the Quarter Final of the <a href="/competitions/coupe_du_québec/">Coupe du Québec</a>.
+
+In 2025, Club du Fjord finished 2nd in La Ligue. The club spent $725,000 on eleven new players, the highest total amount paid out of all other clubs that season. New signing Slobodan Veselinović tied for first in goals scored in the league with 17. Club du Fjord also played in the Canadian Championship, unfortunately falling short in the first round against La Ligue opposition the <a href="/clubs/draveurs_sherbrooke/">Draveurs</a>.
 
 ## Stadium
-The club plays home matches at Stade Saguenay in Saguenay.
+The club plays home matches at Stade Saguenay with a capacity of 8,810.
 
 ## Players & Staff
 #### First team squad
