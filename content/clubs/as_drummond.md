@@ -26,18 +26,26 @@ url: /clubs/as_drummond/
 {{< club_kit "drummond_away.png" "AS Drummond away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/as_drummond/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/as_drummond/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
-<p class="club-lead-intro"><strong>AS Drummond</strong> is a professional football club based in Drummondville, Québec.</p>
+<p class="club-lead-intro"><strong>AS Drummond</strong> (L'Association de Soccer de Drummondville) is a professional football club based in Drummondville, Québec.</p>
 </div>
 
 ## History
-Club history paragraph.
+AS Drummond presented their branding ahead of their inaugural season, presenting yellow and black as their main colours, with the primary kit adorning stripes.
+For their first season, Haitian Canadian Martin Hughes was named as the team's head coach.
+
+During the first three seasons, AS Drummond has consistently ranked midtable in La Ligue.
+
+In the 2024 season, Drummondville reached the Coupe du Québec Semi Final.
+
+On March 28 2025, Drummondville native striker Aldo Morales was sold to Swedish team IF Elfsborg for a club record sale of $825,000.
 
 ## Stadium
-The club plays home matches at Stade Marchand in Drummondville.
+The club plays home matches at Stade Marchand in Drummondville. Since their foundation, every home game has been sold out.
+
 
 ## Players & Staff
 #### First team squad
@@ -47,15 +55,14 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Eric Dawson</td></tr>
-<tr><td>2</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Szymon Niemienionek</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Aldo Morales</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mohammad Rustom</td></tr>
-<tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lucas Ozimec</td></tr>
-<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jordan Barton</td></tr>
-<tr><td>30</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lewis Baldwin</td></tr>
-<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Arnaud Gil</td></tr>
-<tr><td>34</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gianmarco Franceschini</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joseph Adams</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joe Peake</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Markus Graf</td></tr>
+<tr><td>6</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Corentin Dumont</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Gianmarco Franceschini</td></tr>
+<tr><td>7</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>David Rowley</td></tr>
+<tr><td>9</td><td>CAM</td><td><img src="/images/flags/lb.svg" width="18"> LBN</td><td>Mohammad Rustom</td></tr>
+<tr><td>10</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dornell Lewis</td></tr>
 </tbody>
 </table>
 
@@ -64,15 +71,15 @@ The club plays home matches at Stade Marchand in Drummondville.
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>35</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Josh Morrison</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nathanael Bossard</td></tr>
-<tr><td>37</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dornell Lewis</td></tr>
-<tr><td>38</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Romain Aubert</td></tr>
-<tr><td>39</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>George Bostock</td></tr>
-<tr><td>40</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Corentin Dumont</td></tr>
-<tr><td>41</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Fabien Etcheberry</td></tr>
-<tr><td>42</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonin Maisonnave</td></tr>
-<tr><td>49</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Rayan Levy</td></tr>
+<tr><td>13</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jordan Barton</td></tr>
+<tr><td>30</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Lewis Baldwin</td></tr>
+<tr><td>31</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Romain Aubert</td></tr>
+<tr><td>32</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marko Vugrinec</td></tr>
+<tr><td>33</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Oliver Stevens</td></tr>
+<tr><td>35</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Mario Picariello</td></tr>
+<tr><td>36</td><td>LW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Luke Stewart</td></tr>
+<tr><td>37</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Juan Tena</td></tr>
+<tr><td>39</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Tony Schreuder</td></tr>
 </tbody>
 </table>
 </div>
