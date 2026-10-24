@@ -26,7 +26,7 @@ url: /clubs/bastions_de_quebec/
 {{< club_kit "bastions_away.png" "Bastions de Québec away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/bastions_de_quebec/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/bastions_de_quebec/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,15 +49,14 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Piotr Letniowski</td></tr>
-<tr><td>3</td><td>LB</td><td><img src="/images/flags/rs.svg" width="18" alt=""> SRB</td><td>Zoran Mirosavljević</td></tr>
-<tr><td>4</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Momir Đurić</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Roydean Herrera</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jack Barwick</td></tr>
-<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Cédric Castillo</td></tr>
-<tr><td>14</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christopher Campbell</td></tr>
-<tr><td>30</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jake Belcher-Heard</td></tr>
-<tr><td>31</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Carlos Caldwell</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sergio Mateo</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jon Howarth</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/rs.svg" width="18"> SRB</td><td>Zoran Mirosavljević</td></tr>
+<tr><td>5</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Roydean Herrera</td></tr>
+<tr><td>6</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Cristian Giuliani</td></tr>
+<tr><td>8</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jake Belcher-Heard</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Fred Mukiele</td></tr>
+<tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jamie Coates</td></tr>
 </tbody>
 </table>
 
@@ -66,13 +65,14 @@ The club plays home matches at Stade Beauport in Québec City. The original indo
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>32</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Christian Freimann</td></tr>
-<tr><td>33</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Antonio Raffaelli</td></tr>
-<tr><td>34</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dorian Giroud</td></tr>
-<tr><td>35</td><td>RB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Jon Howarth</td></tr>
-<tr><td>37</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Gordan Primorac</td></tr>
-<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Victor Trofimov</td></tr>
-<tr><td>39</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Scott Derbyshire</td></tr>
+<tr><td>14</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Christopher Campbell</td></tr>
+<tr><td>31</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Noah Guegan</td></tr>
+<tr><td>32</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Baptiste Berger</td></tr>
+<tr><td>33</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dorian Giroud</td></tr>
+<tr><td>34</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>David Kenny</td></tr>
+<tr><td>35</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Evan Jardim</td></tr>
+<tr><td>36</td><td>RW</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Matt Harden</td></tr>
+<tr><td>38</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Victor Trofimov</td></tr>
 </tbody>
 </table>
 </div>

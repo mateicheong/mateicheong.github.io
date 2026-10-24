@@ -26,7 +26,7 @@ url: /clubs/cs_chateauguay/
 {{< club_kit "chateauguay_away.png" "CS Châteauguay away kit" "Away colours" >}}
 </div>
 </td></tr>
-<tr><td class="infobox-season" colspan="2"><a href="/clubs/cs_chateauguay/2024/">Current Season</a></td></tr>
+<tr><td class="infobox-season" colspan="2"><a href="/clubs/cs_chateauguay/2025/">Current Season</a></td></tr>
 </table>
 </div>
 
@@ -49,17 +49,16 @@ The club plays home matches at Stade du Lac Saint-Louis in the south of Château
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Lee Clarke</td></tr>
-<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>José Boli</td></tr>
-<tr><td>5</td><td>CB</td><td><img src="/images/flags/ch.svg" width="18" alt=""> SUI</td><td>Keke Aznar</td></tr>
-<tr><td>6</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Nigel Wickham</td></tr>
-<tr><td>7</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Kylian Herrmann</td></tr>
-<tr><td>8</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Mario Grillo</td></tr>
-<tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Dustin Stearns</td></tr>
-<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Faris Skrijelj</td></tr>
-<tr><td>14</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Reece Mason</td></tr>
-<tr><td>17</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Muhammad Ullah</td></tr>
-<tr><td>22</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Andy Burton</td></tr>
+<tr><td>1</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Will Hall-Jones</td></tr>
+<tr><td>2</td><td>RB</td><td><img src="/images/flags/il.svg" width="18"> ISR</td><td>David Amsalem</td></tr>
+<tr><td>3</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>George Bostock</td></tr>
+<tr><td>4</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Luca Paradiso</td></tr>
+<tr><td>5</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Joe Hill</td></tr>
+<tr><td>6</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Nigel Wickham</td></tr>
+<tr><td>7</td><td>RM</td><td><img src="/images/flags/cz.svg" width="18"> CZE</td><td>David Jakubov</td></tr>
+<tr><td>9</td><td>ST</td><td><img src="/images/flags/jm.svg" width="18"> JAM</td><td>Kevin Haughton</td></tr>
+<tr><td>10</td><td>CAM</td><td><img src="/images/flags/ht.svg" width="18"> HAI</td><td>Henri Ardouin</td></tr>
+<tr><td>10</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Andrés Aldao</td></tr>
 </tbody>
 </table>
 
@@ -68,17 +67,16 @@ The club plays home matches at Stade du Lac Saint-Louis in the south of Château
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
-<tr><td>30</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Will Dickson</td></tr>
-<tr><td>31</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Leonardo Almaral</td></tr>
-<tr><td>32</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Luca Paradiso</td></tr>
-<tr><td>33</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Joe Hill</td></tr>
-<tr><td>34</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Baptiste Geffroy</td></tr>
-<tr><td>35</td><td>CAM</td><td><img src="/images/flags/ht.svg" width="18" alt=""> HAI</td><td>Henri Ardouin</td></tr>
-<tr><td>36</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Robert Kraljević</td></tr>
-<tr><td>39</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Benedikt Blümer</td></tr>
-<tr><td>40</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Carl Harris</td></tr>
-<tr><td>41</td><td>LB</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Alain Zimmermann</td></tr>
-<tr><td>42</td><td>CDM</td><td><img src="/images/flags/ca.svg" width="18" alt=""> CAN</td><td>Peterson Joseph</td></tr>
+<tr><td>12</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dustin Stearns</td></tr>
+<tr><td>13</td><td>CB</td><td><img src="/images/flags/ch.svg" width="18"> SUI</td><td>Keke Aznar</td></tr>
+<tr><td>14</td><td>CAM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Reece Mason</td></tr>
+<tr><td>30</td><td>RM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Erik Rushton</td></tr>
+<tr><td>31</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Jean-Max Basquiat</td></tr>
+<tr><td>32</td><td>CM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Dino Dervišević</td></tr>
+<tr><td>32</td><td>LM</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Clive Clunan</td></tr>
+<tr><td>36</td><td>CB</td><td><img src="/images/flags/ht.svg" width="18"> HAI</td><td>Jacques Neptune</td></tr>
+<tr><td>41</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Robert Kraljević</td></tr>
+<tr><td>43</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>José Boli</td></tr>
 </tbody>
 </table>
 </div>

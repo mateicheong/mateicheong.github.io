@@ -17,7 +17,7 @@ url: /clubs/hawkesbury_united/
 <tr><th>Founded</th><td>2022</td></tr>
 <tr><th>Stadium</th><td>Robert Harley Stadium</td></tr>
 <tr><th>Capacity</th><td>3,380</td></tr>
-<tr><th>Owner</th><td>Cole Pugh</td></tr>
+<tr><th>Owner</th><td>Lionel Blanchis</td></tr>
 <tr><th>Head Coach</th><td>Luke Jones</td></tr>
 <tr><th>League</th><td><a href="/competitions/la-ligue/">La Ligue</a></td></tr>
 <tr><td class="infobox-kits-cell" colspan="2">

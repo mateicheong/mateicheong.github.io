@@ -56,7 +56,6 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><td>9</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Benoît Sueur</td></tr>
 <tr><td>10</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Marco Petrosino</td></tr>
 <tr><td>11</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Roger Neal</td></tr>
-<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Semir Cibra</td></tr>
 </tbody>
 </table>
 
@@ -65,6 +64,7 @@ The club plays home matches at Stade Fernand-Grenier in Lac-Mégantic. With a ca
 <tr><th>No.</th><th>Pos.</th><th>Nation</th><th>Player</th></tr>
 </thead>
 <tbody>
+<tr><td>12</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Semir Cibra</td></tr>
 <tr><td>13</td><td>CB</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Michael Powell</td></tr>
 <tr><td>18</td><td>GK</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Sean Thorpe</td></tr>
 <tr><td>30</td><td>ST</td><td><img src="/images/flags/ca.svg" width="18"> CAN</td><td>Martijn Strijbosch-Tukker</td></tr>
